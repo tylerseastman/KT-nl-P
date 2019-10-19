@@ -1,0 +1,1131 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "B4E16C26-D6F6-4004-A89F-5C6B9924D493",
+            "type": "message",
+            "text": "I actually also really liked mine (diff video but same series) and I rarely get into stuff like this",
+            "user": "U7G9GQHL0",
+            "ts": "1571343415.003900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571265818.001800",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "user": "U7CUU7293",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571330924.002900",
+            "text": "<@U7CUU7293> has joined the channel"
+        },
+        {
+            "client_msg_id": "722861CB-3AB1-499E-9910-3FD646D796FC",
+            "type": "message",
+            "text": "honestly super dope podcast series",
+            "user": "U7DUZ8FGF",
+            "ts": "1571330667.002600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571265818.001800",
+            "parent_user_id": "U7DUZ8FGF",
+            "reactions": [
+                {
+                    "name": "point_up_2",
+                    "users": [
+                        "U950LFMBL"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6bc2b1f9-0185-4845-87dc-12a219228624",
+            "type": "message",
+            "text": "prof hogg is proud you're doing your hw lol",
+            "user": "U950LFMBL",
+            "ts": "1571330509.002000",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U950LFMBL",
+                "ts": "1571330534.000000"
+            },
+            "thread_ts": "1571265818.001800",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "8ab26f4e-00c9-4377-a804-73806c264dee",
+            "type": "message",
+            "text": "this is a super dope limited video series which basically talks about product design and design thinking. I just watched the episode where they interview Ian Spalter from instagram, and it was pretty informative. if you guys like playing random videos in the background, I would def recommend this <https:\/\/www.highresolution.design\/>",
+            "user": "U7DUZ8FGF",
+            "ts": "1571265818.001800",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "High Resolution Podcast",
+                    "title_link": "https:\/\/www.highresolution.design\/",
+                    "text": "High Resolution is a video podcast series with 25 masters of the design industry hosted by Bobby Ghoshal and Jared Erondu. Learn how the world's best companies approach, communicate and deploy design.",
+                    "fallback": "High Resolution Podcast",
+                    "thumb_url": "http:\/\/static1.squarespace.com\/static\/583f9058d2b85731b871f6b4\/t\/589421bc1b10e322367bd194\/1486102975103\/highressocial.png?format=1500w",
+                    "from_url": "https:\/\/www.highresolution.design\/",
+                    "thumb_width": 600,
+                    "thumb_height": 315,
+                    "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/583f9058d2b85731b871f6b4\/1486100140881-IKH6K59WTN047B11W0BB\/ke17ZwdGBToddI8pDm48kJycfsYb1urLU93EpFqOTQmoCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8Wp7zww8OjRrqjaM7_0x6HDLp42EP6IAa5vAmscK3sHI4MkNL5tmfZ3otlI9yi1IzH2Q\/favicon.ico",
+                    "service_name": "highresolution.design",
+                    "id": 1,
+                    "original_url": "https:\/\/www.highresolution.design\/"
+                }
+            ],
+            "thread_ts": "1571265818.001800",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1571343415.003900",
+            "reply_users": [
+                "U950LFMBL",
+                "U7DUZ8FGF",
+                "U7G9GQHL0"
+            ],
+            "replies": [
+                {
+                    "user": "U950LFMBL",
+                    "ts": "1571330509.002000"
+                },
+                {
+                    "user": "U7DUZ8FGF",
+                    "ts": "1571330667.002600"
+                },
+                {
+                    "user": "U7G9GQHL0",
+                    "ts": "1571343415.003900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "764b8d45-026a-4955-b01a-c6058ea479df",
+            "type": "message",
+            "text": "im obsessed w you both",
+            "user": "UFZ4XJUJY",
+            "ts": "1571189751.006700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571182984.005300",
+            "parent_user_id": "UFYHF39PA"
+        },
+        {
+            "client_msg_id": "3FDEC048-80F3-4B78-88F6-60A068A3A112",
+            "type": "message",
+            "text": "Postponing until next week, hope everyone has a good night :) ",
+            "user": "UFYHF39PA",
+            "ts": "1571183007.006200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "Us when no one shows up to <#C7BFVKRQ8|design>:",
+            "files": [
+                {
+                    "id": "FP1UQLYG2",
+                    "created": 1571182984,
+                    "timestamp": 1571182984,
+                    "name": "File from iOS.MOV",
+                    "title": "File from iOS",
+                    "mimetype": "video\/quicktime",
+                    "filetype": "mov",
+                    "pretty_type": "QuickTime Movie",
+                    "user": "UFYHF39PA",
+                    "editable": false,
+                    "size": 14519928,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP1UQLYG2\/file_from_ios.mov",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP1UQLYG2\/download\/file_from_ios.mov",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFYHF39PA\/FP1UQLYG2\/file_from_ios.mov",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP1UQLYG2-57f3203815",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFYHF39PA",
+            "display_as_bot": false,
+            "ts": "1571182984.005300",
+            "client_msg_id": "D86808AC-4700-43DF-99FB-E7D66062B959",
+            "thread_ts": "1571182984.005300",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1571189751.006700",
+            "reply_users": [
+                "UFZ4XJUJY"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ4XJUJY",
+                    "ts": "1571189751.006700"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "cry",
+                    "users": [
+                        "U94T1U76F",
+                        "U7C5RPUTS",
+                        "UFZ4XJUJY",
+                        "UNLJSV2NQ",
+                        "UD70YDRJ9",
+                        "U7EKJT35Y"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9d7957f7-2fc6-4111-9c47-2776b3fb5878",
+            "type": "message",
+            "text": "See you all in 30 mins :smiling_imp::face_with_cowboy_hat:",
+            "user": "UFZ6CG58B",
+            "ts": "1571178688.004800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c2062fb4-92d5-4538-ac70-cccfdbd431c9",
+            "type": "message",
+            "text": "<!channel> Kelley and I will see you at design tonight!!!!!!!! :drake_yes: ^^^^^",
+            "user": "UFZ6CG58B",
+            "ts": "1571169145.004200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "d1708ab2-25fe-4b45-8e76-70042fb39f7c",
+            "type": "message",
+            "text": "Heyyy everyone!! It's our favorite day of the week! DESIGN MEETING DAY!!! Join us tonight at* 7:00 pm EST in at East Quad room B834!* We're going to be covering some *super important design \/ product management* concepts like *scoping, crafting problem statements, and conducting valuable iterative research*! If you haven't had the chance to join us, please come through! XOXO - Kelley :kiss:",
+            "user": "UFYHF39PA",
+            "ts": "1571166080.003500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ6CG58B",
+                        "U7C661T32",
+                        "UNM34J2CQ"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "user": "UFZCS8WRF",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570669050.003000",
+            "text": "<@UFZCS8WRF> has joined the channel"
+        },
+        {
+            "client_msg_id": "BB99C922-3BAA-47D3-8A3C-8E1C358598B7",
+            "type": "message",
+            "text": "<#C7BFVKRQ8|design> is in room 2454 in Mason! ",
+            "user": "UFZ6CG58B",
+            "ts": "1570668401.002800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "F2B13506-AB3F-4AA3-9F46-93D9A4567EE8",
+            "type": "message",
+            "text": "Hey all! <#C7BFVKRQ8|design> is at 9pm tonight in Mason Hall! I will let you know the exact room at like 8:40, but that is where we are meeting. Bring pencils\/ paper, and cant wait to see you all :star-struck::star-struck: ",
+            "user": "UFZ6CG58B",
+            "ts": "1570665163.002300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM34J2CQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570660100.000200",
+            "text": "<@UNM34J2CQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "158fbc21-de4f-4638-975e-1e14fc51e4d5",
+            "type": "message",
+            "text": "Sorry for the inconvenience, but we hope to see you all there tomorrow night!",
+            "user": "UFZ6CG58B",
+            "ts": "1570563312.004900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "5388ce5e-b1f2-469d-a47f-f2326ee980b3",
+            "type": "message",
+            "text": "Hey all! Sorry for the late but <#C7BFVKRQ8|design> will be pushed back to tomorrow night at 9pm after Quant. As Kelley said earlier, we're going to be learning about user research methods and defining our problem\/scope!",
+            "user": "UFZ6CG58B",
+            "ts": "1570563275.004400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1::skin-tone-2",
+                    "users": [
+                        "U7C5RPUTS",
+                        "UD70WD9QV",
+                        "UNM35U221",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "user": "UNM34JWAC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570459137.000200",
+            "text": "<@UNM34JWAC> has joined the channel"
+        },
+        {
+            "client_msg_id": "652ae905-3ae0-48bd-b24b-b449d9b8def9",
+            "type": "message",
+            "text": "<https:\/\/lawsofux.com>",
+            "user": "UFZ6CG58B",
+            "ts": "1570422436.010100",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Laws of UX",
+                    "title": "Home | Laws of UX",
+                    "title_link": "https:\/\/lawsofux.com\/",
+                    "text": "Laws of UX is a collection of the maxims and principles that designers can consider when building user interfaces. It was created by &lt;a href='http:\/\/jonyablonski.com'&gt;Jon Yablonski&lt;\/a&gt;.",
+                    "fallback": "Laws of UX: Home | Laws of UX",
+                    "image_url": "https:\/\/lawsofux.com\/images\/social_1024.jpg",
+                    "from_url": "https:\/\/lawsofux.com\/",
+                    "image_width": 500,
+                    "image_height": 250,
+                    "image_bytes": 62000,
+                    "service_icon": "https:\/\/lawsofux.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/lawsofux.com"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "d12257b8-dc2a-4d71-b37d-8bec5e142766",
+            "type": "message",
+            "text": "Yo thank you, i'll look into all of them!",
+            "user": "U7DUZ8FGF",
+            "ts": "1570421310.009800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "f8a90bf4-442d-4e9b-a855-1587022eae2e",
+            "type": "message",
+            "text": "and one more typography: <https:\/\/www.canva.com\/learn\/typography-terms\/>",
+            "user": "U7GA9464W",
+            "ts": "1570418132.009500",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Learn",
+                    "title": "A beautifully illustrated glossary of typographic terms you should know \u2013 Learn",
+                    "title_link": "https:\/\/www.canva.com\/learn\/typography-terms\/",
+                    "text": "A complete guide to type terms \u2013 illustrated.",
+                    "fallback": "Learn: A beautifully illustrated glossary of typographic terms you should know \u2013 Learn",
+                    "image_url": "https:\/\/www.canva.com\/learn\/wp-content\/uploads\/2015\/07\/A-Beautifully-Illustrated-Glossary-Of-Typograpic-Terms-You-Should-Know_02_Test.png",
+                    "image_width": 891,
+                    "image_height": 250,
+                    "ts": 1437321658,
+                    "from_url": "https:\/\/www.canva.com\/learn\/typography-terms\/",
+                    "image_bytes": 520497,
+                    "service_icon": "https:\/\/static.canva.com\/static\/images\/apple-touch-120x120.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.canva.com\/learn\/typography-terms\/"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "83dc133a-3e81-41d4-b81e-006b36885415",
+            "type": "message",
+            "text": "and for color theory: <https:\/\/www.khanacademy.org\/partner-content\/pixar\/color>",
+            "user": "U7GA9464W",
+            "ts": "1570418108.009200",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Khan Academy",
+                    "title_link": "https:\/\/www.khanacademy.org\/partner-content\/pixar\/color",
+                    "text": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+                    "fallback": "Khan Academy",
+                    "image_url": "https:\/\/cdn.kastatic.org\/images\/khan-logo-dark-background.new.png",
+                    "from_url": "https:\/\/www.khanacademy.org\/partner-content\/pixar\/color",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 10225,
+                    "service_icon": "https:\/\/cdn.kastatic.org\/images\/apple-touch-icon-57x57-precomposed.new.png",
+                    "service_name": "khanacademy.org",
+                    "id": 1,
+                    "original_url": "https:\/\/www.khanacademy.org\/partner-content\/pixar\/color"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "bff68fba-0b01-4473-8d55-82f7b6e3c8b6",
+            "type": "message",
+            "text": "and: <https:\/\/shape.method.ac\/>",
+            "user": "U7GA9464W",
+            "ts": "1570418096.008900",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Shape Type, the letter shaping game",
+                    "title_link": "https:\/\/shape.method.ac\/",
+                    "text": "A typography game",
+                    "fallback": "Shape Type, the letter shaping game",
+                    "image_url": "http:\/\/shape.method.ac\/ogimage.png",
+                    "from_url": "https:\/\/shape.method.ac\/",
+                    "image_width": 275,
+                    "image_height": 250,
+                    "image_bytes": 18170,
+                    "service_name": "shape.method.ac",
+                    "id": 1,
+                    "original_url": "https:\/\/shape.method.ac\/"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "c1760af1-cb92-4098-970f-2ee38f8773a4",
+            "type": "message",
+            "text": "as well as: <https:\/\/type.method.ac\/#>",
+            "user": "U7GA9464W",
+            "ts": "1570418085.008600",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Kern Type, the kerning game",
+                    "title_link": "https:\/\/type.method.ac\/",
+                    "text": "A game that helps you learn to kern type",
+                    "fallback": "Kern Type, the kerning game",
+                    "from_url": "https:\/\/type.method.ac\/",
+                    "thumb_url": "http:\/\/type.method.ac\/ogimage.png",
+                    "thumb_width": 150,
+                    "thumb_height": 150,
+                    "service_icon": "https:\/\/type.method.ac\/favicon.ico",
+                    "service_name": "type.method.ac",
+                    "id": 1,
+                    "original_url": "https:\/\/type.method.ac\/#"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "24f35530-0ebf-4941-ad88-cb8edd5afa58",
+            "type": "message",
+            "text": "and for typography: <https:\/\/practicaltypography.com\/>",
+            "user": "U7GA9464W",
+            "ts": "1570418070.008400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "90d26e2b-a6c4-453c-93ae-7ee973105517",
+            "type": "message",
+            "text": "and also: <https:\/\/material.io\/>",
+            "user": "U7GA9464W",
+            "ts": "1570418053.008100",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Material Design",
+                    "title": "Homepage",
+                    "title_link": "https:\/\/material.io\/",
+                    "text": "Build beautiful, usable products faster. Material Design is an adaptable system\u2014backed by open-source code\u2014that helps teams build high quality digital experiences.",
+                    "fallback": "Material Design: Homepage",
+                    "thumb_url": "https:\/\/material.io\/static\/spec\/images\/share.png",
+                    "from_url": "https:\/\/material.io\/",
+                    "thumb_width": 1200,
+                    "thumb_height": 630,
+                    "service_icon": "https:\/\/material.io\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/material.io\/"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "b3f4add2-943c-4bfe-b26f-9c00fa1f7591",
+            "type": "message",
+            "text": "and: <https:\/\/www.uxbooth.com\/articles\/complete-beginners-guide-to-interaction-design\/>",
+            "user": "U7GA9464W",
+            "ts": "1570418035.007800",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Complete Beginner's Guide to Interaction Design | UX Booth",
+                    "title_link": "https:\/\/www.uxbooth.com\/articles\/complete-beginners-guide-to-interaction-design\/",
+                    "text": "Ready to get your feet wet in Interaction Design? In this article we touch briefly on all aspects of Interaction Design: the deliverables, guiding principles, noted designers, their tools and more. Even if you're an interaction designer yourself, give the article a read and share your thoughts.",
+                    "fallback": "Complete Beginner's Guide to Interaction Design | UX Booth",
+                    "image_url": "https:\/\/assets.uxbooth.com\/uploads\/2018\/08\/Screen-Shot-2018-04-18-at-9.52.03-PM.png",
+                    "from_url": "https:\/\/www.uxbooth.com\/articles\/complete-beginners-guide-to-interaction-design\/",
+                    "image_width": 405,
+                    "image_height": 250,
+                    "image_bytes": 117242,
+                    "service_icon": "https:\/\/www.uxbooth.com\/favicon.ico",
+                    "service_name": "uxbooth.com",
+                    "id": 1,
+                    "original_url": "https:\/\/www.uxbooth.com\/articles\/complete-beginners-guide-to-interaction-design\/"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "b7a3bb01-0c83-4dbd-9538-e5dbb720577e",
+            "type": "message",
+            "text": "also: <https:\/\/hackdesign.org\/lessons101>",
+            "user": "U7GA9464W",
+            "ts": "1570418006.007500",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Design Lessons 101 - Hack Design",
+                    "title_link": "https:\/\/hackdesign.org\/lessons101",
+                    "text": "Learn how to get started in design. Featuring 50+ lessons from top designers.",
+                    "fallback": "Design Lessons 101 - Hack Design",
+                    "from_url": "https:\/\/hackdesign.org\/lessons101",
+                    "service_icon": "https:\/\/hackdesign.org\/favicon.ico",
+                    "service_name": "hackdesign.org",
+                    "id": 1,
+                    "original_url": "https:\/\/hackdesign.org\/lessons101"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "a6119cf8-c4a6-4d93-8c08-ca6dde7e49d1",
+            "type": "message",
+            "text": "<https:\/\/www.youtube.com\/channel\/UCVyRiMvfUNMA1UPlDPzG5Ow> I like this guy but idk anything about design so idk who credible he is",
+            "user": "U7GA9464W",
+            "ts": "1570417971.007200",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "title": "DesignCourse",
+                    "title_link": "https:\/\/www.youtube.com\/channel\/UCVyRiMvfUNMA1UPlDPzG5Ow",
+                    "text": "<https:\/\/coursetro.com> New videos weekly from Monday to Thursday @ 10:30 AM ET! Hi, I'm Gary. I've created close to 100 courses from graphic design to advance...",
+                    "fallback": "YouTube: DesignCourse",
+                    "thumb_url": "https:\/\/yt3.ggpht.com\/a\/AGF-l7-o7kerdDSATMKwSTOyOznS6OM5-2JCcvDt1g=s900-c-k-c0xffffffff-no-rj-mo",
+                    "from_url": "https:\/\/www.youtube.com\/channel\/UCVyRiMvfUNMA1UPlDPzG5Ow",
+                    "thumb_width": 900,
+                    "thumb_height": 900,
+                    "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.youtube.com\/channel\/UCVyRiMvfUNMA1UPlDPzG5Ow"
+                }
+            ],
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "75e9d409-5375-4122-b8f2-eb8f996969f4",
+            "type": "message",
+            "text": "any specific youtubers or series you'd recommend?",
+            "user": "U7DUZ8FGF",
+            "ts": "1570417822.007000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "8013e5a3-363f-4725-9f47-dc14e0308e7e",
+            "type": "message",
+            "text": "youtube",
+            "user": "U7GA9464W",
+            "ts": "1570417761.006800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "8fd7eb71-7658-40b4-8321-4c39d99c4c6c",
+            "type": "message",
+            "text": "design design. like UX\/UI",
+            "user": "U7DUZ8FGF",
+            "ts": "1570417251.006600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "9fdc9d59-9085-4377-825b-f0a1f97eddfb",
+            "type": "message",
+            "text": "do u mean like design design, or writing code to build components?",
+            "user": "U7GB5CTNY",
+            "ts": "1570417231.006400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "parent_user_id": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "cd39b715-887a-4074-844a-4d48e107bafb",
+            "type": "message",
+            "text": "does anyone know of any sites that can teach you basics about design? like it'll help teach you designing a web page or a menu or stuff like that",
+            "user": "U7DUZ8FGF",
+            "ts": "1570416365.006300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570416365.006300",
+            "reply_count": 15,
+            "reply_users_count": 4,
+            "latest_reply": "1570422436.010100",
+            "reply_users": [
+                "U7GB5CTNY",
+                "U7DUZ8FGF",
+                "U7GA9464W",
+                "UFZ6CG58B"
+            ],
+            "replies": [
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1570417231.006400"
+                },
+                {
+                    "user": "U7DUZ8FGF",
+                    "ts": "1570417251.006600"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570417761.006800"
+                },
+                {
+                    "user": "U7DUZ8FGF",
+                    "ts": "1570417822.007000"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570417971.007200"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418006.007500"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418035.007800"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418053.008100"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418070.008400"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418085.008600"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418096.008900"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418108.009200"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570418132.009500"
+                },
+                {
+                    "user": "U7DUZ8FGF",
+                    "ts": "1570421310.009800"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1570422436.010100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "1abd9cf4-513b-46da-ab9a-6cf730896a23",
+            "type": "message",
+            "text": "Hey lovely people! <#C7BFVKRQ8|design> is meeting this *tuesday, 7-8 pm in EQ B810!!!!* if you didn't get to join us last week, we left with some homework: compile a list of everyday problems in your life or the life of someone else (spoiler: we're going to eventually build digital solutions off of them).  I unfortunately won't be able to join this week, but we're going to be learning about *user research methods* and defining our *problem\/scope!* It's going to be a great time, come thruuu!!!!",
+            "user": "UFYHF39PA",
+            "ts": "1570403662.004900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7CCD0B57-1204-44C2-BAAE-86C0C0E1638B",
+            "type": "message",
+            "text": "<@UFZ4XJUJY> meee",
+            "user": "UD70WD9QV",
+            "ts": "1569983575.003000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569976903.001800",
+            "parent_user_id": "UFZ6CG58B",
+            "reactions": [
+                {
+                    "name": "heart_eyes",
+                    "users": [
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "35bb112b-f5a8-45a6-97c9-ecb0a14b7121",
+            "type": "message",
+            "text": "Thank youuu! Is anyone looking for a partner\/group member for a design project?",
+            "user": "UFZ4XJUJY",
+            "ts": "1569978570.002400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569976903.001800",
+            "parent_user_id": "UFZ6CG58B"
+        },
+        {
+            "client_msg_id": "b20e75f1-5632-40a0-95b1-c431416aeed6",
+            "type": "message",
+            "text": "Thank you to everyone who came tonight! If you missed design tonight, but would like to see what we did or just want access to the slides here is the link! <https:\/\/docs.google.com\/presentation\/d\/1_0jcoj0u5j5mHgYS09GN95GIEB1jvPAVANAMPxoISpo\/edit?usp=sharing>",
+            "user": "UFZ6CG58B",
+            "ts": "1569976903.001800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569976903.001800",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1569983575.003000",
+            "reply_users": [
+                "UFZ4XJUJY",
+                "UD70WD9QV"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ4XJUJY",
+                    "ts": "1569978570.002400"
+                },
+                {
+                    "user": "UD70WD9QV",
+                    "ts": "1569983575.003000"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4XJUJY",
+                        "UNLJT07EG",
+                        "UFYHF39PA",
+                        "UD70WD9QV",
+                        "UG0MXJAS2"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "user": "U7CTEEYDS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569943950.000500",
+            "text": "<@U7CTEEYDS> has joined the channel"
+        },
+        {
+            "user": "UN9JL25AP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569940385.000200",
+            "text": "<@UN9JL25AP> has joined the channel"
+        },
+        {
+            "user": "UNM35U221",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569863240.000500",
+            "text": "<@UNM35U221> has joined the channel"
+        },
+        {
+            "user": "U962G13QX",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569851182.000200",
+            "text": "<@U962G13QX> has joined the channel"
+        },
+        {
+            "client_msg_id": "33a34981-88c7-4b82-9b15-866717b92d95",
+            "type": "message",
+            "text": "just did :thumbsup_parrot:",
+            "user": "U950LFMBL",
+            "ts": "1569810573.007700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569662551.000100",
+            "parent_user_id": "U950LFMBL"
+        },
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569808719.007400",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "type": "message",
+            "subtype": "thread_broadcast",
+            "text": ":eyes: FYI - we will be meeting *weekly at 7:30* for the rest of the semester to develop an end-to-end digital product that will be the \/centerpiece\/ of your UX portfolio!! (cough cough prospective SI and potential front-end developers) Come through!",
+            "user": "UFYHF39PA",
+            "ts": "1569805606.006600",
+            "thread_ts": "1569805270.006000",
+            "root": {
+                "client_msg_id": "8fcfe8d3-754f-4bed-a6e2-767073183cd9",
+                "type": "message",
+                "text": "<!channel> Hey Hey Hey guys get HYPE for the first <#C7BFVKRQ8|design> meeting!!! :sparkles:This *Tuesday, October 1st*, myself and the legendary <@UFZ6CG58B> are kicking off this year's DESIGN COMMITTEE!!! :tada: Meet us at *East Quad Room 1511 at 7:30* for a fun intro to UX design! :star-struck: We're going to be covering a plethora of UX research methodologies, problem scoping, digital wireframing\/prototyping\/mockup-ing, portfolio development, and pitching a digital solution to a real-world problem!!! :fire: It's gonna be lit!!",
+                "user": "UFYHF39PA",
+                "ts": "1569805270.006000",
+                "team": "T4XRFB7FF",
+                "edited": {
+                    "user": "UFYHF39PA",
+                    "ts": "1569805285.000000"
+                },
+                "thread_ts": "1569805270.006000",
+                "reply_count": 1,
+                "reply_users_count": 1,
+                "latest_reply": "1569805606.006600",
+                "reply_users": [
+                    "UFYHF39PA"
+                ],
+                "replies": [
+                    {
+                        "user": "UFYHF39PA",
+                        "ts": "1569805606.006600"
+                    }
+                ],
+                "subscribed": false
+            },
+            "client_msg_id": "92581fc0-2065-454f-86d5-7668f0f747f3",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7C661T32",
+                        "UFZ6CG58B",
+                        "UD70WD9QV",
+                        "UFZ4XJUJY",
+                        "UG0MXJAS2"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "8fcfe8d3-754f-4bed-a6e2-767073183cd9",
+            "type": "message",
+            "text": "<!channel> Hey Hey Hey guys get HYPE for the first <#C7BFVKRQ8|design> meeting!!! :sparkles:This *Tuesday, October 1st*, myself and the legendary <@UFZ6CG58B> are kicking off this year's DESIGN COMMITTEE!!! :tada: Meet us at *East Quad Room 1511 at 7:30* for a fun intro to UX design! :star-struck: We're going to be covering a plethora of UX research methodologies, problem scoping, digital wireframing\/prototyping\/mockup-ing, portfolio development, and pitching a digital solution to a real-world problem!!! :fire: It's gonna be lit!!",
+            "user": "UFYHF39PA",
+            "ts": "1569805270.006000",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "UFYHF39PA",
+                "ts": "1569805285.000000"
+            },
+            "thread_ts": "1569805270.006000",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1569805606.006600",
+            "reply_users": [
+                "UFYHF39PA"
+            ],
+            "replies": [
+                {
+                    "user": "UFYHF39PA",
+                    "ts": "1569805606.006600"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "lower_left_fountain_pen",
+                    "users": [
+                        "U7GB5CTNY",
+                        "UD70YDRJ9",
+                        "U7C661T32",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "fire",
+                    "users": [
+                        "U7GB5CTNY",
+                        "U7C661T32",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "electric_plug",
+                    "users": [
+                        "U7GB5CTNY",
+                        "U7C661T32",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7924a5bc-fafc-4907-ab2d-3939043edd81",
+            "type": "message",
+            "text": "<https:\/\/forms.gle\/1tBJeZdVauAdeGtF7>",
+            "user": "U7CFFQACR",
+            "ts": "1569776690.000500",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Google Forms - create and analyze surveys, for free.",
+                    "title_link": "https:\/\/forms.gle\/1tBJeZdVauAdeGtF7",
+                    "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                    "fallback": "Google Forms - create and analyze surveys, for free.",
+                    "from_url": "https:\/\/forms.gle\/1tBJeZdVauAdeGtF7",
+                    "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                    "service_name": "accounts.google.com",
+                    "id": 1,
+                    "original_url": "https:\/\/forms.gle\/1tBJeZdVauAdeGtF7"
+                }
+            ],
+            "thread_ts": "1569662551.000100",
+            "parent_user_id": "U950LFMBL"
+        },
+        {
+            "client_msg_id": "b6c7c3ba-f8b2-49c0-adf1-32acd8e5b63b",
+            "type": "message",
+            "text": "looks great",
+            "user": "U7CFFQACR",
+            "ts": "1569776680.000300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569662551.000100",
+            "parent_user_id": "U950LFMBL"
+        },
+        {
+            "client_msg_id": "2b8e389b-4031-4594-b5d3-961217bb7a41",
+            "type": "message",
+            "text": "pls upload to link!!!!",
+            "user": "U7CFFQACR",
+            "ts": "1569776676.000100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569662551.000100",
+            "parent_user_id": "U950LFMBL"
+        },
+        {
+            "client_msg_id": "6f760b3b-9dea-4c80-a3e1-0b636d085d2e",
+            "type": "message",
+            "text": "does anyone understand what low-level features are?",
+            "user": "UD7SGH4FR",
+            "ts": "1569723071.000500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "DE0C17AB-2554-4991-B1A2-E3DD90370827",
+            "type": "message",
+            "text": "Looks great!",
+            "user": "UFZ6CG58B",
+            "ts": "1569674269.000300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569662551.000100",
+            "parent_user_id": "U950LFMBL"
+        },
+        {
+            "client_msg_id": "016f35e4-8844-4d10-881a-159b3ab7d90c",
+            "type": "message",
+            "text": "tried playing around with the design, lmk what you guys think I can fix",
+            "user": "U950LFMBL",
+            "ts": "1569662984.000400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569662551.000100",
+            "parent_user_id": "U950LFMBL"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNN859XGR",
+                    "created": 1569662548,
+                    "timestamp": 1569662548,
+                    "name": "KTP-White-Claw.png",
+                    "title": "KTP-White-Claw.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U950LFMBL",
+                    "editable": false,
+                    "size": 436958,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNN859XGR\/ktp-white-claw.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNN859XGR\/download\/ktp-white-claw.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 343,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 458,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 686,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNN859XGR-cd5d06c909\/ktp-white-claw_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 763,
+                    "image_exif_rotation": 1,
+                    "original_w": 945,
+                    "original_h": 901,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U950LFMBL\/FNN859XGR\/ktp-white-claw.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNN859XGR-fc7b316fc7",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U950LFMBL",
+            "display_as_bot": false,
+            "ts": "1569662551.000100",
+            "client_msg_id": "a0cbb047-d551-4cb7-8f27-048901900ab0",
+            "thread_ts": "1569662551.000100",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1569810573.007700",
+            "reply_users": [
+                "U950LFMBL",
+                "UFZ6CG58B",
+                "U7CFFQACR"
+            ],
+            "replies": [
+                {
+                    "user": "U950LFMBL",
+                    "ts": "1569662984.000400"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569674269.000300"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569776676.000100"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569776680.000300"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569776690.000500"
+                },
+                {
+                    "user": "U950LFMBL",
+                    "ts": "1569810573.007700"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "ktp-logo",
+                    "users": [
+                        "UFZ6CG58B",
+                        "U7GB5CTNY",
+                        "U7C661T32",
+                        "U7CFFQACR",
+                        "U94T3M9EX",
+                        "U7DUZ8FGF",
+                        "U7E03328J",
+                        "UD70WD9QV",
+                        "UFZ4U8M44",
+                        "UD7SGH4FR",
+                        "U94T1U76F",
+                        "U7J0HDV8B"
+                    ],
+                    "count": 12
+                }
+            ]
+        },
+        {
+            "user": "UNLJT07EG",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569525623.000400",
+            "text": "<@UNLJT07EG> has joined the channel"
+        },
+        {
+            "client_msg_id": "c2733631-47ca-44a7-9193-1c05e8ffe03d",
+            "type": "message",
+            "text": "Website will become your best friend",
+            "user": "UFZ6CG58B",
+            "ts": "1569428661.001000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "3292a3c2-6ec7-476e-8dc9-4ae7eb9d805f",
+            "type": "message",
+            "text": "For anyone looking for UX\/ Product Design internships <https:\/\/interns.design\/>",
+            "user": "UFZ6CG58B",
+            "ts": "1569428649.000500",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "interns.design - find internships and browse career resources :clap:",
+                    "title_link": "https:\/\/interns.design\/",
+                    "text": "The easiest way to find internships and resources to kickstart your design career.",
+                    "fallback": "interns.design - find internships and browse career resources \ud83d\udc4f",
+                    "from_url": "https:\/\/interns.design\/",
+                    "service_icon": "https:\/\/interns.design\/.\/favicon-32x32.png",
+                    "service_name": "interns.design",
+                    "id": 1,
+                    "original_url": "https:\/\/interns.design\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "partyparrot",
+                    "users": [
+                        "UFZ4XJUJY",
+                        "UD70WD9QV",
+                        "UG0MXJAS2"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4XJUJY",
+                        "UD70WD9QV",
+                        "UG0MXJAS2"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

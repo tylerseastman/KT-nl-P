@@ -1,0 +1,1634 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "type": "message",
+            "text": "It was too late for coffee so we got pitchers instead ",
+            "files": [
+                {
+                    "id": "FPKDEVCSH",
+                    "created": 1571456284,
+                    "timestamp": 1571456284,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD6KPRFHS",
+                    "editable": false,
+                    "size": 465459,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPKDEVCSH\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPKDEVCSH\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_480.jpg",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_720.jpg",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_960.jpg",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPKDEVCSH-4a6dd5c611\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 2576,
+                    "original_h": 1932,
+                    "thumb_tiny": "AwAwACTP2knikxUq4Y85x7VLgdh8tFxlXFFWUjiMLM0mGHQY61XOPWlcBtFHFFMRZ2kN8h\/Oo5GYfKRjFPBwKeuc59eKATK6DccVI0O3nipnRd27HJocYUmkxlI0UrDmjFMRIxI4PX0qVTtwB2rVeOCdNxCsOxFUZrNl5ibPsaVx2KssuXAB6UkkmQBn6mo2RkbDgg+9N6mmIcTzScUE4PQGjI\/uigD\/2Q==",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD6KPRFHS\/FPKDEVCSH\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FPKDEVCSH-beba344a03",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD6KPRFHS",
+            "display_as_bot": false,
+            "ts": "1571456287.002100",
+            "client_msg_id": "8BCB757A-FD18-4FAC-855B-678656616AF2",
+            "reactions": [
+                {
+                    "name": "beers",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7H8W4631",
+                        "UD70YDRJ9",
+                        "U9628B2GP",
+                        "U7CUU7293"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9B33CC84-0D6B-4AA5-B68E-7121736827B4",
+            "type": "message",
+            "text": "Guys neopap kinda slaps",
+            "user": "U7HASRAC8",
+            "ts": "1571365524.001700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "Hi I love kristen and we both love pizza and idk who that guy in the picture is bc it certainly isnt me",
+            "files": [
+                {
+                    "id": "FPBGXGNQH",
+                    "created": 1571365402,
+                    "timestamp": 1571365402,
+                    "name": "20191017_194339.jpg",
+                    "title": "20191017_194339.jpg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U94E1MRR7",
+                    "editable": false,
+                    "size": 305440,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPBGXGNQH\/20191017_194339.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPBGXGNQH\/download\/20191017_194339.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_480.jpg",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_720.jpg",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_960.jpg",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPBGXGNQH-aefc4182f1\/20191017_194339_1024.jpg",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 8,
+                    "original_w": 3264,
+                    "original_h": 2448,
+                    "thumb_tiny": "AwAwACSRlIQkdTwKrFdzBV78D6VYZsn0AGB9ahjOWZx\/urSK6DgnJx24FONrH1fJxU0SYGew4FNlcKOTimSQuwQ4zjim+YPWomDOxYEYpvlv6j86LhYlZiFO36ZpVcIgPoOB70siyovKkEnnioCCMgjB9DU3LLnmeXsAJJJ5pVMb5JG4j1FVoSS4LnJHrUqypE52DOepJoAkHlPyIqNsf\/PI0jGHPMak+oozB\/zyFAyVXZ1JL8HtTSo27XG4H1609rdvvIw56g0w7yDvwoHU5qdRaEf2cKrYXdnp6ioFZQecA55yKdJeEEGMEY9TVZT5rsW6k5q7CvqW2eLP3RSb4v7oqNbfIzml+zf7VIZ\/\/9k=",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U94E1MRR7\/FPBGXGNQH\/20191017_194339.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FPBGXGNQH-c8ffd86b4e",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U94E1MRR7",
+            "display_as_bot": false,
+            "ts": "1571365402.001000",
+            "client_msg_id": "e4ed6a27-352f-4e60-9c94-240e2f5f5fac",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "fire",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UNP960KEJ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571339666.000200",
+            "text": "<@UNP960KEJ> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "SOHIL IS active",
+            "files": [
+                {
+                    "id": "FNZJQR2N7",
+                    "created": 1570850350,
+                    "timestamp": 1570850350,
+                    "name": "IMG_4412-1.jpeg",
+                    "title": "IMG_4412-1.jpeg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UFZ4XJUJY",
+                    "editable": false,
+                    "size": 445308,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNZJQR2N7\/img_4412-1.jpeg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNZJQR2N7\/download\/img_4412-1.jpeg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_480.jpg",
+                    "thumb_480_w": 361,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_720.jpg",
+                    "thumb_720_w": 541,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1065,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_960.jpg",
+                    "thumb_960_w": 721,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNZJQR2N7-c297315dcc\/img_4412-1_1024.jpg",
+                    "thumb_1024_w": 769,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 1600,
+                    "original_h": 1202,
+                    "thumb_tiny": "AwAwACSypLR4RgGz9OPapupNZqymNTg\/hUwvMRZYc46Dof8ACsuli2i1tUjkVTmXBNSQ3PncH92Qcn3FMmbLE+tK1gRXI5pMUp60lUMrlyTknNOjOTycVO9oSEwVCY6iq8kTxn5lOPXtVkFlZBtyvGaa0x781W3FSMHFTJ8+XYcj0pNDuSqrEZC\/rS7H\/u\/rSKePvY+opcn+8PypWHcsmPdkR\/KevB4NRF2wVbkHtUi3CADJJPfC013STARSoHcimIrzRgxZAGR2qONsR\/SppHC8KeR1qtGeDnvQg6kyhiMgZpcN\/d\/SmiMEZzijyh6\/rTC5\/9k=",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4XJUJY\/FNZJQR2N7\/img_4412-1.jpeg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNZJQR2N7-ecc769c1a8",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4XJUJY",
+            "display_as_bot": false,
+            "ts": "1570850353.000600",
+            "client_msg_id": "898787bf-d9e2-4efb-9055-fa9f16263551",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CFFQACR",
+                        "UD7SGH4FR",
+                        "U7CTEEYDS",
+                        "U7H8W4631"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "user": "UNLJSUDM2",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570727361.000200",
+            "text": "<@UNLJSUDM2> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "annika swiped me into squad!!!! (bless u benevolent being) \n\nwe talked about stress and jobs and also she told me about the super cool meditation class she\u2019s in \u2014 prolly gonna take it next sem!!!",
+            "files": [
+                {
+                    "id": "FP7B3SDFX",
+                    "created": 1570633753,
+                    "timestamp": 1570633753,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U7CFFQACR",
+                    "editable": false,
+                    "size": 403500,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP7B3SDFX\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP7B3SDFX\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_360.jpg",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 270,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_480.jpg",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 360,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_720.jpg",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 540,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 600,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_960.jpg",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 720,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP7B3SDFX-ee03eeb819\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 768,
+                    "image_exif_rotation": 1,
+                    "original_w": 2576,
+                    "original_h": 1932,
+                    "thumb_tiny": "AwAkADC402DwKlRtw96rttLgcjFMS5ABCqxGeopgXaKjjlDrwDSySrGmWz1xikAGQB9pPWn1mzySSPuCEAUrXhEYCkliOSaVwFunAjbB5OBn1poOxcMQPSovOBbLA4JyB6VIxSRSwIB9TQykPilKuC+CG4ODURkywIJIUc5PTmoi6b1AJPv2p8PBb64xQHUfuZ+R2pkygr5obPPzD+tTGMSLuXIYdRnrUbAGCTAIJGMGkNkD8NSDnNK\/3qF71TIRFL1FP81lPGKZL1FI3WgCR5HIBzjPHFOjJPU1E33V+tSRUhn\/2Q==",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7CFFQACR\/FP7B3SDFX\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP7B3SDFX-c28c38a4cb",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7CFFQACR",
+            "display_as_bot": false,
+            "ts": "1570633753.001700",
+            "client_msg_id": "64F54761-C4FE-4ED5-BF9D-0C9537F9BD39",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U9628B2GP",
+                        "UG17FQF2A",
+                        "UD6KPRFHS",
+                        "UD7SGH4FR",
+                        "UD6N2B2G3",
+                        "UD6775W9F",
+                        "U7H8W4631",
+                        "UG0CA18MN",
+                        "U7HASRAC8",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 11
+                },
+                {
+                    "name": "heart_eyes",
+                    "users": [
+                        "U9628B2GP",
+                        "U7H8W4631",
+                        "UG0CA18MN",
+                        "U7HASRAC8",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "user": "UG0NYBJ3Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570413315.000500",
+            "text": "<@UG0NYBJ3Y> has joined the channel"
+        },
+        {
+            "user": "U7E03328J",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570388269.000200",
+            "text": "<@U7E03328J> has joined the channel"
+        },
+        {
+            "user": "UFZ4U8M44",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570160334.000200",
+            "text": "<@UFZ4U8M44> has joined the channel"
+        },
+        {
+            "user": "UG0NSJJQ6",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570041457.003100",
+            "text": "<@UG0NSJJQ6> has joined the channel"
+        },
+        {
+            "user": "UN9JL25AP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569972951.002700",
+            "text": "<@UN9JL25AP> has joined the channel"
+        },
+        {
+            "client_msg_id": "a55edb2a-3c51-479e-9179-08272de9ca13",
+            "type": "message",
+            "text": "it\u2019s a worth a try",
+            "user": "UD6N2B2G3",
+            "ts": "1569954939.001700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569952810.000800",
+            "parent_user_id": "UD7SGH4FR"
+        },
+        {
+            "client_msg_id": "db200b3b-87f3-4b9d-8096-dd75c3b7904f",
+            "type": "message",
+            "text": "both",
+            "user": "UD6N2B2G3",
+            "ts": "1569954911.001500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569952810.000800",
+            "parent_user_id": "UD7SGH4FR",
+            "reactions": [
+                {
+                    "name": "open_mouth",
+                    "users": [
+                        "U950LFMBL",
+                        "U7F1RLY2C"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4b32533f-50d5-4bc4-b297-2a22c9e46604",
+            "type": "message",
+            "text": "Wait good or bad experience :o I havent tried it yet",
+            "user": "U950LFMBL",
+            "ts": "1569954132.001100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569952810.000800",
+            "parent_user_id": "UD7SGH4FR"
+        },
+        {
+            "type": "message",
+            "text": "Tyler and I went to social house and tried their fruit soup aka smoothie bowl and it was an experience",
+            "files": [
+                {
+                    "id": "FP05DKBJA",
+                    "created": 1569952810,
+                    "timestamp": 1569952810,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD7SGH4FR",
+                    "editable": false,
+                    "size": 667808,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP05DKBJA\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP05DKBJA\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_480.jpg",
+                    "thumb_480_w": 361,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_720.jpg",
+                    "thumb_720_w": 541,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1065,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_960.jpg",
+                    "thumb_960_w": 721,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP05DKBJA-101bfd8929\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 769,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 3088,
+                    "original_h": 2320,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD7SGH4FR\/FP05DKBJA\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP05DKBJA-f13a25238d",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD7SGH4FR",
+            "display_as_bot": false,
+            "ts": "1569952810.000800",
+            "client_msg_id": "1331BBCF-DB84-40AB-B1A2-52897650FE4B",
+            "thread_ts": "1569952810.000800",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1569954939.001700",
+            "reply_users": [
+                "U950LFMBL",
+                "UD6N2B2G3"
+            ],
+            "replies": [
+                {
+                    "user": "U950LFMBL",
+                    "ts": "1569954132.001100"
+                },
+                {
+                    "user": "UD6N2B2G3",
+                    "ts": "1569954911.001500"
+                },
+                {
+                    "user": "UD6N2B2G3",
+                    "ts": "1569954939.001700"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UD6N2B2G3",
+                        "UFZ4XJUJY",
+                        "U7HASRAC8"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD6N2B2G3",
+                        "UFZ4XJUJY",
+                        "U7HASRAC8"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "user": "UFYUSR080",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569768426.000200",
+            "text": "<@UFYUSR080> has joined the channel"
+        },
+        {
+            "client_msg_id": "d020b332-d618-4c8a-b7a8-e076423ef63d",
+            "type": "message",
+            "text": "I have very strong opinions about burritos",
+            "user": "U7H8W4631",
+            "ts": "1569511819.008300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9"
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": "did u mean FACK",
+            "user": "USLACKBOT",
+            "ts": "1569511002.008100",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9"
+        },
+        {
+            "client_msg_id": "F201F789-678D-41E6-BD2D-C4FDA252076D",
+            "type": "message",
+            "text": "It was really good!!! Less food than chipotle but more salsa options and I fuck w\/ the queso vibes ",
+            "user": "UD6KPRFHS",
+            "ts": "1569511001.007900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "56dc4411-844f-42b7-9419-cd3fa07286f1",
+            "type": "message",
+            "text": "WHAT ARE YOUR THOUGHTS",
+            "user": "U7H8W4631",
+            "ts": "1569466270.006000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9"
+        },
+        {
+            "client_msg_id": "a421d306-e2fc-45d2-b49b-82c5d40ba3e5",
+            "type": "message",
+            "text": "WAIT WHAT YOUR FIRST TIME",
+            "user": "U7H8W4631",
+            "ts": "1569466264.005800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9"
+        },
+        {
+            "client_msg_id": "35CFFF1B-D1D4-4C68-B2AB-6494BD8CF0A8",
+            "type": "message",
+            "text": "we had to follow up w\/ dessert bro",
+            "user": "UD6KPRFHS",
+            "ts": "1569461441.005000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7H8W4631",
+                        "UD7SGH4FR",
+                        "U7CFFQACR",
+                        "UG0CA18MN",
+                        "UG17FQF2A"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1ad9aa57-7625-448d-9cc4-bf24d5648e7f",
+            "type": "message",
+            "text": "are any of these food items from panch LOL",
+            "user": "UG17FQF2A",
+            "ts": "1569461228.004100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569460995.003700",
+            "parent_user_id": "UD70YDRJ9",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "UD6775W9F",
+                        "U7F1RLY2C",
+                        "U7H8W4631",
+                        "UD7SGH4FR",
+                        "U7CFFQACR",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "It was her first time going to panch ",
+            "files": [
+                {
+                    "id": "FNTSMFMQW",
+                    "created": 1569460995,
+                    "timestamp": 1569460995,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD70YDRJ9",
+                    "editable": false,
+                    "size": 538347,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNTSMFMQW\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNTSMFMQW\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_480.jpg",
+                    "thumb_480_w": 361,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_720.jpg",
+                    "thumb_720_w": 541,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1065,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_960.jpg",
+                    "thumb_960_w": 721,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNTSMFMQW-4adaebd932\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 769,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 3088,
+                    "original_h": 2320,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD70YDRJ9\/FNTSMFMQW\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNTSMFMQW-a4ac0ba3f6",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD70YDRJ9",
+            "display_as_bot": false,
+            "ts": "1569460995.003700",
+            "client_msg_id": "B779B6CC-831F-4F01-BD01-284D870D0C4B",
+            "thread_ts": "1569460995.003700",
+            "reply_count": 7,
+            "reply_users_count": 4,
+            "latest_reply": "1569511819.008300",
+            "reply_users": [
+                "UG17FQF2A",
+                "UD6KPRFHS",
+                "U7H8W4631",
+                "USLACKBOT"
+            ],
+            "replies": [
+                {
+                    "user": "UG17FQF2A",
+                    "ts": "1569461228.004100"
+                },
+                {
+                    "user": "UD6KPRFHS",
+                    "ts": "1569461441.005000"
+                },
+                {
+                    "user": "U7H8W4631",
+                    "ts": "1569466264.005800"
+                },
+                {
+                    "user": "U7H8W4631",
+                    "ts": "1569466270.006000"
+                },
+                {
+                    "user": "UD6KPRFHS",
+                    "ts": "1569511001.007900"
+                },
+                {
+                    "user": "USLACKBOT",
+                    "ts": "1569511002.008100"
+                },
+                {
+                    "user": "U7H8W4631",
+                    "ts": "1569511819.008300"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "open_mouth",
+                    "users": [
+                        "UD6775W9F",
+                        "UG17FQF2A",
+                        "U7H8W4631",
+                        "UD7SGH4FR",
+                        "U7CFFQACR"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD6KPRFHS",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Just some fun and flirty gorls coffee chatting it up at bubble island:palm_tree: ",
+            "files": [
+                {
+                    "id": "FNK4N9Q49",
+                    "created": 1569450842,
+                    "timestamp": 1569450842,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD7SGH4FR",
+                    "editable": false,
+                    "size": 494255,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNK4N9Q49\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNK4N9Q49\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_360.jpg",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 270,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_480.jpg",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 361,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_720.jpg",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 541,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 601,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_960.jpg",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 721,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK4N9Q49-e5f1e4e407\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 769,
+                    "image_exif_rotation": 1,
+                    "original_w": 3088,
+                    "original_h": 2320,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD7SGH4FR\/FNK4N9Q49\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNK4N9Q49-3376fa7887",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD7SGH4FR",
+            "display_as_bot": false,
+            "ts": "1569450842.003000",
+            "client_msg_id": "5221A23F-2201-4453-880C-A4BB05074F21",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7H8W4631",
+                        "UG17FQF2A",
+                        "U7CFFQACR",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "user": "UD6N2B2G3",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569427711.000500",
+            "text": "<@UD6N2B2G3> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "we're basic and we know it",
+            "files": [
+                {
+                    "id": "FNST4TZAT",
+                    "created": 1569427685,
+                    "timestamp": 1569427685,
+                    "name": "IMG_4008.jpeg",
+                    "title": "IMG_4008.jpeg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UFZ4XJUJY",
+                    "editable": false,
+                    "size": 2348416,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNST4TZAT\/img_4008.jpeg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNST4TZAT\/download\/img_4008.jpeg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_480.jpg",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_720.jpg",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_960.jpg",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNST4TZAT-2b9733030c\/img_4008_1024.jpg",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 4032,
+                    "original_h": 3024,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4XJUJY\/FNST4TZAT\/img_4008.jpeg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNST4TZAT-892a5fc935",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4XJUJY",
+            "display_as_bot": false,
+            "ts": "1569427692.000100",
+            "client_msg_id": "87ab76dd-ab19-4439-8539-ddb57b96373c",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD6N2B2G3",
+                        "U7CTEEYDS",
+                        "U7H8W4631",
+                        "U7F1RLY2C",
+                        "UD7SGH4FR",
+                        "U7HASRAC8",
+                        "UD6KPRFHS",
+                        "U7CFFQACR"
+                    ],
+                    "count": 8
+                },
+                {
+                    "name": "partyparrot",
+                    "users": [
+                        "UD6N2B2G3",
+                        "U7CTEEYDS",
+                        "U7H8W4631",
+                        "U7F1RLY2C",
+                        "UD7SGH4FR",
+                        "U7HASRAC8",
+                        "UD6KPRFHS"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "10601e33-ac5e-4bb8-92ee-10294db0d132",
+            "type": "message",
+            "text": "where\u2019s ur funky fresh caption huh",
+            "user": "U7CFFQACR",
+            "ts": "1569366741.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNPJLKHA8",
+                    "created": 1569366639,
+                    "timestamp": 1569366639,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UFYHBEJTA",
+                    "editable": false,
+                    "size": 684357,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNPJLKHA8\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNPJLKHA8\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_480.jpg",
+                    "thumb_480_w": 361,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_720.jpg",
+                    "thumb_720_w": 541,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1065,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_960.jpg",
+                    "thumb_960_w": 721,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPJLKHA8-6a9790e0cd\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 769,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 3088,
+                    "original_h": 2320,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFYHBEJTA\/FNPJLKHA8\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNPJLKHA8-1bd14191c6",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFYHBEJTA",
+            "display_as_bot": false,
+            "ts": "1569366643.001200",
+            "client_msg_id": "69BD24C3-1587-47C3-9284-CEC947579875",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UG0P39T62",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569360652.001000",
+            "text": "<@UG0P39T62> has joined the channel"
+        },
+        {
+            "user": "U7HASRAC8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569352088.000800",
+            "text": "<@U7HASRAC8> has joined the channel"
+        },
+        {
+            "user": "UD6775W9F",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569286500.000600",
+            "text": "<@UD6775W9F> has joined the channel"
+        },
+        {
+            "user": "UD6QW5E10",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569184611.000300",
+            "text": "<@UD6QW5E10> has joined the channel"
+        },
+        {
+            "client_msg_id": "e3221dfc-6f11-4edd-ab27-bdafe5af53b0",
+            "type": "message",
+            "text": "meeeee",
+            "user": "U7H8W4631",
+            "ts": "1569045868.000300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "4B54D006-0E8B-4403-A45A-683B187839D3",
+            "type": "message",
+            "text": "IM BACK WHO WANTS TO DATE ME",
+            "user": "U7CTEEYDS",
+            "ts": "1569033296.000500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "U7CTEEYDS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569033288.000200",
+            "text": "<@U7CTEEYDS> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "stefen and i talked about stress and video games and WEIRD NAMES!!",
+            "files": [
+                {
+                    "id": "FNKQR2LCD",
+                    "created": 1568997156,
+                    "timestamp": 1568997156,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U7CFFQACR",
+                    "editable": false,
+                    "size": 350595,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNKQR2LCD\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNKQR2LCD\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_360.jpg",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 270,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_480.jpg",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 360,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_720.jpg",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 540,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 600,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_960.jpg",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 720,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNKQR2LCD-c227751601\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 768,
+                    "image_exif_rotation": 1,
+                    "original_w": 2576,
+                    "original_h": 1932,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7CFFQACR\/FNKQR2LCD\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNKQR2LCD-4fe82990f9",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7CFFQACR",
+            "display_as_bot": false,
+            "ts": "1568997156.000600",
+            "client_msg_id": "6CB92A2E-B4B9-4C89-8FF0-605899922E41",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD70YDRJ9",
+                        "U7H8W4631",
+                        "U7F1RLY2C",
+                        "UD7SGH4FR",
+                        "U7CUU7293"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "user": "U7EKJT35Y",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568857386.014200",
+            "text": "<@U7EKJT35Y> has left the channel"
+        },
+        {
+            "user": "U94T3M9EX",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568843862.013700",
+            "text": "<@U94T3M9EX> has left the channel"
+        },
+        {
+            "user": "U7C661T32",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568842887.013500",
+            "text": "<@U7C661T32> has left the channel"
+        },
+        {
+            "user": "U7C7E4E0Y",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568842778.013300",
+            "text": "<@U7C7E4E0Y> has left the channel"
+        },
+        {
+            "client_msg_id": "34A848B5-982C-4184-8F6E-5D68A4B62751",
+            "type": "message",
+            "text": "... ",
+            "user": "U7F1RLY2C",
+            "ts": "1568840465.013000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7F1RLY2C",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568840441.012600",
+            "text": "<@U7F1RLY2C> has joined the channel",
+            "inviter": "U7DUZ8FGF"
+        },
+        {
+            "client_msg_id": "6b6fa834-f961-43d1-aa62-4ee28a696168",
+            "type": "message",
+            "text": "I have all the power",
+            "user": "U7DUZ8FGF",
+            "ts": "1568840425.012400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ricky_parrot",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7DUZ8FGF",
+                        "UD6N3TP6X",
+                        "U7CFFQACR"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "user": "U7F1RLY2C",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568840416.012100",
+            "text": "<@U7F1RLY2C> has left the channel"
+        },
+        {
+            "client_msg_id": "0BE21C25-EBEA-4701-9AD5-31E9A259FC0C",
+            "type": "message",
+            "text": "that was insane wtf kind of power do u have ",
+            "user": "U7F1RLY2C",
+            "ts": "1568839968.011900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "96C4BC1D-F541-4B05-8616-97DFAFBCAD58",
+            "type": "message",
+            "text": "damn rick",
+            "user": "U7F1RLY2C",
+            "ts": "1568839962.011600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "62f0a3ef-0964-4e6c-82ef-48a6ddd9240d",
+            "type": "message",
+            "text": "i think i got rid of them",
+            "user": "U7DUZ8FGF",
+            "ts": "1568839661.011400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7D1D4KRQ",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568839615.011200",
+            "text": "<@U7D1D4KRQ> has left the channel"
+        },
+        {
+            "user": "UDK1LP51N",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568839594.011000",
+            "text": "<@UDK1LP51N> has left the channel"
+        },
+        {
+            "user": "U7DPNLNU9",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568839581.010800",
+            "text": "<@U7DPNLNU9> has left the channel"
+        },
+        {
+            "client_msg_id": "e006ff01-1427-4924-b383-dbb6b2f34ee6",
+            "type": "message",
+            "text": "yo wait natalie has a good point :triumph:",
+            "user": "U7H8W4631",
+            "ts": "1568838265.010400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "*coffee lol",
+            "files": [
+                {
+                    "id": "FNH5E7E3S",
+                    "created": 1568838160,
+                    "timestamp": 1568838160,
+                    "name": "5d5.jpg",
+                    "title": "5d5.jpg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD7SGH4FR",
+                    "editable": false,
+                    "size": 51281,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNH5E7E3S\/5d5.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNH5E7E3S\/download\/5d5.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNH5E7E3S-9d6ec44097\/5d5_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNH5E7E3S-9d6ec44097\/5d5_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNH5E7E3S-9d6ec44097\/5d5_360.jpg",
+                    "thumb_360_w": 204,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNH5E7E3S-9d6ec44097\/5d5_480.jpg",
+                    "thumb_480_w": 273,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNH5E7E3S-9d6ec44097\/5d5_160.jpg",
+                    "image_exif_rotation": 1,
+                    "original_w": 343,
+                    "original_h": 604,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD7SGH4FR\/FNH5E7E3S\/5d5.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNH5E7E3S-65229f882e",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD7SGH4FR",
+            "display_as_bot": false,
+            "ts": "1568838162.010000",
+            "edited": {
+                "user": "UD7SGH4FR",
+                "ts": "1568838682.000000"
+            },
+            "client_msg_id": "54673cc2-d24a-424d-a62a-056d8a0e1cb8"
+        },
+        {
+            "client_msg_id": "6DAE03AA-88E5-439E-A20C-DEE062898B8B",
+            "type": "message",
+            "text": ":\u2019(",
+            "user": "U7F1RLY2C",
+            "ts": "1568837363.009600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "078B3704-E5ED-41FC-9125-D741C7B906EE",
+            "type": "message",
+            "text": "ok we can\u2019t kick people. ",
+            "user": "U7F1RLY2C",
+            "ts": "1568837362.009500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "83E0A4A4-4C2F-4AE8-AC87-481F71B9829B",
+            "type": "message",
+            "text": "ok we must kick all the grads ",
+            "user": "U7F1RLY2C",
+            "ts": "1568837337.009200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0650f408-1fc6-435c-90b7-4b1c459ca7b5",
+            "type": "message",
+            "text": "<@U7F1RLY2C> can i just treat myself to a coffee-date instead",
+            "user": "U7H8W4631",
+            "ts": "1568837096.008600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c05edd8b-cf8a-470a-a98b-b75b1b720894",
+            "type": "message",
+            "text": "omg",
+            "user": "U7DPNLNU9",
+            "ts": "1568836761.007800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7DPNLNU9",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568836721.007300",
+            "text": "<@U7DPNLNU9> has joined the channel",
+            "inviter": "U7CUU7293",
+            "reactions": [
+                {
+                    "name": "open_mouth",
+                    "users": [
+                        "U7H8W4631",
+                        "U7CUU7293",
+                        "U7CFFQACR"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "175f308d-7536-4bf6-9c47-c973468463cc",
+            "type": "message",
+            "text": "Shit dawg",
+            "user": "U9628B2GP",
+            "ts": "1568836719.007100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "aa476f27-c144-43a8-bca7-585ff10e0050",
+            "type": "message",
+            "text": "yo i\u2019ll meet with you <@U7CUU7293>",
+            "user": "U7H8W4631",
+            "ts": "1568836716.006900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "3a7a41ff-434c-46c7-a89b-373fc216d049",
+            "type": "message",
+            "text": "<@U7DPNLNU9> wait come back I love you. Oh wait you'll be back Oct 3rd \/ 4th \/ 5th",
+            "user": "U7CUU7293",
+            "ts": "1568836716.006800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "34ff597d-a994-4070-819b-8fe8495856e0",
+            "type": "message",
+            "text": "lmao ya i got paired w\/ aliya",
+            "user": "U7H8W4631",
+            "ts": "1568836699.006300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7C7E4E0Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568836646.005300",
+            "text": "<@U7C7E4E0Y> has joined the channel",
+            "inviter": "U94E1MRR7"
+        },
+        {
+            "client_msg_id": "8fa35803-f959-40a1-a42e-eda5d0d79fa9",
+            "type": "message",
+            "text": "<@U7C7E4E0Y>",
+            "user": "U94E1MRR7",
+            "ts": "1568836640.005100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1840E692-97F3-4807-98A6-49AE07E1BC67",
+            "type": "message",
+            "text": "And i- OOP. ",
+            "user": "U7F1RLY2C",
+            "ts": "1568836605.004900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "71f7e410-6d52-4190-8da1-cb7692a136f6",
+            "type": "message",
+            "text": "Ohp",
+            "user": "U9628B2GP",
+            "ts": "1568836569.004700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c449c99f-354f-482c-a336-9ebecd081acc",
+            "type": "message",
+            "text": "Chan must leave",
+            "user": "U9628B2GP",
+            "ts": "1568836565.004500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7DPNLNU9",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1568836558.004200",
+            "text": "<@U7DPNLNU9> has left the channel"
+        },
+        {
+            "client_msg_id": "bd83d18a-b58e-45af-901b-6ac6bb4dddb2",
+            "type": "message",
+            "text": "I know when I'm not wanted",
+            "user": "U7DPNLNU9",
+            "ts": "1568836527.004000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8D2A2464-636F-431D-8E78-92BC818D4442",
+            "type": "message",
+            "text": "that\u2019s a privilege, jacob. ",
+            "user": "U7F1RLY2C",
+            "ts": "1568836518.003600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "e3e2abe2-28bf-4b1c-bbe2-06b84b2bf684",
+            "type": "message",
+            "text": "woah fuk u",
+            "user": "U7DPNLNU9",
+            "ts": "1568836506.002900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CUU7293",
+                        "U7H8W4631",
+                        "U7CFFQACR",
+                        "U7C7E4E0Y",
+                        "U9628B2GP"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "21a1537c-d19f-47e9-b805-74dac54437cc",
+            "type": "message",
+            "text": "Because it did",
+            "user": "U7CUU7293",
+            "ts": "1568836493.002700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8a28239e-84d8-410d-ab68-3a2c674de665",
+            "type": "message",
+            "text": "who do I complain to if coffee dates paired me and <@U7DPNLNU9>",
+            "user": "U7CUU7293",
+            "ts": "1568836491.002500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0ee5ef10-e9b4-47b6-a56c-78eb115d917d",
+            "type": "message",
+            "text": ":)",
+            "user": "U9628B2GP",
+            "ts": "1568836457.002200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "CC08D1AB-B9E7-4164-BDDC-C3A574A22168",
+            "type": "message",
+            "text": "Awesome caption <@U9628B2GP> ",
+            "user": "U7F1RLY2C",
+            "ts": "1568836436.002000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1B8DB0CD-7339-48B2-BD37-05CF653737B8",
+            "type": "message",
+            "text": "Oh my god Andrew is so god damn hot, <@U94EEKF3K> save me i\u2019m drowning at the jersey shore ",
+            "user": "U7F1RLY2C",
+            "ts": "1568836363.001700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "One bowl. Two beauties",
+            "files": [
+                {
+                    "id": "FNAME3CUR",
+                    "created": 1568836273,
+                    "timestamp": 1568836273,
+                    "name": "20190918_154449.jpg",
+                    "title": "20190918_154449.jpg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U9628B2GP",
+                    "editable": false,
+                    "size": 199842,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNAME3CUR\/20190918_154449.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNAME3CUR\/download\/20190918_154449.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_360.jpg",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 176,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_480.jpg",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 234,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_720.jpg",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 351,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 390,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_960.jpg",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 468,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNAME3CUR-1a889c00a4\/20190918_154449_1024.jpg",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 500,
+                    "image_exif_rotation": 1,
+                    "original_w": 2640,
+                    "original_h": 1288,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U9628B2GP\/FNAME3CUR\/20190918_154449.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNAME3CUR-c632c8d332",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U9628B2GP",
+            "display_as_bot": false,
+            "ts": "1568836273.000300",
+            "client_msg_id": "e1ca33d5-b88e-4ace-9079-9d69bea288e5",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7CFFQACR",
+                        "U7F1RLY2C",
+                        "U94EEKF3K",
+                        "U7H8W4631",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "ramen",
+                    "users": [
+                        "U7CFFQACR",
+                        "U94EEKF3K",
+                        "U7H8W4631",
+                        "UD7SGH4FR",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 5
+                }
+            ]
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

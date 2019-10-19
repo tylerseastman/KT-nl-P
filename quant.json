@@ -1,0 +1,2049 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "DE9EF9E7-C1FF-4B1B-8074-F0894E5563B8",
+            "type": "message",
+            "text": "For everyone coming to hackathon I will be there from around 1-4 at the minimum",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571444676.006900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "UG0BDKNPR",
+                        "UN0V0LBCG"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "df257155-0819-40d3-9647-f2b98b593bbe",
+            "type": "message",
+            "text": "^^^^^^^^^^^^^^^^^^ important",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571315863.006100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1d2beb9a-3789-4bc3-baa6-b16038ba6561",
+            "type": "message",
+            "text": "if you're going to be at hackathon and want to work on the quant app please PM me",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571315860.005800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FPK5JJY3Y",
+                    "created": 1571315846,
+                    "timestamp": 1571315846,
+                    "name": "10162019-post.txt",
+                    "title": "10162019-post.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 1385,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPK5JJY3Y\/10162019-post.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPK5JJY3Y\/download\/10162019-post.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FPK5JJY3Y\/10162019-post.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FPK5JJY3Y-fdce33ccf4",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FPK5JJY3Y\/10162019-post.txt\/edit",
+                    "preview": "Attendees:\r\nJunho Park\r\nWesley Toma\r\nKhalid Abdulshafi\r\nSimrun Chowdry\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Attendees:<\/pre><\/div>\n<div><pre>Junho Park<\/pre><\/div>\n<div><pre>Wesley Toma<\/pre><\/div>\n<div><pre>Khalid Abdulshafi<\/pre><\/div>\n<div><pre>Simrun Chowdry<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 59,
+                    "lines_more": 54,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1571315846.005300",
+            "client_msg_id": "5922267a-cbae-4e19-b730-084f04f3b7d4"
+        },
+        {
+            "client_msg_id": "18ad6c8b-bc6a-4d1b-a700-a9b368a62822",
+            "type": "message",
+            "text": "sorry its late but the notes from yesterday",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571315841.005200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "54a143dc-64bd-4f2a-96fa-8009dec2f370",
+            "type": "message",
+            "text": "hey everyone",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571315836.005000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UD86QCYSJ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571270383.004600",
+            "text": "<@UD86QCYSJ> has joined the channel"
+        },
+        {
+            "client_msg_id": "54759082-c751-41e0-ae2a-f858f397f85c",
+            "type": "message",
+            "text": "thank you!",
+            "user": "U94BTEG3A",
+            "ts": "1571270241.004400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1c28f765-9499-440f-bc45-0db2a207cfef",
+            "type": "message",
+            "text": "i was considering no dots",
+            "user": "U94BTEG3A",
+            "ts": "1571270228.004000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "Like dis",
+            "files": [
+                {
+                    "id": "FP4RPB3S7",
+                    "created": 1571269956,
+                    "timestamp": 1571269956,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UNLJT0A2G",
+                    "editable": false,
+                    "size": 91581,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP4RPB3S7\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP4RPB3S7\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_360.jpg",
+                    "thumb_360_w": 166,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_480.jpg",
+                    "thumb_480_w": 221,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_720.jpg",
+                    "thumb_720_w": 332,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1734,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_960.jpg",
+                    "thumb_960_w": 443,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RPB3S7-d0c92ffa72\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 472,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1124,
+                    "original_h": 2436,
+                    "thumb_tiny": "AwAwABbOOzjAPT1ptLsb+6fyo2N\/dP5UAJRS7G\/un8qNjf3T+VAG3DG52CQEKgPU9SSf6fzoEAVZ9qYPIX6YpIGdfLLFir5Bz2OTinktsueTwTj\/AL5pgNEJR0KKR8h3YPfipMP7\/nT4lARTzkjuTT6AOa3t\/eP50b2\/vH86PbAo2N3BFIA3t\/eP50bm\/vH86SigD\/\/Z",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UNLJT0A2G\/FP4RPB3S7\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP4RPB3S7-2b886415fb",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UNLJT0A2G",
+            "display_as_bot": false,
+            "ts": "1571269957.003600",
+            "client_msg_id": "A9932B60-8141-4978-A720-868398E388AC"
+        },
+        {
+            "client_msg_id": "1C85BC39-6BC3-4415-BF1F-8D7FDFB94B68",
+            "type": "message",
+            "text": "I like it but I think I\u2019d rather if the dots between the letters in quant weren\u2019t there",
+            "user": "UNLJT0A2G",
+            "ts": "1571269948.003400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0f7e5dc5-d49a-4873-9190-2d5ae8c5119f",
+            "type": "message",
+            "text": "pls tell opinion",
+            "user": "U94BTEG3A",
+            "ts": "1571269596.002800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FP4RJEFMZ",
+                    "created": 1571269590,
+                    "timestamp": 1571269590,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U94BTEG3A",
+                    "editable": false,
+                    "size": 10812,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP4RJEFMZ\/image.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP4RJEFMZ\/download\/image.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RJEFMZ-3b7b864dfd\/image_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RJEFMZ-3b7b864dfd\/image_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RJEFMZ-3b7b864dfd\/image_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 269,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP4RJEFMZ-3b7b864dfd\/image_160.png",
+                    "image_exif_rotation": 1,
+                    "original_w": 430,
+                    "original_h": 321,
+                    "thumb_tiny": "AwAjADCxZuzTXAZiQG4yenWkt3e4unkDHy14UZ4NM8qdFuNicyNxyOnNW7eIQwqncdfrTEUrqKSCLeLiQ84wTVmCBkYOZncY6Gi+ieWDagycg1OvCj6UXGUIkknmmHnyKFbgA04CSC9iTzncMOd1S2sTxzTswwGbI569aJona9hcD5VHJzQIjN0485ljB8tsHnqKtRlZYkdemMiqtmA0t0CMgtg\/rRZkwzPbMenK0ATXcvkRFwu7JwQTUygbV9hVXUv+PX\/gQq0v3R9KBlWOWSWSZY0QBWwck81Ogl3AuI8exOar2X+vuf8Ae\/xq5QwGJEkbMUXBY5PvQ0SNIshX5l6Gn0UgGSxpKu2RcjrinjgUUUAMSJI2ZkXBY5PvT6KKAP\/Z",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U94BTEG3A\/FP4RJEFMZ\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP4RJEFMZ-94731128d4",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U94BTEG3A",
+            "display_as_bot": false,
+            "ts": "1571269592.002300",
+            "client_msg_id": "7cb4a366-a724-4717-80a4-2c1c0433ce10"
+        },
+        {
+            "client_msg_id": "3C447042-20C5-49C1-9419-786563EDF532",
+            "type": "message",
+            "text": "i can\u2019t come",
+            "user": "UNLJSUDM2",
+            "ts": "1571266734.002200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "d556a3c0-68d5-487c-84b7-1b7260a1df22",
+            "type": "message",
+            "text": "if you can't make it today but are interested in working on the project during hackathon shoot me a text and ill keep you updated",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571232670.001600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UN9JL20MR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "81a40114-9c2e-4ee0-98ed-ef6086f791e4",
+            "type": "message",
+            "text": "looking forward to seeing everyone there!",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571231080.001100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0dab0d83-1d41-4b09-846e-348b2530811b",
+            "type": "message",
+            "text": "5th meeting, 7-9PM NQ 1265",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571231076.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FP3TARAPM",
+                    "created": 1571231040,
+                    "timestamp": 1571231040,
+                    "name": "10162019.txt",
+                    "title": "10162019.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 797,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP3TARAPM\/10162019.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP3TARAPM\/download\/10162019.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FP3TARAPM\/10162019.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP3TARAPM-32fecada3e",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FP3TARAPM\/10162019.txt\/edit",
+                    "preview": "Action items 10\/16\/2019 \r\n----------------------\r\n\r\nFigure out KTP Hackathon Objectives\r\nFigure out KTP Hackathon Objectives\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Action items 10\/16\/2019 <\/pre><\/div>\n<div><pre>----------------------<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>Figure out KTP Hackathon Objectives<\/pre><\/div>\n<div><pre>Figure out KTP Hackathon Objectives<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 18,
+                    "lines_more": 13,
+                    "preview_is_truncated": false,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1571231040.000300",
+            "client_msg_id": "4a9452a0-ec35-4039-a3c6-95408d31b2af"
+        },
+        {
+            "client_msg_id": "8758a297-70b5-43b3-8474-31bd46754aac",
+            "type": "message",
+            "text": "hey everyone, some deliverables for today",
+            "user": "UFZ4ZBEDS",
+            "ts": "1571231035.000200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "733c16d5-5abd-4f53-8b4a-e5056cf0bab0",
+            "type": "message",
+            "text": "we made really great strides in front end and research today",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570678903.004700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "9016e610-aaf7-49a4-bca8-2492e3e8bd84",
+            "type": "message",
+            "text": "thanks for pulling thru everyone",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570678897.004500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FP1NYQ3CH",
+                    "created": 1570678892,
+                    "timestamp": 1570678892,
+                    "name": "10092019-post.txt",
+                    "title": "10092019-post.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 1360,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP1NYQ3CH\/10092019-post.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP1NYQ3CH\/download\/10092019-post.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FP1NYQ3CH\/10092019-post.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP1NYQ3CH-6f4f521a68",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FP1NYQ3CH\/10092019-post.txt\/edit",
+                    "preview": "Attendees:\r\nJunho Park\r\nCameron Oglesby\r\nKhalid Abdulshafi\r\nEldon Tsoi\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Attendees:<\/pre><\/div>\n<div><pre>Junho Park<\/pre><\/div>\n<div><pre>Cameron Oglesby<\/pre><\/div>\n<div><pre>Khalid Abdulshafi<\/pre><\/div>\n<div><pre>Eldon Tsoi<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 53,
+                    "lines_more": 48,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1570678892.004000",
+            "client_msg_id": "781a6b05-dba3-4d90-ba1a-ca86286156ec"
+        },
+        {
+            "client_msg_id": "7828ba60-cd1e-4f5f-9c12-82df827eca4f",
+            "type": "message",
+            "text": "some notes for today",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570678886.003900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "15664c9c-ecc3-4cc0-959c-2b2e4585cde3",
+            "type": "message",
+            "text": "sorry this is late",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570678884.003600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "how feel about logo and color",
+            "files": [
+                {
+                    "id": "FP83DQLBX",
+                    "created": 1570668698,
+                    "timestamp": 1570668698,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U94BTEG3A",
+                    "editable": false,
+                    "size": 8028,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP83DQLBX\/image.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP83DQLBX\/download\/image.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP83DQLBX-9693e2be3b\/image_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP83DQLBX-9693e2be3b\/image_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP83DQLBX-9693e2be3b\/image_360.png",
+                    "thumb_360_w": 331,
+                    "thumb_360_h": 360,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP83DQLBX-9693e2be3b\/image_160.png",
+                    "image_exif_rotation": 1,
+                    "original_w": 410,
+                    "original_h": 446,
+                    "thumb_tiny": "AwAwACzTJABJ6CqEupYOIkyPVqtu4ZJQP4Rg\/lWHVJCZb\/tCf\/Z\/KpI9SYH94gI9VqFLZWs2n3HIzx2qtTsgN2KVJk3Icj+VPrGtJjDODn5W4atmpasMqQEslz6l2\/lUU4W2sliwPMYcnH51PCDF9o4\/iLD8s1Xv1EsUdwnTGD9KYixHODZGXYMAH5fWoLRIp\/OkeMHnIHpSxDOluB7\/AM6TTxiKYf56UAKiW01tI0cW3aDyevSrsZzGpPcCqVgpNpKMHJ4H5VeUbVA9BikxkdwJPKbygCxHIPestbmSOEwFQV5GG6itmo5IY5fvoG96EwMuC8kgj2KFIznmrVjIXE8hAyTn9Kl+wW\/90\/8AfRqWOCOJSqLgHr70NoRTh1El8SgBfVavqyuoZSCD3FZ82nHcDCflJ6HtV9ECIFUcAYFDsB\/\/2Q==",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U94BTEG3A\/FP83DQLBX\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP83DQLBX-34aaac4f90",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U94BTEG3A",
+            "display_as_bot": false,
+            "ts": "1570668699.003200",
+            "client_msg_id": "fb322794-9b79-49e9-b274-6b08b4de6d72"
+        },
+        {
+            "user": "UFYUSR080",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570661648.002900",
+            "text": "<@UFYUSR080> has joined the channel"
+        },
+        {
+            "client_msg_id": "6C4E113A-EBDA-4629-82C7-53ADBEE9FB7E",
+            "type": "message",
+            "text": "I\u2019ll be a tad late",
+            "user": "UG0BDKNPR",
+            "ts": "1570659613.002700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "drake_no",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "D84A27EA-39B4-4E1D-B9FE-08BBF439A5B8",
+            "type": "message",
+            "text": "Eboard rich",
+            "user": "UG0BDKNPR",
+            "ts": "1570646224.002000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "meek",
+                    "users": [
+                        "UFZ4ZBEDS",
+                        "UG0CA18MN",
+                        "UN89RAQM8"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4d2b5086-3fe0-4e17-b6d3-88b094576431",
+            "type": "message",
+            "text": "so we'll have some food",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570646208.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "b6f5b394-e065-42bb-8781-ceb5b90a2558",
+            "type": "message",
+            "text": "Eboard's given me enough budget to get two Joe's Pizzas for this week",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570646199.001400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "some deliverables for today",
+            "files": [
+                {
+                    "id": "FNW6TDR8T",
+                    "created": 1570646174,
+                    "timestamp": 1570646174,
+                    "name": "10092019.txt",
+                    "title": "10092019.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 683,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNW6TDR8T\/10092019.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNW6TDR8T\/download\/10092019.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNW6TDR8T\/10092019.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNW6TDR8T-3462f4cc16",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNW6TDR8T\/10092019.txt\/edit",
+                    "preview": "Action items 10\/9\/2019 \r\n----------------------\r\n\r\nSplit into teams:\r\n\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Action items 10\/9\/2019 <\/pre><\/div>\n<div><pre>----------------------<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>Split into teams:<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 14,
+                    "lines_more": 9,
+                    "preview_is_truncated": false,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1570646175.000700",
+            "client_msg_id": "18a66917-4172-43b3-aed4-e49eca8e6727"
+        },
+        {
+            "client_msg_id": "6f84d848-9b11-40e2-ba57-96331668b4b8",
+            "type": "message",
+            "text": "7-9PM NQ 1265",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570646167.000600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "f233e658-2684-49f2-865c-e698a2b6047d",
+            "type": "message",
+            "text": "hey everyone, we have our 4th meeting today",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570646164.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "e441b8d6-a787-4c6c-9a4e-e0b638c3ae19",
+            "type": "message",
+            "text": "pls",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570582299.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "99e9a340-bdb5-4898-b1fe-1e91b5ee0e64",
+            "type": "message",
+            "text": "react if interested ps",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570582299.000600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UNLJT0A2G",
+                        "UNEL7FF41",
+                        "U94BTEG3A",
+                        "UN9JL20MR",
+                        "UG0CA18MN",
+                        "UFYUSR080",
+                        "UN89RAQM8"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b4d0f1f0-4d89-4d2c-a014-edcf2eb8e26e",
+            "type": "message",
+            "text": "Hey mike had a good idea of working on the quant projects during hackathon",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570582296.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8EBCB44B-9EC0-4905-858A-0191CAF4986F",
+            "type": "message",
+            "text": "it was 20 points btw",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570111282.000700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7084D67F-DACA-4CBC-9F2D-DC914E2A2B62",
+            "type": "message",
+            "text": "Everyone that attended should\u2019ve gotten points now - check the quest log",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570111278.000500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "930bec86-4437-4375-9e81-995eeaf26082",
+            "type": "message",
+            "text": "also pls fill out the feedback form",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570069042.015200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "dd55f083-16dc-45ae-95a7-ca8c2ab8f3b4",
+            "type": "message",
+            "text": "thanks for coming today - ill see yall next week",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570069031.015000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "a87be16f-01b8-4560-8a15-1586665b5d63",
+            "type": "message",
+            "text": "todays notes",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570068938.014600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNZEUF0JY",
+                    "created": 1570068933,
+                    "timestamp": 1570068933,
+                    "name": "10022019-post.txt",
+                    "title": "10022019-post.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 1351,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNZEUF0JY\/10022019-post.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNZEUF0JY\/download\/10022019-post.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNZEUF0JY\/10022019-post.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNZEUF0JY-c46f7ec737",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNZEUF0JY\/10022019-post.txt\/edit",
+                    "preview": "Attendees:\r\nJunho Park\r\nCameron Oglesby\r\nJonah Azoulay\r\nMike Flanagan\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Attendees:<\/pre><\/div>\n<div><pre>Junho Park<\/pre><\/div>\n<div><pre>Cameron Oglesby<\/pre><\/div>\n<div><pre>Jonah Azoulay<\/pre><\/div>\n<div><pre>Mike Flanagan<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 53,
+                    "lines_more": 48,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1570068933.014200",
+            "client_msg_id": "0351fc41-d96c-4cb0-b542-ae66b3533ffb"
+        },
+        {
+            "client_msg_id": "4f2846a8-3aab-4ad1-b739-1d3fc3354c4a",
+            "type": "message",
+            "text": "the more people fill it out the better\/smoother we can run meetings",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570068533.014100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "35df2433-602b-4519-b35a-29005bc69b16",
+            "type": "message",
+            "text": "pls fill out this anonymous feedback form",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570068523.013800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "ad1363cb-bd3b-4caa-9cea-c3957c296b5b",
+            "type": "message",
+            "text": "<https:\/\/forms.gle\/JtGDKp1d2V4wyKjh8>",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570068513.013300",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Google Forms - create and analyze surveys, for free.",
+                    "title_link": "https:\/\/forms.gle\/JtGDKp1d2V4wyKjh8",
+                    "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                    "fallback": "Google Forms - create and analyze surveys, for free.",
+                    "from_url": "https:\/\/forms.gle\/JtGDKp1d2V4wyKjh8",
+                    "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                    "service_name": "accounts.google.com",
+                    "id": 1,
+                    "original_url": "https:\/\/forms.gle\/JtGDKp1d2V4wyKjh8"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "598a7c4b-400e-4524-9041-5a0d4db6ed8a",
+            "type": "message",
+            "text": "we can allocate the $40 however",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570068011.012600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "44315D74-53CC-4965-8F21-FC76712211CC",
+            "type": "message",
+            "text": "For snacks ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570067349.012400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "67E5D3C6-2EB5-460F-AA8A-033ABB6D8BB5",
+            "type": "message",
+            "text": "Of cheese they gave me $40 biweekly to play with ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570067347.012300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "F9DB2A78-2660-478B-8429-B9048F7833A1",
+            "type": "message",
+            "text": "I think we can just get two full pies ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570067336.011800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U94EEKF3K",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570061949.011200",
+            "text": "<@U94EEKF3K> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "fd5dd684-b794-4289-aa63-001e717e0844",
+            "type": "message",
+            "text": "My only request is there be a vegetarian option too :)",
+            "user": "UD638RWGG",
+            "ts": "1570061946.011000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "point_up_2",
+                    "users": [
+                        "UD70YDRJ9"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "202FBA28-D331-48A6-A64E-81726D772AD0",
+            "type": "message",
+            "text": "Best committee :heart_eyes:",
+            "user": "UFZ9KS6D8",
+            "ts": "1570061895.010400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "6be3772b-d99d-4649-b084-60c2959fcb42",
+            "type": "message",
+            "text": "thank eboard",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570061893.010200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "4611a50f-7aa1-40f5-aa3b-f293f2f746ae",
+            "type": "message",
+            "text": "this is for real btw lol",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570061889.010000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "724b791c-2d74-41ba-9e01-f024bec3877d",
+            "type": "message",
+            "text": "so come to quant",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570061875.009600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "5c3058af-4b30-4479-8125-0778411765f4",
+            "type": "message",
+            "text": "OK we will now get Joe's pizza biweekly",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570061872.009400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "subtype": "bot_message",
+            "text": "<@UFZ4ZBEDS> has a poll for you!",
+            "ts": "1570061364.008900",
+            "username": "Polly",
+            "icons": {
+                "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2017-10-03\/250802628275_48.png"
+            },
+            "bot_id": "B7CTE2CVA",
+            "attachments": [
+                {
+                    "callback_id": "k8MvtCpWqKY37Ehyy",
+                    "fallback": "What type of snack to get?",
+                    "title": "What type of snack to get?",
+                    "id": 1,
+                    "color": "35A8E0",
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "add_comments",
+                            "text": "Submit Response",
+                            "type": "button",
+                            "value": "Nr6n2F9YuPGxpjBd9",
+                            "style": ""
+                        }
+                    ]
+                },
+                {
+                    "callback_id": "k8MvtCpWqKY37Ehyy",
+                    "fallback": "What type of snack to get?",
+                    "id": 2,
+                    "fields": [
+                        {
+                            "title": "Comments (1 total)",
+                            "value": ":speech_balloon:\u2002<@UD6775W9F>:\u2002Joe's pizza",
+                            "short": false
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "fields"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "bot_message",
+            "text": "*This poll is closed.*\n<@UFZ4ZBEDS> has a poll for you!",
+            "ts": "1570060922.007400",
+            "username": "Polly",
+            "icons": {
+                "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2017-10-03\/250802628275_48.png"
+            },
+            "bot_id": "B7CTE2CVA",
+            "attachments": [
+                {
+                    "callback_id": "rLqmfkDZwQXHrXuNt",
+                    "fallback": "Next week: work session or fun\/games\/snacks",
+                    "title": "Next week: work session or fun\/games\/snacks",
+                    "id": 1,
+                    "color": "35A8E0"
+                },
+                {
+                    "callback_id": "rLqmfkDZwQXHrXuNt",
+                    "fallback": "Next week: work session or fun\/games\/snacks",
+                    "id": 2,
+                    "fields": [
+                        {
+                            "title": "work",
+                            "value": "`\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587` 80% (8)\n<@UN9JL20MR>, <@UNLJT0A2G>, <@UN89RAQM8>, <@U7FS1HMDJ>, <@UFZ9KS6D8>, +3 more",
+                            "short": false
+                        },
+                        {
+                            "title": "games",
+                            "value": "`\u2587\u2587\u2587\u2587\u2587\u2587` 20% (2)\n<@UNLJSUDM2>, <@UD70YDRJ9>",
+                            "short": false
+                        },
+                        {
+                            "title": "Total votes",
+                            "value": "10",
+                            "short": true
+                        }
+                    ],
+                    "actions": [
+                        {
+                            "id": "1",
+                            "name": "view_all_responses_in_channel",
+                            "text": "View All Responses",
+                            "type": "button",
+                            "value": "ZhH6YXfewfdCovDuu",
+                            "style": ""
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "fields"
+                    ]
+                }
+            ]
+        },
+        {
+            "client_msg_id": "63D1CE23-31A8-4B0D-A6F0-C86B8EC72304",
+            "type": "message",
+            "text": "be there in 10ish",
+            "user": "UFZ4U8M44",
+            "ts": "1570057690.007000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "9A5AC7D9-B151-4B88-B122-4F29D9429DF8",
+            "type": "message",
+            "text": "Be there in five ",
+            "user": "UD70YDRJ9",
+            "ts": "1570057512.006700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "E48726AF-6640-43D3-8A7B-86E509C298DC",
+            "type": "message",
+            "text": "i can\u2019t find the room because i\u2019m a fool",
+            "user": "UNLJSUDM2",
+            "ts": "1570057308.006100",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "air_dance",
+                    "users": [
+                        "UG0CA18MN"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "611104CC-E866-4F02-AFD5-31CE61F44C7C",
+            "type": "message",
+            "text": "Omw",
+            "user": "U7FS1HMDJ",
+            "ts": "1570057282.005600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "A232E7A5-87F1-441F-9CFE-746CFB60CE31",
+            "type": "message",
+            "text": "Gonn be 5 in late ",
+            "user": "UG0CA18MN",
+            "ts": "1570057275.005400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "328a1fd1-dc16-441e-8c85-2f88a834fcc7",
+            "type": "message",
+            "text": "Yea sorry i can\u2019t make it today but i\u2019ll be there next week",
+            "user": "UN9JL20MR",
+            "ts": "1570056695.004900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "15EDD0B6-4926-4A75-A29E-43201E25080D",
+            "type": "message",
+            "text": "Won\u2019t be able to make it today but will be there next week!",
+            "user": "UD677ACHF",
+            "ts": "1570056233.004200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "cry",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UNM34HZ6U",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570047301.003400",
+            "text": "<@UNM34HZ6U> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "0FF073CC-9FD8-4E1A-B190-0C3EB28FAEAD",
+            "type": "message",
+            "text": "I can\u2019t make it today but I\u2019ll push what Jonah and I worked on last week to the github",
+            "user": "UFZ9KS6D8",
+            "ts": "1570035001.002700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4d1ac9bc-f4d0-417f-906b-12d13203bb9b",
+            "type": "message",
+            "text": "i'll post the voting links in here so people who want to vote but cant make it today can still vote",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570034892.001900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "79e681da-6cbe-4761-a43e-03a966e79aa2",
+            "type": "message",
+            "text": "we're also gonna take a few polls about some stuff",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570034866.001300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNYSP6UDA",
+                    "created": 1570034843,
+                    "timestamp": 1570034843,
+                    "name": "10022019.txt",
+                    "title": "10022019.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 683,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNYSP6UDA\/10022019.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNYSP6UDA\/download\/10022019.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNYSP6UDA\/10022019.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNYSP6UDA-ca68770b53",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNYSP6UDA\/10022019.txt\/edit",
+                    "preview": "Action items 10\/2\/2019 \r\n----------------------\r\n\r\nSplit into teams:\r\n\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Action items 10\/2\/2019 <\/pre><\/div>\n<div><pre>----------------------<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>Split into teams:<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 14,
+                    "lines_more": 9,
+                    "preview_is_truncated": false,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1570034843.000800",
+            "client_msg_id": "2f3e3fef-5264-4303-bed7-996ede72e6e8"
+        },
+        {
+            "client_msg_id": "b769b584-933c-41d5-83ca-449c7926c8f6",
+            "type": "message",
+            "text": "some action items:",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570034828.000700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8eef957a-7204-4eb9-8def-cd8de530c0b6",
+            "type": "message",
+            "text": "hey everyone, we have our 3rd quant meeting today from 7-8:30 at NQ1265",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570034826.000500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM35TFNZ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569864180.001000",
+            "text": "<@UNM35TFNZ> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS",
+                        "U94BTEG3A"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "UNLJSUDM2",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569775411.000600",
+            "text": "<@UNLJSUDM2> has joined the channel"
+        },
+        {
+            "user": "UNEL7FF41",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569729806.000200",
+            "text": "<@UNEL7FF41> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS",
+                        "U94BTEG3A"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b692d047-cc32-4a35-a3e7-41aac3455809",
+            "type": "message",
+            "text": "no FAKE APPS here",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465593.006900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569465025.002800",
+            "parent_user_id": "UFZ4ZBEDS",
+            "reactions": [
+                {
+                    "name": "open_mouth",
+                    "users": [
+                        "UD6775W9F"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569465518.006700",
+            "text": "<@UN89RAQM8> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1b8aa755-144c-4790-bfb0-e92f87267659",
+            "type": "message",
+            "text": "I am rescinding my application",
+            "user": "UD6775W9F",
+            "ts": "1569465421.006400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569465025.002800",
+            "parent_user_id": "UFZ4ZBEDS"
+        },
+        {
+            "client_msg_id": "4e85caac-394b-4cc5-874a-29b9c7adab87",
+            "type": "message",
+            "text": "WERE USING REACT-NATIVE BTW",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465301.006200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569465025.002800",
+            "parent_user_id": "UFZ4ZBEDS"
+        },
+        {
+            "client_msg_id": "6a718942-1a60-4878-95eb-48841510ba20",
+            "type": "message",
+            "text": "ok thx",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465214.006100",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UN9JL20MR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "15dc37f1-286f-41b5-bcf5-d40d44c44b62",
+            "type": "message",
+            "text": "the structure of the team is designed so that ANYone is able to work on ANY component at ANY given time at ANY location",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465213.005900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7f80a98d-ea85-45c5-a6fd-8a128f25585b",
+            "type": "message",
+            "text": "For anyone who is unable to attend meetings but is interested in contributing, PM me and I will get you setup with the right team\/get you the info you need",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465185.005100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "ebca6137-f21a-45ca-9ce9-bbd9075e360e",
+            "type": "message",
+            "text": "I'll send out a poll later on with what we should play",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465159.004500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "089dc41f-6f50-4f0f-826e-4fb30c12bd5d",
+            "type": "message",
+            "text": "NEXT NEXT WEEK we'll have a game night",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465153.004300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "5e2eb862-88e3-443f-95ea-f36e49d90b23",
+            "type": "message",
+            "text": "if you did NOT get points for the previous meeting (or for any future meetings) PM me ASAP cause yall deserve your points",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465080.003400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1b4b4df6-b5c6-4394-b785-628cf521abc9",
+            "type": "message",
+            "text": "Wasn't there but interested, @sletap on github",
+            "user": "UD6775W9F",
+            "ts": "1569465044.002900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569465025.002800",
+            "parent_user_id": "UFZ4ZBEDS"
+        },
+        {
+            "client_msg_id": "fad1874d-4ce0-4e0a-b0e2-6ef896303814",
+            "type": "message",
+            "text": "If you are NOT added to the repositories as contributors, PM me your github username and I will add you'",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569465025.002800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569465025.002800",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1569465593.006900",
+            "reply_users": [
+                "UD6775W9F",
+                "UFZ4ZBEDS"
+            ],
+            "replies": [
+                {
+                    "user": "UD6775W9F",
+                    "ts": "1569465044.002900"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1569465301.006200"
+                },
+                {
+                    "user": "UD6775W9F",
+                    "ts": "1569465421.006400"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1569465593.006900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "7f352428-c7c0-40ed-8b83-5433025824b5",
+            "type": "message",
+            "text": "today was super productive - next week will be another work session so we can get a solid foundation",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569464998.002200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNE7SNT9R",
+                    "created": 1569464934,
+                    "timestamp": 1569464934,
+                    "name": "09252019-post.txt",
+                    "title": "09252019-post.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 1235,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNE7SNT9R\/09252019-post.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNE7SNT9R\/download\/09252019-post.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNE7SNT9R\/09252019-post.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNE7SNT9R-83371830eb",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNE7SNT9R\/09252019-post.txt\/edit",
+                    "preview": "Attendees:\r\nJunho Park\r\nCameron Oglesby\r\nJonah Azoulay\r\nAndy Dazzo\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Attendees:<\/pre><\/div>\n<div><pre>Junho Park<\/pre><\/div>\n<div><pre>Cameron Oglesby<\/pre><\/div>\n<div><pre>Jonah Azoulay<\/pre><\/div>\n<div><pre>Andy Dazzo<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 53,
+                    "lines_more": 48,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1569464935.001200",
+            "client_msg_id": "65749f24-fa91-4945-a5bc-6ed81ab8712a"
+        },
+        {
+            "client_msg_id": "CC1C9D40-5187-4AAA-8867-AFE06E48D2BC",
+            "type": "message",
+            "text": "Everyone who showed up will get points soon, I\u2019m typing up some things in a bit about this meeting and next week ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569463376.001100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "34F6640D-A3ED-45E1-B130-37FB2C455985",
+            "type": "message",
+            "text": "Thanks for the great meeting today",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569463371.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "4698A85E-165E-44D9-9677-97140EBEC958",
+            "type": "message",
+            "text": "But will also be there",
+            "user": "UD70YDRJ9",
+            "ts": "1569452941.006300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7A10DCD4-9416-4773-89DE-49BFCF9AA719",
+            "type": "message",
+            "text": "Running a little late ",
+            "user": "UD70YDRJ9",
+            "ts": "1569452937.006100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "D80A05E8-B19B-4421-9DB1-7B6C88E3DD05",
+            "type": "message",
+            "text": "Will be there late",
+            "user": "UD677ACHF",
+            "ts": "1569450085.005600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "32210F71-6C2A-4D60-A952-0638AA357A46",
+            "type": "message",
+            "text": "No it\u2019s not ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569448706.005300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "58ddba70-fcfb-4d99-b5ac-e44d8ac88c12",
+            "type": "message",
+            "text": "React native GROSS",
+            "user": "UD6775W9F",
+            "ts": "1569446811.004800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U7GA9464W"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569445797.004500",
+            "text": "<@UN9JL20MR> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3C883BFA-F023-493F-9FC0-660A496F16A8",
+            "type": "message",
+            "text": "Is using react native set in stone for front end? ",
+            "user": "U7GA9464W",
+            "ts": "1569445726.004300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "cry",
+                    "users": [
+                        "UD6775W9F"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7fe97981-ccf4-4e4c-b4af-9c0932b1c44c",
+            "type": "message",
+            "text": "also can\u2019t make it but i\u2019m interested in back-end!",
+            "user": "UFYHBEJTA",
+            "ts": "1569445196.003700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "cry",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1c919672-4cce-4c2e-9550-d9fa05d8740e",
+            "type": "message",
+            "text": "i cant make it today either but im interested in the front end and back end team!",
+            "user": "UG0CA18MN",
+            "ts": "1569445117.003400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "cry",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "21340597-009C-469F-8898-4060CD0100AD",
+            "type": "message",
+            "text": "I cant make it today but im interested in the trading team!",
+            "user": "U7FS1HMDJ",
+            "ts": "1569436326.002800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "85983e97-34ab-4e30-9975-04f61c9f30eb",
+            "type": "message",
+            "text": "and the earlier someone joins the easier it'll be to get them involved in the workflow",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569431881.002300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "d630f3b1-d7a2-458a-8875-7d4ee996a34b",
+            "type": "message",
+            "text": "invite more ktp people! the more people we have the more we can all get out of this and theres roles here for everyone",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569431837.001900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNTB3NPFY",
+                    "created": 1569431803,
+                    "timestamp": 1569431803,
+                    "name": "09252019.txt",
+                    "title": "09252019.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "Plain Text",
+                    "user": "UFZ4ZBEDS",
+                    "editable": true,
+                    "size": 533,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNTB3NPFY\/09252019.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNTB3NPFY\/download\/09252019.txt",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNTB3NPFY\/09252019.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNTB3NPFY-cee9aa12ab",
+                    "edit_link": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNTB3NPFY\/09252019.txt\/edit",
+                    "preview": "Action items 9\/25\/2019 \r\n----------------------\r\n\r\nSplit into teams:\r\n\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Action items 9\/25\/2019 <\/pre><\/div>\n<div><pre>----------------------<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>Split into teams:<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 14,
+                    "lines_more": 9,
+                    "preview_is_truncated": false,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1569431803.001200",
+            "client_msg_id": "bfe15a7b-9027-416f-8861-97b1c9e41ec5"
+        },
+        {
+            "client_msg_id": "73a43576-be58-4c7d-bb6b-b7b3eecf5990",
+            "type": "message",
+            "text": "Some action items for today:",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569431797.001100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8abfc770-d896-4329-bff3-04d732e8f29e",
+            "type": "message",
+            "text": "hey all, we have our 2nd quant meeting TODAY from 7-8:30 at NQ1265",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569431792.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "6F1F0DF8-A91C-4F89-A3DE-7A75C4F31A05",
+            "type": "message",
+            "text": "Location is now fixed on calendar",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569246080.002600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "B70DCE84-92B8-4BA2-B9A0-897288DF4AF6",
+            "type": "message",
+            "text": "Welcome to the best committee <@UNLJT0A2G> <@UNLJSUBA8> !!",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569245656.002100",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UNLJSUBA8"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "23E8E766-378C-487F-8455-C8090DF1C3AF",
+            "type": "message",
+            "text": "<@UN0V0LBCG> I've told Chris to change it",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569245609.001300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UN0V0LBCG"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "UNLJSUBA8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569204657.000900",
+            "text": "<@UNLJSUBA8> has joined the channel"
+        },
+        {
+            "user": "UNLJT0A2G",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569194489.000700",
+            "text": "<@UNLJT0A2G> has joined the channel",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "heart",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "69385759-ea2a-433a-a7f4-a3ad56e5924d",
+            "type": "message",
+            "text": "can someone change the location for our next meeting in google calendar to nq",
+            "user": "UN0V0LBCG",
+            "ts": "1569175328.000500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0B1BE4B8-A474-4134-8BBD-FA9292937FE9",
+            "type": "message",
+            "text": "Squirrel ",
+            "user": "UG0CA18MN",
+            "ts": "1568983264.000200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "drake_no",
+                    "users": [
+                        "UFZ4ZBEDS",
+                        "U7GA9464W",
+                        "UG0BDKNPR"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "0efb32a1-72aa-4041-952a-178f3db8d35c",
+            "type": "message",
+            "text": "cat",
+            "user": "UG0BDKNPR",
+            "ts": "1568949008.008800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "angry",
+                    "users": [
+                        "UFZ4ZBEDS",
+                        "U7GA9464W"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "dog",
+            "files": [
+                {
+                    "id": "FN7GHLNH1",
+                    "created": 1568948828,
+                    "timestamp": 1568948828,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "UFZ4ZBEDS",
+                    "editable": false,
+                    "size": 474003,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FN7GHLNH1\/image.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FN7GHLNH1\/download\/image.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FN7GHLNH1-70a68df700\/image_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FN7GHLNH1-70a68df700\/image_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FN7GHLNH1-70a68df700\/image_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 341,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FN7GHLNH1-70a68df700\/image_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 455,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FN7GHLNH1-70a68df700\/image_160.png",
+                    "image_exif_rotation": 1,
+                    "original_w": 564,
+                    "original_h": 535,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FN7GHLNH1\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FN7GHLNH1-1175e2e04c",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1568948830.008400",
+            "client_msg_id": "617db32f-8a51-4f3b-82c2-4cdc515a6a64"
+        },
+        {
+            "client_msg_id": "05759DE0-1DBD-42A5-B191-287070616E74",
+            "type": "message",
+            "text": "We\u2019ll have all future meetings there",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568902055.007500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "A5353C58-3B10-475E-A7BA-CF0238608B05",
+            "type": "message",
+            "text": "we now have a DEDICATED room 1265 North Quad",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568902052.007300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UFZ9KS6D8",
+                        "UN0V0LBCG",
+                        "UFYHBEJTA",
+                        "UG0BDKNPR",
+                        "UFZ9GSZEW",
+                        "U94BTEG3A"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "user": "UFZ4U8M44",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568857098.006600",
+            "text": "<@UFZ4U8M44> has joined the channel",
+            "reactions": [
+                {
+                    "name": "money_parrot",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNK9DUN4F",
+                    "created": 1568857014,
+                    "timestamp": 1568857014,
+                    "name": "Quant 9_18_2019.docx",
+                    "title": "Quant 9_18_2019.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word Document",
+                    "user": "UFZ4ZBEDS",
+                    "editable": false,
+                    "size": 7335,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNK9DUN4F\/quant_9_18_2019.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNK9DUN4F\/download\/quant_9_18_2019.docx",
+                    "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK9DUN4F-8d8a9c54f4\/quant_9_18_2019_converted.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNK9DUN4F-8d8a9c54f4\/quant_9_18_2019_thumb_pdf.png",
+                    "thumb_pdf_w": 935,
+                    "thumb_pdf_h": 1210,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFZ4ZBEDS\/FNK9DUN4F\/quant_9_18_2019.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNK9DUN4F-36d8d2fc89",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFZ4ZBEDS",
+            "display_as_bot": false,
+            "ts": "1568857015.006200",
+            "client_msg_id": "7726812b-3bef-4449-bcfb-dd90b9a6d677"
+        },
+        {
+            "client_msg_id": "674fe67d-9288-47cb-a1ce-2ebf46511cb6",
+            "type": "message",
+            "text": "ill be typing these up every week:",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568857006.006100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1914d8d1-8283-4fa2-b462-6a554e3c1698",
+            "type": "message",
+            "text": "next week we will do some recruiting questions\/prep and get started on some foundations of the trading infrastructure",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568856366.005900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "2ca53bfe-8278-4877-bfd0-dd5ff16fac21",
+            "type": "message",
+            "text": "DM me if u have any more questions or were interested in any of the things i mentioned through here or preferably fb messenger",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568856348.005400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U94BTEG3A",
+                        "UG0BDKNPR"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4bde1d1e-4745-4ee4-acf0-89bdc8328c99",
+            "type": "message",
+            "text": "thanks for coming today it was a great meeting",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568856325.004900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U94BTEG3A",
+                        "UD638RWGG",
+                        "UG0BDKNPR"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "user": "U94BTEG3A",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568847749.004600",
+            "text": "<@U94BTEG3A> has joined the channel"
+        },
+        {
+            "user": "UG0BDKNPR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568847738.004400",
+            "text": "<@UG0BDKNPR> has joined the channel"
+        },
+        {
+            "user": "UFZ9GSZEW",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568847647.004200",
+            "text": "<@UFZ9GSZEW> has joined the channel"
+        },
+        {
+            "client_msg_id": "2c3c9411-1083-4924-8533-ea7350a273d8",
+            "type": "message",
+            "text": "oo",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568847618.004000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "44D4755A-FAE5-4806-B274-3B34EB1B17E9",
+            "type": "message",
+            "text": "I have a couch thing in the winter garden if that\u2019s better ",
+            "user": "UFZ9KS6D8",
+            "ts": "1568847323.003600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "4B21F477-9359-4895-9321-E96A00757C41",
+            "type": "message",
+            "text": "Near the connector between the two buildings ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568847254.003000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UN0V0LBCG"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2EFB4843-11F5-47F1-9D84-50F3DCF1BD2B",
+            "type": "message",
+            "text": "I'm on the 2nd floor above Winter garden ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568847226.002600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "5CC994E5-4BA9-4540-B59C-6D9F0D8F4F9A",
+            "type": "message",
+            "text": "Next time we'll get a room in North Quad or smth",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568847135.002300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "2894452A-91A0-4EAF-915D-2EDDB535824E",
+            "type": "message",
+            "text": "Ok I found space ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568847127.001900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0a600fa0-a0c1-4d80-a298-8168026765c3",
+            "type": "message",
+            "text": "we'll find space there",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568819640.001500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "conga_parrot",
+                    "users": [
+                        "UN0V0LBCG"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3c1c839b-5d77-4b90-a31f-c232e74b4119",
+            "type": "message",
+            "text": "7-8:30 Ross winter garden",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568819634.001300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "79db203f-a6dd-4a04-8b44-b6f70c850a72",
+            "type": "message",
+            "text": "yee",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568819630.000900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "E2C61E93-1F72-419C-8B11-4D8D8D1065D3",
+            "type": "message",
+            "text": "is quant meeting today?",
+            "user": "UN0V0LBCG",
+            "ts": "1568819495.000700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UN0V0LBCG",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1568819485.000200",
+            "text": "<@UN0V0LBCG> has joined the channel"
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

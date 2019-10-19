@@ -1,0 +1,480 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "9e2623ef-b79b-454e-bb38-2b7a1ab5cd22",
+            "type": "message",
+            "text": "MARKETING MEETING TODAY 6;30 HELP US BRAINSTORM OUR NEW RUSH VIDEOS",
+            "user": "U7CFFQACR",
+            "ts": "1570032265.001000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "852be8ab-006a-4c64-9d02-31252d9700cc",
+            "type": "message",
+            "text": "LMFAOOO",
+            "user": "U7CFFQACR",
+            "ts": "1569539655.008500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "D2DB43B6-CE12-4D8B-AF04-ABFBD8E8B002",
+            "type": "message",
+            "text": "time to use my college education for something productive ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569539647.008300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7GA9464W",
+                        "UD7SGH4FR",
+                        "UD6775W9F"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "34288555-81E6-4B93-9BEE-D09303155487",
+            "type": "message",
+            "text": "\u201cThrow shade at theta tau\u201d LMAO",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569539620.007900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "70af0db8-5ae2-4c5a-abf1-b779e2bee9a4",
+            "type": "message",
+            "text": "my spacebar i sf ucked  u p  im sorry",
+            "user": "U7CFFQACR",
+            "ts": "1569539596.007600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "60cf2264-7a5e-4a3c-a9e3-843a632a8737",
+            "type": "message",
+            "text": "we w ere l ike we n eed to harness the  power o f  umich  memes  for  wolverteens and then  flan  was  like JUNHO",
+            "user": "U7CFFQACR",
+            "ts": "1569539574.007300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "UD70WD9QV",
+                        "U7J0HDV8B",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "E9D56C99-DF10-4DC5-9D51-4B06BB190F81",
+            "type": "message",
+            "text": "how did you know that:eyes:",
+            "user": "UD70WD9QV",
+            "ts": "1569539563.007100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "f814ad8b-c884-4021-bd8a-3931519c21e3",
+            "type": "message",
+            "text": "YES HAHAHAHA",
+            "user": "U7CFFQACR",
+            "ts": "1569539545.006400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "F8BB0CA5-A5BC-428C-B0B8-0DDFE2F9B396",
+            "type": "message",
+            "text": "did I just get assigned to make a meme",
+            "user": "UFZ4ZBEDS",
+            "ts": "1569539521.006200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7DUZ8FGF",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1569538260.005900",
+            "text": "<@U7DUZ8FGF> has left the channel"
+        },
+        {
+            "user": "U962SP555",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569537505.005600",
+            "text": "<@U962SP555> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "<https:\/\/docs.google.com\/document\/d\/1PuWYzWFhMMYrYh2BLmIEvodoTYmTYaXTSorLmIjA9ek\/edit?usp=sharing>",
+            "files": [
+                {
+                    "id": "FNFJ6FC91",
+                    "created": 1569537358,
+                    "timestamp": 1569537358,
+                    "name": "19",
+                    "title": "MARKETING MEETING 9\/26\/19",
+                    "mimetype": "application\/vnd.google-apps.document",
+                    "filetype": "gdoc",
+                    "pretty_type": "GSuite Document",
+                    "user": "U7CFFQACR",
+                    "editable": false,
+                    "size": 3,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/docs.google.com\/document\/d\/1PuWYzWFhMMYrYh2BLmIEvodoTYmTYaXTSorLmIjA9ek\/edit?usp=sharing",
+                    "thumb_64": "https:\/\/a.slack-edge.com\/80588\/img\/files\/gdraw_64.png",
+                    "thumb_360": "https:\/\/a.slack-edge.com\/80588\/img\/files\/gdraw_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 167,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7CFFQACR\/FNFJ6FC91\/19",
+                    "is_starred": false,
+                    "external_id": "1PuWYzWFhMMYrYh2BLmIEvodoTYmTYaXTSorLmIjA9ek",
+                    "external_url": "https:\/\/docs.google.com\/document\/d\/1PuWYzWFhMMYrYh2BLmIEvodoTYmTYaXTSorLmIjA9ek\/edit?usp=sharing",
+                    "has_rich_preview": true
+                }
+            ],
+            "upload": false,
+            "user": "U7CFFQACR",
+            "display_as_bot": false,
+            "x_files": [
+                "FNFJ6FC91"
+            ],
+            "ts": "1569537356.004900",
+            "client_msg_id": "ea927cfa-7b1e-4697-9816-8392a30fedfa"
+        },
+        {
+            "client_msg_id": "69441d97-bc39-4bee-9458-acb7600092c4",
+            "type": "message",
+            "text": "estoy aqui",
+            "user": "U7H8W4631",
+            "ts": "1569537308.004700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "53bcf606-2fbf-4239-909e-ca4c2f022b92",
+            "type": "message",
+            "text": "get your asses here to market you CHUMPS",
+            "user": "U7J0HDV8B",
+            "ts": "1569536948.004000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "peach",
+                    "users": [
+                        "U7GA9464W"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "0BDF6E34-1C46-42DB-9CD4-50F3152DE556",
+            "type": "message",
+            "text": "das fine!!!",
+            "user": "U7CFFQACR",
+            "ts": "1569512194.003500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569502195.002100",
+            "parent_user_id": "U7CFFQACR"
+        },
+        {
+            "client_msg_id": "e4c1ecd3-85e6-46bd-a0cb-d05d6d872a40",
+            "type": "message",
+            "text": "I can come late",
+            "user": "UD70WD9QV",
+            "ts": "1569508768.003200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569502195.002100",
+            "parent_user_id": "U7CFFQACR"
+        },
+        {
+            "client_msg_id": "af66a1b8-0daf-4644-b37c-b9d67a00e47f",
+            "type": "message",
+            "text": "I will be there and not b square",
+            "user": "U7H8W4631",
+            "ts": "1569507791.002500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "large_blue_circle",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7CFFQACR"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "red_circle",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7CFFQACR"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "white_circle",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7CFFQACR"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "black_circle",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7CFFQACR"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d2625538-8d3d-4d4f-ae67-cd9526702803",
+            "type": "message",
+            "text": "an hour",
+            "user": "U7CFFQACR",
+            "ts": "1569502195.002100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569502195.002100",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1569512194.003500",
+            "reply_users": [
+                "UD70WD9QV",
+                "U7CFFQACR"
+            ],
+            "replies": [
+                {
+                    "user": "UD70WD9QV",
+                    "ts": "1569508768.003200"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569512194.003500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "9284f2b2-60c0-4218-9979-a3453a2896fa",
+            "type": "message",
+            "text": "oh  noo",
+            "user": "U7CFFQACR",
+            "ts": "1569502194.001900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "88C11599-7B52-4EFA-BA5E-317EC9EC7DC8",
+            "type": "message",
+            "text": "how long will it last? I have class til 7 :\/ ",
+            "user": "UD70WD9QV",
+            "ts": "1569502186.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "bdeb4741-408e-493a-b646-3a6ef4a1f874",
+            "type": "message",
+            "text": "ten points! tea! fun!",
+            "user": "U7CFFQACR",
+            "ts": "1569502108.001100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "07ca97fb-0bc5-4b2c-985d-b218eb9630bf",
+            "type": "message",
+            "text": "6:30 300 east jeff wooo",
+            "user": "U7CFFQACR",
+            "ts": "1569502100.000900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "44281387-43a3-405d-bd5a-a8fb41984cc1",
+            "type": "message",
+            "text": "afterwards i will be making the trek to ethics any of u are welcome to come with",
+            "user": "U7CFFQACR",
+            "ts": "1569502086.000600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "dd68219c-8856-46c4-a359-fd896b31797a",
+            "type": "message",
+            "text": "marketing meeting!!! today",
+            "user": "U7CFFQACR",
+            "ts": "1569502076.000200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "40b310bc-d74a-4d97-be55-667fe9f0d8b5",
+            "type": "message",
+            "text": "haha get it",
+            "user": "U7GA9464W",
+            "ts": "1569360696.001600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569252409.000900",
+            "parent_user_id": "U7CFFQACR"
+        },
+        {
+            "client_msg_id": "8ED43A96-BF33-4B4D-B433-2B01A8D6B205",
+            "type": "message",
+            "text": "thank u sam ",
+            "user": "UD70WD9QV",
+            "ts": "1569357492.001200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7CFFQACR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4e7b2524-c096-4ca0-9482-00942c013ab3",
+            "type": "message",
+            "text": ":custard:",
+            "user": "U7CFFQACR",
+            "ts": "1569357386.000700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD70WD9QV",
+                        "U7H8W4631",
+                        "U9542L21Y"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "dac401a9-1053-4f9c-a912-50aceb551675",
+            "type": "message",
+            "text": "welcome flan",
+            "user": "U7CFFQACR",
+            "ts": "1569357370.000500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD70WD9QV",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "UD70WD9QV",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569352978.000200",
+            "text": "<@UD70WD9QV> has joined the channel",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7CFFQACR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "54605395-bc6d-45a2-8444-72859c80a947",
+            "type": "message",
+            "text": ":wink:",
+            "user": "U7CFFQACR",
+            "ts": "1569252429.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c773fdc2-86cc-45b9-8d6f-bc733c259bbf",
+            "type": "message",
+            "text": "come it will be at me house and we will talk about what we did and didn\u2019t do well this sem",
+            "user": "U7CFFQACR",
+            "ts": "1569252428.001400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7H8W4631",
+                        "U7CTEEYDS",
+                        "U9542L21Y",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "c284888a-3dab-4122-8b5b-54fa26b6b169",
+            "type": "message",
+            "text": "hi y\u2019all meeting gonna be this thurs at 6:30 this week because im not gonna be in town wed eve srry",
+            "user": "U7CFFQACR",
+            "ts": "1569252409.000900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569252409.000900",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1569360696.001600",
+            "reply_users": [
+                "U7GA9464W"
+            ],
+            "replies": [
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1569360696.001600"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "rainbow",
+                    "users": [
+                        "U7GA9464W"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "scream_cat",
+                    "users": [
+                        "U7GA9464W"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}
