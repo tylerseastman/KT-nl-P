@@ -1,0 +1,2150 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "580a4792-f9be-4304-bb2d-b49c097bf39b",
+            "type": "message",
+            "text": "walk up demand dance off",
+            "user": "U7CFFQACR",
+            "ts": "1571328780.003000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UD7SGH4FR",
+                        "UD6KPRFHS",
+                        "U7H8W4631"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "cf28ef53-8405-47dd-a910-2e8c1de6d302",
+            "type": "message",
+            "text": "Omg hes one of us",
+            "user": "U7HASRAC8",
+            "ts": "1571328765.002600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "708DF11B-1B67-45F2-900C-0616FCCBA154",
+            "type": "message",
+            "text": "Ricks dancer spotting: 12:09 PM, seen in dude connector wearing an eecs jacket",
+            "user": "U7J0HDV8B",
+            "ts": "1571328602.001900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "open_mouth",
+                    "users": [
+                        "U7C661T32",
+                        "U7HASRAC8",
+                        "U7GB5CTNY",
+                        "U7CUU7293",
+                        "UD7SGH4FR",
+                        "U9628B2GP",
+                        "U7H8W4631"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "44fa5220-2c72-4a05-93aa-c9c5dda4d862",
+            "type": "message",
+            "text": "is there any push tnite? I'm not really feelin ricks but maybe charleys or jug or ashleys or smthn?",
+            "user": "U7HASRAC8",
+            "ts": "1571321737.001200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "BC582583-490F-471D-830D-EAFD8EE21488",
+            "type": "message",
+            "text": "Hi peeps, <@U7GB5CTNY> and I are going to Jug! Msg if you wanna join! ",
+            "user": "U7CUU7293",
+            "ts": "1571019192.000700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "Coffee date?",
+            "files": [
+                {
+                    "id": "FP50YGT6V",
+                    "created": 1570917284,
+                    "timestamp": 1570917284,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD86QCYSJ",
+                    "editable": false,
+                    "size": 605047,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": false,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP50YGT6V\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP50YGT6V\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_480.jpg",
+                    "thumb_480_w": 361,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_720.jpg",
+                    "thumb_720_w": 541,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1065,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_960.jpg",
+                    "thumb_960_w": 721,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP50YGT6V-8c6d26c139\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 769,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 3088,
+                    "original_h": 2320,
+                    "thumb_tiny": "AwAwACSFkOCccA0KpBIx9KezK+xAcZblj2qT5VLBpF+XofUUKwMrvlRjinIOeRRJIh2hTn3p8c8ZYBxg+p6U9A1JkjZlyBmneS\/92k\/ddDcYI7A0fuf+fk\/99UczCxVeSIYEacZ5PepHmWaMKsZ57Cq+08kjGKVG9KgtFm1ULEA0Wc5JJFV5043CMoO1WLd\/MjIDcrximD5iI5WwoPJoB7CLEdo4HSl8o\/3amaW3zw7j6Ck82D\/no\/5UWYrooSSM\/finJFIV44FJbR+bKB2HJrUigChieeOM1RNypawdcnjpx2p\/2bDZYkgVaeFFi2rkZIzinsv7vmp6ldCmLFiARLjIzyKX7A3\/AD1H5VoAYGBRVEn\/2Q==",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD86QCYSJ\/FP50YGT6V\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP50YGT6V-220f803445",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD86QCYSJ",
+            "display_as_bot": false,
+            "ts": "1570917288.002500",
+            "client_msg_id": "D0A94519-FD57-4037-84C8-9C6E45906069",
+            "thread_ts": "1570917288.002500",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1570918117.003900",
+            "reply_users": [
+                "U7EKJT35Y",
+                "U7CUU7293"
+            ],
+            "replies": [
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570917930.003100"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570918117.003900"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U94B65R6U",
+                        "U7F1RLY2C",
+                        "U7CUU7293",
+                        "U7J0HDV8B",
+                        "U7H8W4631",
+                        "UD6KPRFHS",
+                        "U7CFFQACR",
+                        "U7GB5CTNY"
+                    ],
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "client_msg_id": "36a107c2-e926-4479-9381-2d1be9914c8c",
+            "type": "message",
+            "text": "Anyone going out tonight?",
+            "user": "U7C5RPUTS",
+            "ts": "1570832712.001500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570832712.001500",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570832726.001700",
+            "reply_users": [
+                "U7CUU7293"
+            ],
+            "replies": [
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570832726.001700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FP9NPAYVB",
+                    "created": 1570765846,
+                    "timestamp": 1570765846,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UD6KPRFHS",
+                    "editable": false,
+                    "size": 459325,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": false,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP9NPAYVB\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP9NPAYVB\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_480.jpg",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_720.jpg",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_960.jpg",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP9NPAYVB-02792a8b24\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 2576,
+                    "original_h": 1932,
+                    "thumb_tiny": "AwAwACTOBpaQKcZpcYPWgBaSjil49aAEopaMUASlyUwOAKjKFskA4HU00MSRVkfKnBGPWkPcq4NGDnFWoAPvBetMlGWzjFMLDMUYp1FAiOMA5qWTcVAx17VZt7YffI47CnTKFkz6DmlcorQnKbe461IEyPmAP44qJEIJPrUqSuXCsoxQBA6lWxg0nPoafMx8w5NM3H1oEf\/Z",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD6KPRFHS\/FP9NPAYVB\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP9NPAYVB-1446182800",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD6KPRFHS",
+            "display_as_bot": false,
+            "ts": "1570765850.028700",
+            "client_msg_id": "6E440C52-EAE3-425E-9503-301D7EA0560C",
+            "thread_ts": "1570765850.028700",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1570802718.000600",
+            "reply_users": [
+                "UD7SGH4FR",
+                "U94B65R6U"
+            ],
+            "replies": [
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1570800330.000200"
+                },
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570802718.000600"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7DUZ8FGF",
+                        "U7H8W4631",
+                        "U7CUU7293",
+                        "UD7SGH4FR",
+                        "U7GB5CTNY",
+                        "U7EKJT35Y",
+                        "U7FP02FD5"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "917D4B08-34AC-4A77-BF83-B0FDCCA9DD5D",
+            "type": "message",
+            "text": "Wow ouch that\u2019s a different level of burn ",
+            "user": "U7CUU7293",
+            "ts": "1570757252.020500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570757252.020500",
+            "reply_count": 16,
+            "reply_users_count": 2,
+            "latest_reply": "1570757386.026800",
+            "reply_users": [
+                "U7EKJT35Y",
+                "U7CUU7293"
+            ],
+            "replies": [
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757275.020900"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757291.021400"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757295.021700"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757300.022100"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757301.022300"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757309.022700"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757315.023200"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757317.023400"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757320.023700"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757328.024100"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757331.024400"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757333.024700"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757345.025400"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757349.025700"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757376.026400"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757386.026800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "ab4e2e68-e735-426f-b68f-ea7cba10bd9e",
+            "type": "message",
+            "text": "FUCK",
+            "user": "U7F1RLY2C",
+            "ts": "1570757218.019100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "AAB34051-4E29-4BA7-9828-C47E3FD06AFE",
+            "type": "message",
+            "text": "If anything this would up our productivity ",
+            "user": "U7GA9464W",
+            "ts": "1570757210.018800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7F1RLY2C",
+                        "UD6KPRFHS",
+                        "U7EKJT35Y",
+                        "U7CUU7293",
+                        "U9628B2GP",
+                        "U7H8W4631",
+                        "U7CFFQACR",
+                        "U94EEKF3K"
+                    ],
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "client_msg_id": "8629460f-ea83-4299-9e22-18383192f70d",
+            "type": "message",
+            "text": "alright <@U7GA9464W> <@U94EEKF3K> figure it out, cya tomorrow?",
+            "user": "U7F1RLY2C",
+            "ts": "1570757188.017600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "BC016C36-A1BB-41F8-A9EE-951BCED52D93",
+            "type": "message",
+            "text": "Fuck you Arjun using 482 as an excuse is the lamest thing ever",
+            "user": "U7GA9464W",
+            "ts": "1570757168.016700",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U7GA9464W",
+                "ts": "1570757189.000000"
+            },
+            "thread_ts": "1570757168.016700",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570757206.018600",
+            "reply_users": [
+                "U7EKJT35Y"
+            ],
+            "replies": [
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570757206.018600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "45359D74-97AA-474C-A80B-6A11EC2B9E53",
+            "type": "message",
+            "text": "Once you all are done you will have the best night out ever ",
+            "user": "U7EKJT35Y",
+            "ts": "1570757163.016300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "BFD9901F-FD70-46ED-B1B6-1DDC04835EF0",
+            "type": "message",
+            "text": "Let\u2019s get this thread bois",
+            "user": "UD6KPRFHS",
+            "ts": "1570757145.014600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7CUU7293",
+                        "U7HASRAC8",
+                        "U9628B2GP",
+                        "U7H8W4631",
+                        "U7J0HDV8B",
+                        "U7J5KJW13"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "35D99DCD-59DB-4BD5-A6CB-2A190C305ABB",
+            "type": "message",
+            "text": "Need reacc only",
+            "user": "U7EKJT35Y",
+            "ts": "1570757110.012700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "91A25D77-40E5-45CF-83B9-258C99095A57",
+            "type": "message",
+            "text": "nerd",
+            "user": "U7EKJT35Y",
+            "ts": "1570757095.011800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7c9cbe91-4b9a-4ac7-9ac5-52d1a9fbf3ac",
+            "type": "message",
+            "text": "2 words: thread library",
+            "user": "U7F1RLY2C",
+            "ts": "1570757037.011500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570757037.011500",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1570757150.015100",
+            "reply_users": [
+                "U7CUU7293",
+                "U7F1RLY2C"
+            ],
+            "replies": [
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757106.012400"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570757128.013700"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1570757150.015100"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "nerd_face",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "C7340B5C-D80F-4F62-AF92-0BEE9EABF250",
+            "type": "message",
+            "text": "He KNOWS THE BOUNCER ",
+            "user": "U7EKJT35Y",
+            "ts": "1570756908.010800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "C01D163A-B066-4673-9051-C77A63615098",
+            "type": "message",
+            "text": "Arjun is secretly the biggest ricks flake",
+            "user": "U7EKJT35Y",
+            "ts": "1570756902.010600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "snowflake",
+                    "users": [
+                        "UD7SGH4FR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "90894626-421C-4D63-9BDB-721C398FDE4B",
+            "type": "message",
+            "text": "HAHA",
+            "user": "U7GB5CTNY",
+            "ts": "1570756886.010200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "FA43783D-9478-4D14-ACF6-8ECAC88A1380",
+            "type": "message",
+            "text": "Just go",
+            "user": "U7EKJT35Y",
+            "ts": "1570756703.009000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1B1C5E87-1546-4C11-AB4A-EEAEC0858DA3",
+            "type": "message",
+            "text": "Bro ur bouncer is there legit every week",
+            "user": "U7EKJT35Y",
+            "ts": "1570756701.008700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FP3774DUH",
+                    "created": 1570756669,
+                    "timestamp": 1570756669,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U7F1RLY2C",
+                    "editable": false,
+                    "size": 868107,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": false,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP3774DUH\/image.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FP3774DUH\/download\/image.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 253,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 338,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 507,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 563,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FP3774DUH-a8dc990b07\/image_960.png",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 676,
+                    "image_exif_rotation": 1,
+                    "original_w": 986,
+                    "original_h": 694,
+                    "thumb_tiny": "AwAhADCsrZHWpXlDRqoQKRjkd6rKCWyPWp4gDIN3I9KALUOfJXIOSeMnipdp7oPwNIoJHQN9aax2HlSv0NMQ7K5xl1pcjjDg8+lRjh\/vEA9CalCn\/YagDHyR3qWNwJl3NtHHPvUWOaH5x9Kko0Y5VaQqAG9CeM\/SpSmTkq2O2KylcjHP5VZjuHUcNn8aq4WLu7HG\/Hsy0cH+FG+hxVX7Y47j8agluGkYc\/lxQKwwdaaetOHWmnrUjCkpaSmMUdaUdR9aQdaUdR9aAP\/Z",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7F1RLY2C\/FP3774DUH\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FP3774DUH-781cfc9b26",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7F1RLY2C",
+            "display_as_bot": false,
+            "ts": "1570756672.007700",
+            "client_msg_id": "eaff0afe-985a-4097-9204-3a519bb17a5d",
+            "reactions": [
+                {
+                    "name": "two",
+                    "users": [
+                        "U9628B2GP",
+                        "U7HASRAC8",
+                        "U7EKJT35Y",
+                        "U7FS1HMDJ",
+                        "U7H8W4631",
+                        "UD6KPRFHS",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 7
+                },
+                {
+                    "name": "one",
+                    "users": [
+                        "U9628B2GP",
+                        "U7HASRAC8",
+                        "U7EKJT35Y",
+                        "U7FS1HMDJ",
+                        "U7H8W4631",
+                        "UD6KPRFHS",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 7
+                },
+                {
+                    "name": "cry",
+                    "users": [
+                        "U7C661T32",
+                        "U7J0HDV8B",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6674C70E-A75A-4ED8-AC0C-D44C81FD84F6",
+            "type": "message",
+            "text": "He knows ",
+            "user": "U7EKJT35Y",
+            "ts": "1570756616.007600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "ED076649-256A-4E7C-A3D0-DCA5D0A13C87",
+            "type": "message",
+            "text": "Shameek saw me at live tho :face_with_hand_over_mouth::face_with_hand_over_mouth:",
+            "user": "U7EKJT35Y",
+            "ts": "1570756606.007400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1753C798-8A8C-4653-A098-6780E36E24D2",
+            "type": "message",
+            "text": "Same actually ",
+            "user": "U7GB5CTNY",
+            "ts": "1570756597.007000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8D65D9EB-9940-4A92-9608-BF29FA495D4E",
+            "type": "message",
+            "text": "U were DRJNKING A CLAW",
+            "user": "U7EKJT35Y",
+            "ts": "1570756595.006900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "742B81CD-1F58-4FF8-94D6-5475DBAC40A6",
+            "type": "message",
+            "text": "I SAW U ",
+            "user": "U7EKJT35Y",
+            "ts": "1570756586.006400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "F7AA2F38-427D-4764-B44E-1CDF4AA6DBE7",
+            "type": "message",
+            "text": "Legit haven\u2019t seen Prachi at ricks a single time! Only saw her in the line once! ",
+            "user": "U7CUU7293",
+            "ts": "1570756578.006200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "308C25A6-137D-44B3-B337-1F736DE5DDEB",
+            "type": "message",
+            "text": "I SORRY I am not in AA",
+            "user": "U7EKJT35Y",
+            "ts": "1570756572.005900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "26DDA623-8146-4036-838C-499EEFCA845C",
+            "type": "message",
+            "text": "Prachi you\u2019re not going either :triumph::triumph::triumph:",
+            "user": "U7CUU7293",
+            "ts": "1570756557.005000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "3D708602-1DA9-4ADA-A766-4F91EF106996",
+            "type": "message",
+            "text": "Hah",
+            "user": "U7GB5CTNY",
+            "ts": "1570756545.004600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "5692B34C-E0EC-467F-AE8D-D94E500C596D",
+            "type": "message",
+            "text": "everyone order a water for me",
+            "user": "U7HASRAC8",
+            "ts": "1570756541.004300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7C661T32",
+                        "U7CFFQACR"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "B8C621A9-AA5D-4D93-B597-A99E4C3212B9",
+            "type": "message",
+            "text": "Wtf ur not going either ",
+            "user": "U7EKJT35Y",
+            "ts": "1570756538.004100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "6b71a927-80a2-48bc-b558-1cb9d118245f",
+            "type": "message",
+            "text": "someone order a busch  light for me",
+            "user": "U9628B2GP",
+            "ts": "1570756523.003700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "3E6B97E6-6FD9-4ACC-BA5B-4FF0531A8522",
+            "type": "message",
+            "text": "We love u Shameek ",
+            "user": "U7EKJT35Y",
+            "ts": "1570756511.003400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "CB344D91-0D19-4746-99E9-F9B2707FB5E9",
+            "type": "message",
+            "text": "Tbh that was the most <@U7GB5CTNY> thing I\u2019ve ever said ",
+            "user": "U7CUU7293",
+            "ts": "1570756494.003100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "E302C3B9-59B0-44A3-A5C9-E8E58106466C",
+            "type": "message",
+            "text": "U bougie trash",
+            "user": "U7EKJT35Y",
+            "ts": "1570756480.002700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "D6B1EAF5-3DD9-4A8D-B3EC-E16B1F98DC1E",
+            "type": "message",
+            "text": "Exactly. It\u2019s about the flex  :wink:",
+            "user": "U7CUU7293",
+            "ts": "1570756266.002200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "-1",
+                    "users": [
+                        "U7F1RLY2C"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3BCF12CE-1A2E-4EA5-8AE0-E658B9AF4B61",
+            "type": "message",
+            "text": "1 white claw is literally 5 drinks there tho",
+            "user": "UD6KPRFHS",
+            "ts": "1570756243.001700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7H8W4631",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2BDD239B-250B-471F-A44B-DED7A06B127C",
+            "type": "message",
+            "text": "Please someone order a white claw for me ",
+            "user": "U7CUU7293",
+            "ts": "1570755978.001300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7FA75DBD-5442-46D3-8E63-EDFF3183041F",
+            "type": "message",
+            "text": ":( I hate missing a ricks nite ",
+            "user": "U7CUU7293",
+            "ts": "1570755969.000900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "BF62E190-5DBD-483B-A6DC-F610AC41EF22",
+            "type": "message",
+            "text": "Take a shot 4 me",
+            "user": "U7EKJT35Y",
+            "ts": "1570755578.000600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8979BC47-15B9-41C5-BA55-620F2582880C",
+            "type": "message",
+            "text": "Ricks pls ",
+            "user": "UD6KPRFHS",
+            "ts": "1570755556.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "D8DCFF61-30E0-4764-B032-26AAFBFFA080",
+            "type": "message",
+            "text": "^^^^ but make it tonight ",
+            "user": "UD7SGH4FR",
+            "ts": "1570749411.000300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "e80eeaf7-20d4-47ac-9bc2-25f4fcd368d2",
+            "type": "message",
+            "text": "The correct answer is Rick's",
+            "user": "U9628B2GP",
+            "ts": "1570249991.038800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "f63f9e72-e794-4185-be95-6b41c3c3652b",
+            "type": "message",
+            "text": "Is tonight Rick's or skeeps sos",
+            "user": "U9628B2GP",
+            "ts": "1570242949.036300",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U9628B2GP",
+                "ts": "1570242957.000000"
+            },
+            "thread_ts": "1570242949.036300",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1570244737.037200",
+            "reply_users": [
+                "U7EKJT35Y",
+                "U9628B2GP"
+            ],
+            "replies": [
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570244338.036600"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570244508.036900"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570244737.037200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "0bd0a861-4e02-4cb0-8734-ca6d7f2ce157",
+            "type": "message",
+            "text": "<https:\/\/kombrewcha.com\/>",
+            "user": "U9628B2GP",
+            "ts": "1570218401.035100",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Kombrewcha",
+                    "title": "Kombrewcha - The first hard Kombucha",
+                    "title_link": "https:\/\/kombrewcha.com\/",
+                    "text": "Ever heard of hard Kombucha? Probably not. That's because we are the world's first. The perfect brew to socialize without compromise.",
+                    "fallback": "Kombrewcha: Kombrewcha - The first hard Kombucha",
+                    "thumb_url": "https:\/\/kombrewcha.com\/wp-content\/uploads\/2019\/04\/KOMBREWCHA_THREE_KOMBREWCHA_CANS_WITH_INGREDIENTS.jpg",
+                    "from_url": "https:\/\/kombrewcha.com\/",
+                    "thumb_width": 2000,
+                    "thumb_height": 1333,
+                    "service_icon": "https:\/\/kombrewcha.com\/wp-content\/uploads\/2019\/04\/cropped-cropped-android-chrome-512x512-180x180.png",
+                    "id": 1,
+                    "original_url": "https:\/\/kombrewcha.com\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7H8W4631",
+                        "UD6N2B2G3",
+                        "U7CUU7293",
+                        "U7HASRAC8"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d68627d8-b6a5-49bb-b7f6-7f680396b0df",
+            "type": "message",
+            "text": "okay over summer i tried kombucha and really liked it, and my favorite mixed drink rn is kombucha w\/ vodka",
+            "user": "U7H8W4631",
+            "ts": "1570218345.034900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CUU7293",
+                        "U7HASRAC8"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "thread_broadcast",
+            "text": ":sweat_drops: SENIOR YEAR MOTTO IS HYDRATE OR DIEDRATE - ANY LIQUID :sweat_drops:",
+            "user": "U7C661T32",
+            "ts": "1570215788.031500",
+            "thread_ts": "1570215102.024000",
+            "root": {
+                "client_msg_id": "09A2C4A3-9827-4775-A487-BB513B08AA38",
+                "type": "message",
+                "text": "<@U7C661T32> <@U7CFFQACR> let\u2019s have a tea parti ",
+                "user": "U7EKJT35Y",
+                "ts": "1570215102.024000",
+                "team": "T4XRFB7FF",
+                "thread_ts": "1570215102.024000",
+                "reply_count": 16,
+                "reply_users_count": 4,
+                "latest_reply": "1570216898.033300",
+                "reply_users": [
+                    "U7EKJT35Y",
+                    "U7GB5CTNY",
+                    "U7C661T32",
+                    "U7CFFQACR"
+                ],
+                "replies": [
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215127.024300"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215142.024900"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215152.025400"
+                    },
+                    {
+                        "user": "U7GB5CTNY",
+                        "ts": "1570215167.025700"
+                    },
+                    {
+                        "user": "U7GB5CTNY",
+                        "ts": "1570215173.025900"
+                    },
+                    {
+                        "user": "U7GB5CTNY",
+                        "ts": "1570215182.026100"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215191.026700"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215226.027600"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215238.028100"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215281.029000"
+                    },
+                    {
+                        "user": "U7C661T32",
+                        "ts": "1570215636.029900"
+                    },
+                    {
+                        "user": "U7C661T32",
+                        "ts": "1570215638.030100"
+                    },
+                    {
+                        "user": "U7EKJT35Y",
+                        "ts": "1570215694.031100"
+                    },
+                    {
+                        "user": "U7C661T32",
+                        "ts": "1570215788.031500"
+                    },
+                    {
+                        "user": "U7CFFQACR",
+                        "ts": "1570216894.033000"
+                    },
+                    {
+                        "user": "U7CFFQACR",
+                        "ts": "1570216898.033300"
+                    }
+                ],
+                "subscribed": false
+            },
+            "client_msg_id": "a4478266-4db5-457e-b8ab-2710a8a40d9a",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7H8W4631",
+                        "U7CUU7293",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "ktp-logo",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7H8W4631",
+                        "U7CUU7293"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "100",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7H8W4631",
+                        "U7CUU7293"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "tech_yeah",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7H8W4631",
+                        "U7CUU7293"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "potable_water",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7CUU7293",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "09A2C4A3-9827-4775-A487-BB513B08AA38",
+            "type": "message",
+            "text": "<@U7C661T32> <@U7CFFQACR> let\u2019s have a tea parti ",
+            "user": "U7EKJT35Y",
+            "ts": "1570215102.024000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570215102.024000",
+            "reply_count": 16,
+            "reply_users_count": 4,
+            "latest_reply": "1570216898.033300",
+            "reply_users": [
+                "U7EKJT35Y",
+                "U7GB5CTNY",
+                "U7C661T32",
+                "U7CFFQACR"
+            ],
+            "replies": [
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215127.024300"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215142.024900"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215152.025400"
+                },
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1570215167.025700"
+                },
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1570215173.025900"
+                },
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1570215182.026100"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215191.026700"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215226.027600"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215238.028100"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215281.029000"
+                },
+                {
+                    "user": "U7C661T32",
+                    "ts": "1570215636.029900"
+                },
+                {
+                    "user": "U7C661T32",
+                    "ts": "1570215638.030100"
+                },
+                {
+                    "user": "U7EKJT35Y",
+                    "ts": "1570215694.031100"
+                },
+                {
+                    "user": "U7C661T32",
+                    "ts": "1570215788.031500"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570216894.033000"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570216898.033300"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7C661T32",
+                        "U7CFFQACR",
+                        "U7H8W4631"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "E3FE87DC-FD9B-45C6-BA70-FA9AAE367104",
+            "type": "message",
+            "text": "i\u2019d rather glamorize the goth hostess @ applebee\u2019s ",
+            "user": "U7F1RLY2C",
+            "ts": "1570214919.021800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "apple",
+                    "users": [
+                        "U7GA9464W",
+                        "U7F1RLY2C",
+                        "U9628B2GP"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "bee",
+                    "users": [
+                        "U7GA9464W",
+                        "U7F1RLY2C",
+                        "U9628B2GP"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "tropical_drink",
+                    "users": [
+                        "U7GA9464W",
+                        "U7F1RLY2C",
+                        "U9628B2GP"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "sweat_drops",
+                    "users": [
+                        "U94B65R6U",
+                        "U9628B2GP"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9c05dc57-9577-4e18-92d3-7ce4e00492e9",
+            "type": "message",
+            "text": "now that's more like it",
+            "user": "U9628B2GP",
+            "ts": "1570214883.020500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CTEEYDS",
+                        "U7GA9464W",
+                        "UD6KPRFHS",
+                        "U7CFFQACR",
+                        "U7H8W4631"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9ED92CDC-F590-45A7-A374-97E1A0A01C5A",
+            "type": "message",
+            "text": "Dammit Tyler ",
+            "user": "U7EKJT35Y",
+            "ts": "1570214883.020400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7C661T32",
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "U7HASRAC8",
+                        "U7CTEEYDS"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "D96442E6-5A74-40F9-BD19-7777E1B33D3A",
+            "type": "message",
+            "text": "Twisted Tea Party ",
+            "user": "U7CTEEYDS",
+            "ts": "1570214876.020000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U9628B2GP",
+                        "U7CTEEYDS",
+                        "U7GA9464W",
+                        "UD6KPRFHS",
+                        "U7GB5CTNY",
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "U7HASRAC8"
+                    ],
+                    "count": 9
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2D4B1244-1818-44A4-B93E-8F43DA9CE5F2",
+            "type": "message",
+            "text": "WE ARE HAVIG A TEA PARTY",
+            "user": "U7EKJT35Y",
+            "ts": "1570214829.019400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "27242FA3-1D65-4754-ADBA-1A08571035E4",
+            "type": "message",
+            "text": "stream of consciousness ",
+            "user": "U7EKJT35Y",
+            "ts": "1570214823.019100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "742C5636-830A-458C-A6DA-3396DC0906A9",
+            "type": "message",
+            "text": "OMG ",
+            "user": "U7EKJT35Y",
+            "ts": "1570214812.018600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "B57E3531-FA41-4157-B1D6-C8119DE668B3",
+            "type": "message",
+            "text": "Can we have a tea party",
+            "user": "U7EKJT35Y",
+            "ts": "1570214809.018500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "28601D0F-8FED-4823-BA2D-05AE923FC263",
+            "type": "message",
+            "text": "Tea &gt; alc look at this cute ass weather it literally screams tea ",
+            "user": "U7EKJT35Y",
+            "ts": "1570214787.018200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "point_up_2",
+                    "users": [
+                        "U7C661T32",
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "U7HASRAC8"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "016164C6-541B-4286-9E3E-3CD7486FB7C1",
+            "type": "message",
+            "text": "Can we glamorize drinking tea ",
+            "user": "U7EKJT35Y",
+            "ts": "1570214733.016200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U7DUZ8FGF",
+                        "U7CTEEYDS",
+                        "U7C661T32",
+                        "U7CFFQACR",
+                        "U7H8W4631"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "94009581-E702-4FA2-9546-E3E9B2644BBD",
+            "type": "message",
+            "text": "Y\u2019all I\u2019m 21, and the 20-year-old roasting is starting to hurt *me* :joy::sob::cry:",
+            "user": "U7C661T32",
+            "ts": "1570209904.013800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7EKJT35Y",
+                        "U7HASRAC8"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "77683893-fc54-4784-8585-ac135d7d22d2",
+            "type": "message",
+            "text": "ily arjun :heart:",
+            "user": "U7H8W4631",
+            "ts": "1570208763.012000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7GB5CTNY",
+                        "UD7SGH4FR",
+                        "U9628B2GP"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "A298A099-D10F-4BA1-9937-0B201F5294A1",
+            "type": "message",
+            "text": "Alright usually it\u2019s warranted but i\u2019m feeling real attacked here ",
+            "user": "U7F1RLY2C",
+            "ts": "1570206287.009300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7H8W4631",
+                        "U7GA9464W",
+                        "U7C661T32",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "F6978757-2DDA-4C14-9DCB-81ACBE1895C4",
+            "type": "message",
+            "text": "Go poop in bunts basement you weirdo ",
+            "user": "U7GA9464W",
+            "ts": "1570205937.008000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "U9628B2GP"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "party_poop",
+                    "users": [
+                        "U7F1RLY2C"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "A5037A45-673D-4335-9DE0-6FE9826039E0",
+            "type": "message",
+            "text": "^^^^",
+            "user": "U94B65R6U",
+            "ts": "1570205925.007600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "9EA6BB06-A0F0-4C65-9DC9-BEB00C6097B3",
+            "type": "message",
+            "text": "Hahah fuck you arjun ",
+            "user": "U7GA9464W",
+            "ts": "1570205916.007400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7FS1HMDJ",
+                        "U7CFFQACR",
+                        "U9628B2GP",
+                        "UD6KPRFHS",
+                        "U7CUU7293"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "-1",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CFFQACR",
+                        "U9628B2GP",
+                        "U7CUU7293"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "940B1FC5-073D-4100-9C64-568B89E5842A",
+            "type": "message",
+            "text": "That\u2019s cute Arjun are you gonna get the non alcoholic dollar vampire for your 20 yr old self ",
+            "user": "U94EEKF3K",
+            "ts": "1570205905.007100",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7FS1HMDJ",
+                        "U7CFFQACR",
+                        "U94T1U76F",
+                        "U7H8W4631",
+                        "U7GB5CTNY",
+                        "UD7SGH4FR",
+                        "U9628B2GP",
+                        "UD6KPRFHS",
+                        "U7CUU7293"
+                    ],
+                    "count": 9
+                },
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CFFQACR",
+                        "U94T1U76F",
+                        "U7H8W4631",
+                        "U7GB5CTNY",
+                        "UD7SGH4FR",
+                        "U9628B2GP",
+                        "U7CUU7293"
+                    ],
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9cd31781-d377-466d-add8-e0bf9ec6fc19",
+            "type": "message",
+            "text": "we shall discuss at eboard",
+            "user": "U9628B2GP",
+            "ts": "1570205845.005800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "2D9267B8-EEAA-4F1A-AD5D-16EA588B8F24",
+            "type": "message",
+            "text": "GOD THATS SUCH A GOOD IDEA ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205822.005400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U7CNVHDLK",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "75a97c63-8c7d-4640-8d86-e85677c4845d",
+            "type": "message",
+            "text": "that's grand",
+            "user": "U9628B2GP",
+            "ts": "1570205816.005000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0bc03282-b051-486a-9d65-3049f75338c0",
+            "type": "message",
+            "text": "DRIVE THE DRUNK SENIOrs",
+            "user": "U9628B2GP",
+            "ts": "1570205810.004600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "tech_yeah",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7HASRAC8",
+                        "U7FS1HMDJ",
+                        "UD6KPRFHS",
+                        "U7H8W4631",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9c4cd12f-6011-47a3-bdad-f69421878f71",
+            "type": "message",
+            "text": "OMIGOD",
+            "user": "U9628B2GP",
+            "ts": "1570205806.004400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "DDAA29E8-EE59-4B21-82D3-57C03EFB92BA",
+            "type": "message",
+            "text": "TO DD THE SENIORS TO APPLEBEES ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205805.004300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "partyparrot",
+                    "users": [
+                        "U7FS1HMDJ",
+                        "UD6KPRFHS",
+                        "U94B65R6U",
+                        "U7FH6LT3M",
+                        "U7CNVHDLK",
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "U7GB5CTNY",
+                        "UD7SGH4FR",
+                        "U9628B2GP"
+                    ],
+                    "count": 10
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6EC5CB77-1DE5-4FDC-9FA5-A7D60C612B35",
+            "type": "message",
+            "text": "WE ADD A PLEDGE TASK ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205801.004000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "12ADF8C7-BEEE-41F1-8CEA-6976A3F484FB",
+            "type": "message",
+            "text": "EVEN BETTER ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205798.003800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "043B3033-7CFE-46F0-9C5E-1D76A6D578CC",
+            "type": "message",
+            "text": "or no wait even better ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205795.003600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c04e47cc-4377-46bd-969a-846f9a7444d6",
+            "type": "message",
+            "text": "actually tho not against it",
+            "user": "U9628B2GP",
+            "ts": "1570205786.003300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "U7GB5CTNY",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "a7d52988-e765-4e7c-8df6-5e92dd9f83ad",
+            "type": "message",
+            "text": "LOL",
+            "user": "U9628B2GP",
+            "ts": "1570205771.002900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "677130F4-DCEE-4C8A-8FE1-DD767E789BF2",
+            "type": "message",
+            "text": "subsidized uber\u2019s? ily fern :-)",
+            "user": "U7F1RLY2C",
+            "ts": "1570205766.002700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "ebcc133d-8dc1-406d-a892-6f1b6a21f48f",
+            "type": "message",
+            "text": "how we finna get there",
+            "user": "U9628B2GP",
+            "ts": "1570205754.002200",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U9628B2GP",
+                "ts": "1570205758.000000"
+            }
+        },
+        {
+            "client_msg_id": "FF42521A-5363-4A0B-8B9F-46C65B9B3924",
+            "type": "message",
+            "text": "ok how about this, i plan a seniors only Applebee\u2019s push that we get points for ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205748.002000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U94B65R6U",
+                        "U7CFFQACR",
+                        "U7H8W4631",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7B78407A-13EF-4B38-9850-C3BAE060B760",
+            "type": "message",
+            "text": "This is absolutely a send ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205735.000900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "299EA05D-DE3F-4526-A2A2-C4D0F4D6882D",
+            "type": "message",
+            "text": "Oh my fucking god yes ",
+            "user": "U7F1RLY2C",
+            "ts": "1570205730.000600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNQNT28D9",
+                    "created": 1570205700,
+                    "timestamp": 1570205700,
+                    "name": "Screenshot_20191004-121430_Twitter.jpg",
+                    "title": "Screenshot_20191004-121430_Twitter.jpg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U9628B2GP",
+                    "editable": false,
+                    "size": 142714,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": false,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNQNT28D9\/screenshot_20191004-121430_twitter.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNQNT28D9\/download\/screenshot_20191004-121430_twitter.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_360.jpg",
+                    "thumb_360_w": 264,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_480.jpg",
+                    "thumb_480_w": 352,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_720.jpg",
+                    "thumb_720_w": 527,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1092,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_960.jpg",
+                    "thumb_960_w": 703,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNQNT28D9-04d85b6273\/screenshot_20191004-121430_twitter_1024.jpg",
+                    "thumb_1024_w": 750,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1076,
+                    "original_h": 1469,
+                    "thumb_tiny": "AwAwACPQzJvYYAXHynvSgNnk\/pTSDk8d\/Sjn0P5UASUVEQc9P0\/+vQAQRgfpQBLRSA5FLQBny32yaRViXch4PrTW1CUHiND+JqvOMXc5+v8ASnxowlckYGeKBotfa5lGZI1A7U37bLu27E+uTiodrurBh19e9RTvtY4GCecD1oEzXhcyRKxxk+lPqCy\/49I\/pU9AFSSyjeVnJbLHPanC1Uc7nqxjnqfzoxyOv50AV\/sqYI+fn3ppsIiOS5+pq30ooAbFGIo1Reg6U6iigD\/\/2Q==",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U9628B2GP\/FNQNT28D9\/screenshot_20191004-121430_twitter.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNQNT28D9-4ce30911bc",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U9628B2GP",
+            "display_as_bot": false,
+            "ts": "1570205705.000100",
+            "client_msg_id": "b6ced361-ea8c-438f-acab-00040e94411a",
+            "thread_ts": "1570205705.000100",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1570205745.001700",
+            "reply_users": [
+                "U94B65R6U",
+                "U9628B2GP"
+            ],
+            "replies": [
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570205738.001300"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570205745.001700"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U94B65R6U",
+                        "U9628B2GP",
+                        "U7FS1HMDJ",
+                        "U7H8W4631",
+                        "UD7SGH4FR"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "D2F10EE5-9749-4FFB-8D2C-CD4D91C8E5E3",
+            "type": "message",
+            "text": "YES",
+            "user": "U7G9GQHL0",
+            "ts": "1570159525.063200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": "did someone say \"i hate apple\"?",
+            "user": "USLACKBOT",
+            "ts": "1570158297.062900"
+        },
+        {
+            "client_msg_id": "18843CEF-59EE-4D17-8373-75D0D9BDF904",
+            "type": "message",
+            "text": "Is Chan at ricks ",
+            "user": "U7EKJT35Y",
+            "ts": "1570158297.062800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "72C03CE5-EA91-4E07-8937-87B02E32F5F9",
+            "type": "message",
+            "text": "PUSH RIX",
+            "user": "U7G9GQHL0",
+            "ts": "1570155743.061900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7HASRAC8"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "37893CF6-F681-4491-B336-713990521FC5",
+            "type": "message",
+            "text": "REVANKA:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:H",
+            "user": "U7EKJT35Y",
+            "ts": "1570154165.061100",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U7EKJT35Y",
+                "ts": "1570154212.000000"
+            }
+        },
+        {
+            "client_msg_id": "F175BA6C-0445-4CFD-A4B5-B908C4019494",
+            "type": "message",
+            "text": "FLEX",
+            "user": "U7EKJT35Y",
+            "ts": "1570154148.060700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "91AC2739-BBE3-491F-8C11-79D1E5B840B2",
+            "type": "message",
+            "text": "BOUGIE ",
+            "user": "U7EKJT35Y",
+            "ts": "1570154142.060500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "347F2EE7-CCA0-435B-8F3E-3AF98223916F",
+            "type": "message",
+            "text": "Does ricks give change I only have $20\u2019s",
+            "user": "U7FPQE2NR",
+            "ts": "1570154129.060300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570154129.060300",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1570237663.036100",
+            "reply_users": [
+                "U7CFFQACR",
+                "U7FPQE2NR"
+            ],
+            "replies": [
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570155897.062400"
+                },
+                {
+                    "user": "U7FPQE2NR",
+                    "ts": "1570209329.012400"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570237659.035900"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570237663.036100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "BBD6BCEA-E86E-43BE-A8A6-5E1B7EE00ACE",
+            "type": "message",
+            "text": "This hit deep ",
+            "user": "U7GA9464W",
+            "ts": "1570147945.059400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570147945.059400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570155419.061600",
+            "reply_users": [
+                "U9628B2GP"
+            ],
+            "replies": [
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570155419.061600"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U9628B2GP"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "DEBC0ED1-D04C-47A6-802E-F72F41CEBC3D",
+            "type": "message",
+            "text": "Pg @ktp house @9",
+            "user": "U7FP02FD5",
+            "ts": "1570147783.059100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570147783.059100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570155877.062200",
+            "reply_users": [
+                "U7HASRAC8"
+            ],
+            "replies": [
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1570155877.062200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": "did someone say \"i hate apple\"?",
+            "user": "USLACKBOT",
+            "ts": "1570147743.058500"
+        },
+        {
+            "client_msg_id": "2D22D965-0A92-426A-B4E3-99FAB391A821",
+            "type": "message",
+            "text": "I swear to fuck if any of you aren\u2019t at ricks you\u2019re getting unfriended -Chan",
+            "user": "U7FP02FD5",
+            "ts": "1570147743.058400",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "-1",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Prob him ",
+            "files": [
+                {
+                    "id": "FNUSKQ9H7",
+                    "created": 1570144984,
+                    "timestamp": 1570144984,
+                    "name": "Image from iOS.jpg",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U7CUU7293",
+                    "editable": false,
+                    "size": 1088975,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": false,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNUSKQ9H7\/image_from_ios.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNUSKQ9H7\/download\/image_from_ios.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_360.jpg",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_480.jpg",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_720.jpg",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_960.jpg",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNUSKQ9H7-63b6c2bfb7\/image_from_ios_1024.jpg",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 6,
+                    "original_w": 4032,
+                    "original_h": 3024,
+                    "thumb_tiny": "AwAwACRcrtK55Xiom5Y7UPXoKY2WO9CDkk9aVWIXGWGfSly2GncCgP3h+dCwruzzj0p0uQu5SSSMc1HGCACWI9RSAnpKbuo3GlYZTq1axO8TMpOc8VU6Vfhu1CgYA9qbBCNn7KHYDBORntUW7pkZ7cVbdomjAfhev0qjGw8zIPfihag9B3yjqCKMp7\/nT5Ed2yi7l7HNN8mX\/nmfzpiGNGWQyA9OoqFe9TeW5X7jflTBbyn\/AJZt+VK6B3BvmGST7c06BR5nOQMdcUC1mP8AyzIqwkbldvoPWi6CzHqwVQquMD2p2\/8A2x+RqIRuO1L5belFwP\/Z",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7CUU7293\/FNUSKQ9H7\/image_from_ios.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNUSKQ9H7-b2ec46c1cf",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7CUU7293",
+            "display_as_bot": false,
+            "ts": "1570144989.056500",
+            "client_msg_id": "535CBD68-2357-4820-A808-450530B73F8F",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7G9GQHL0",
+                        "U7H8W4631",
+                        "U7F1RLY2C",
+                        "U7J0HDV8B"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "tada",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "ricks",
+                    "users": [
+                        "UD7SGH4FR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "03E27E7C-221D-40F4-A7DA-29385385833C",
+            "type": "message",
+            "text": "Who\u2019s going to ricks tonight???",
+            "user": "UD7SGH4FR",
+            "ts": "1570143465.056300",
+            "team": "T4XRFB7FF"
+        }
+    ],
+    "has_more": true,
+    "is_limited": false,
+    "pin_count": 0,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0,
+    "response_metadata": {
+        "next_cursor": "bmV4dF90czoxNTcwMDQxNTM2MDUzNzAw"
+    }
+}

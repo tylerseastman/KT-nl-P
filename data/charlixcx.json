@@ -1,0 +1,204 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "cd244487-9764-4be5-97c9-eb9efe33a3dc",
+            "type": "message",
+            "text": "also, apparently metal fr*t had a charli xcx themed party;;;; i feel violated",
+            "user": "U7CTEEYDS",
+            "ts": "1570049498.001400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "e2673d5e-e94e-4f1d-97ab-1d5ccd8356ad",
+            "type": "message",
+            "text": "FINALLY",
+            "user": "UFZ4XJUJY",
+            "ts": "1570049076.000700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "fee88923-5b01-4239-a2b9-30fa2c5d86ec",
+            "type": "message",
+            "text": "omg i;m FINALLY listening to \"Charli\" and Click is such a BOP",
+            "user": "U7CTEEYDS",
+            "ts": "1570048567.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "57891de6-0f6c-4a37-b230-e9f59a087191",
+            "type": "message",
+            "text": "I didn't know this was a channel but hi fellow stans!",
+            "user": "UFZ6CG58B",
+            "ts": "1570023744.000500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7CTEEYDS",
+                        "UFZ4XJUJY",
+                        "U95S2KBHC"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "user": "UFZ6CG58B",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570023727.000200",
+            "text": "<@UFZ6CG58B> has joined the channel"
+        },
+        {
+            "client_msg_id": "773c9ae4-7fa4-424c-9859-e9ebfbbfefc6",
+            "type": "message",
+            "text": "have i ever shared this?? <https:\/\/www.youtube.com\/watch?v=3qWe92C2bPo>",
+            "user": "U7CTEEYDS",
+            "ts": "1569643894.000200",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U7CTEEYDS",
+                "ts": "1569643907.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "Charli XCX - I Love It (HD live in Germany)",
+                    "title_link": "https:\/\/www.youtube.com\/watch?v=3qWe92C2bPo",
+                    "author_name": "TheEightiesfanatic",
+                    "author_link": "https:\/\/www.youtube.com\/user\/TheEightiesfanatic",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/3qWe92C2bPo\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Charli XCX - I Love It (HD live in Germany)",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3qWe92C2bPo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/www.youtube.com\/watch?v=3qWe92C2bPo",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.youtube.com\/watch?v=3qWe92C2bPo"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNU1G45EJ",
+                    "created": 1569476341,
+                    "timestamp": 1569476341,
+                    "name": "File from iOS.MP4",
+                    "title": "File from iOS",
+                    "mimetype": "video\/mp4",
+                    "filetype": "mp4",
+                    "pretty_type": "MPEG 4 Video",
+                    "user": "UFYHF39PA",
+                    "editable": false,
+                    "size": 3624276,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNU1G45EJ\/file_from_ios.mp4",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNU1G45EJ\/download\/file_from_ios.mp4",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UFYHF39PA\/FNU1G45EJ\/file_from_ios.mp4",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNU1G45EJ-5d5b4d8a33",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UFYHF39PA",
+            "display_as_bot": false,
+            "ts": "1569476342.000100",
+            "client_msg_id": "35E0C5A5-26DC-4858-B25A-39ECF2C7D248"
+        },
+        {
+            "client_msg_id": "f11c44a1-627d-43c9-8ca4-3c591bdfe854",
+            "type": "message",
+            "text": "but im a fan",
+            "user": "UFZ4XJUJY",
+            "ts": "1569470951.000900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD70YDRJ9"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "732fffa1-ee22-4efa-b9e3-0dabfc8107e6",
+            "type": "message",
+            "text": "im late to the game",
+            "user": "UFZ4XJUJY",
+            "ts": "1569470946.000700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "040b872f-47db-4e56-b682-1aa380f822f2",
+            "type": "message",
+            "text": "her new album hits",
+            "user": "UFZ4XJUJY",
+            "ts": "1569470942.000500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "4F5BD87A-7874-4D95-A1AE-3DDC98F659E6",
+            "type": "message",
+            "text": "WE GOT REPRESENTATION ",
+            "user": "U7CTEEYDS",
+            "ts": "1569035995.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "282cc391-12dd-4472-b833-4cd4e2de33dc",
+            "type": "message",
+            "text": "<https:\/\/twitter.com\/FckyeahCharli\/status\/1173012796675624970?s=20>",
+            "user": "U7CTEEYDS",
+            "ts": "1568768504.001000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "rainbow",
+                    "users": [
+                        "UFYHF39PA",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "rainbow-flag",
+                    "users": [
+                        "UFYHF39PA",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4d343bf8-77f3-4318-b807-4b91a955dcb1",
+            "type": "message",
+            "text": "litch rally maddeness luv -xx !!! :face_with_monocle:",
+            "user": "UFYHF39PA",
+            "ts": "1568768276.000800",
+            "team": "T4XRFB7FF"
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

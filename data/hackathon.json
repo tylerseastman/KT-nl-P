@@ -1,0 +1,840 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "7a4765a8-5c51-452e-97e9-4cd927c0838c",
+            "type": "message",
+            "text": "<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfUuDzTQoDgfXHANYkOzMmBSfu4tOD3shagYZNTXJrDerlOmw\/viewform?usp=sf_link>",
+            "user": "U7C5RPUTS",
+            "ts": "1571499136.006900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7217e361-2206-44c5-b182-c767e6b9be63",
+            "type": "message",
+            "text": "Anonymous feedback!",
+            "user": "U7C5RPUTS",
+            "ts": "1571499135.006700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UFYUSR080",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571497301.006500",
+            "text": "<@UFYUSR080> has joined the channel"
+        },
+        {
+            "user": "UG0BDKNPR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571494784.006300",
+            "text": "<@UG0BDKNPR> has joined the channel"
+        },
+        {
+            "client_msg_id": "1b0df993-da86-4133-80ae-626b88ac831e",
+            "type": "message",
+            "text": "there is a keurig we have plenty of panera hazlenut coffee",
+            "user": "U7CFFQACR",
+            "ts": "1571491494.006100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8d3c4255-1e34-416d-8849-efb8a2075f1e",
+            "type": "message",
+            "text": "The code is 2331 for the door into the actual tech arb",
+            "user": "U9628B2GP",
+            "ts": "1571490080.005800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c39c06a4-cedc-4683-a698-33ef15befc00",
+            "type": "message",
+            "text": "Yeah",
+            "user": "U9628B2GP",
+            "ts": "1571489984.005300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "5867368F-16C2-430F-8EAD-348E112F3F75",
+            "type": "message",
+            "text": "Is there caffeine provided? ",
+            "user": "U7GA9464W",
+            "ts": "1571489811.005100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM34JWAC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571460088.004600",
+            "text": "<@UNM34JWAC> has joined the channel"
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571459103.004400",
+            "text": "<@UN89RAQM8> has joined the channel"
+        },
+        {
+            "user": "U7CTEEYDS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571448293.004000",
+            "text": "<@U7CTEEYDS> has joined the channel"
+        },
+        {
+            "user": "U7EKJT35Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571447989.003800",
+            "text": "<@U7EKJT35Y> has joined the channel"
+        },
+        {
+            "user": "U950LFMBL",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571440091.003600",
+            "text": "<@U950LFMBL> has joined the channel"
+        },
+        {
+            "user": "U7DUZ8FGF",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571431396.003400",
+            "text": "<@U7DUZ8FGF> has joined the channel"
+        },
+        {
+            "user": "UNP960KEJ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571431268.003100",
+            "text": "<@UNP960KEJ> has joined the channel"
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571423324.002900",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "user": "UN9JL25AP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571421209.002600",
+            "text": "<@UN9JL25AP> has joined the channel"
+        },
+        {
+            "user": "UNM34K1FA",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571421169.002400",
+            "text": "<@UNM34K1FA> has joined the channel"
+        },
+        {
+            "user": "UNM34JCTS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571421073.002100",
+            "text": "<@UNM34JCTS> has joined the channel"
+        },
+        {
+            "user": "UNM34HZ6U",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571421032.001900",
+            "text": "<@UNM34HZ6U> has joined the channel"
+        },
+        {
+            "user": "UNP9619QE",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571421025.001600",
+            "text": "<@UNP9619QE> has joined the channel"
+        },
+        {
+            "user": "UNM35TFNZ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571420606.001300",
+            "text": "<@UNM35TFNZ> has joined the channel"
+        },
+        {
+            "user": "U9628B2GP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571420606.001100",
+            "text": "<@U9628B2GP> has joined the channel"
+        },
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571420597.000800",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "AEEA7EC1-5539-4E22-8550-52E8C4B80FE2",
+            "type": "message",
+            "text": "I could probably do this",
+            "user": "U7J0HDV8B",
+            "ts": "1571410882.000500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571369837.014600",
+            "parent_user_id": "U7C7E4E0Y"
+        },
+        {
+            "user": "UD70YDRJ9",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571378064.014800",
+            "text": "<@UD70YDRJ9> has joined the channel"
+        },
+        {
+            "client_msg_id": "ffd21792-8a24-4132-9905-005c39482cb6",
+            "type": "message",
+            "text": "Idea: data visualization of the point log. How is KTP getting their points? I already have a project but is anyone interested?",
+            "user": "U7C7E4E0Y",
+            "ts": "1571369837.014600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571369837.014600",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1571410882.000500",
+            "reply_users": [
+                "U7J0HDV8B"
+            ],
+            "replies": [
+                {
+                    "user": "U7J0HDV8B",
+                    "ts": "1571410882.000500"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U7CFFQACR",
+                        "U7J0HDV8B"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "U7H8W4631",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571319880.011500",
+            "text": "<@U7H8W4631> has joined the channel"
+        },
+        {
+            "user": "UG17FQF2A",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571282826.011300",
+            "text": "<@UG17FQF2A> has joined the channel"
+        },
+        {
+            "user": "UD864A6GN",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571266367.011100",
+            "text": "<@UD864A6GN> has joined the channel"
+        },
+        {
+            "user": "U7J5KJW13",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571266342.010900",
+            "text": "<@U7J5KJW13> has joined the channel"
+        },
+        {
+            "client_msg_id": "133191CE-2806-40AD-996E-DD22165ED84A",
+            "type": "message",
+            "text": "Dope, I just wanted to make sure that the party wasn't past my bedtime :joy::joy:",
+            "user": "U94T1U76F",
+            "ts": "1571265864.010600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1::skin-tone-2",
+                    "users": [
+                        "U7C5RPUTS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "733e32b4-e64c-4b75-be54-6f48c1424c84",
+            "type": "message",
+            "text": "It's 9am-8pm. There's no set schedule. Lunch will be around noon, dinner will be around 6. The party is at 9pm.",
+            "user": "U7C5RPUTS",
+            "ts": "1571265827.009800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "E5C1A34E-C418-45B4-A646-37EDD3F1B9BA",
+            "type": "message",
+            "text": "What exactly is the timeline of the hackathon? Is there a schedule of some sort lol",
+            "user": "U94T1U76F",
+            "ts": "1571265758.009000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U95S2KBHC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571265728.008400",
+            "text": "<@U95S2KBHC> has joined the channel"
+        },
+        {
+            "client_msg_id": "630d6015-a724-42b2-9c41-12474efc58de",
+            "type": "message",
+            "text": "I just made an Amazon order of a bunch of cool hardware components for my team! If you want to buy something for your project, message me!",
+            "user": "U7C5RPUTS",
+            "ts": "1571260417.008200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UD7SGH4FR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571256047.007300",
+            "text": "<@UD7SGH4FR> has joined the channel"
+        },
+        {
+            "client_msg_id": "845FB60E-F088-4E60-A52F-ABC0C9FF7FE0",
+            "type": "message",
+            "text": "Wait... <@UFYHF39PA> <@UNM34J2CQ>  what if we made a team?",
+            "user": "U94T1U76F",
+            "ts": "1571249752.006200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "partyparrot",
+                    "users": [
+                        "U7C5RPUTS",
+                        "UFYHF39PA",
+                        "U94T1U76F"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "UNM34J2CQ",
+                        "UFYHF39PA"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7035ee78-fcec-43be-a841-6cd665a93cdf",
+            "type": "message",
+            "text": "Someone draft me to their team too!! hmu",
+            "user": "UNM34J2CQ",
+            "ts": "1571249727.005600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM34J2CQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571249687.005300",
+            "text": "<@UNM34J2CQ> has joined the channel"
+        },
+        {
+            "user": "UNM35U221",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571245240.005100",
+            "text": "<@UNM35U221> has joined the channel"
+        },
+        {
+            "user": "UNLJSUBA8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571245038.004900",
+            "text": "<@UNLJSUBA8> has joined the channel"
+        },
+        {
+            "user": "UNLJT0A2G",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571245037.004700",
+            "text": "<@UNLJT0A2G> has joined the channel"
+        },
+        {
+            "client_msg_id": "51B28C77-C749-4FD7-9C20-13B954C26D4F",
+            "type": "message",
+            "text": "Hi ya me too, I am confused about if I'm on a team or not lmao. But I do front end and also wanna learn back-end. What teams are there already?",
+            "user": "U94T1U76F",
+            "ts": "1571244505.004500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "558d07b4-bee5-4e68-8208-49189f15d027",
+            "type": "message",
+            "text": "hey guys sorry i'm late to the game i've been slacking!! Someone draft me to their team!!! I can do UI\/UX, graphic design\/branding and I dabble in front-end and some back-end! Regardless would love to learn something new :blush: so hmu!",
+            "user": "UFYHF39PA",
+            "ts": "1571244083.003000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UFYHF39PA",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571243850.001100",
+            "text": "<@UFYHF39PA> has joined the channel"
+        },
+        {
+            "user": "U7D2BP6PP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571241124.000900",
+            "text": "<@U7D2BP6PP> has joined the channel"
+        },
+        {
+            "user": "U7GA9464W",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571240973.000700",
+            "text": "<@U7GA9464W> has joined the channel"
+        },
+        {
+            "user": "UG0NSJJQ6",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571240939.000400",
+            "text": "<@UG0NSJJQ6> has joined the channel"
+        },
+        {
+            "user": "UG0CA18MN",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571239608.000200",
+            "text": "<@UG0CA18MN> has joined the channel"
+        },
+        {
+            "user": "U7J0HDV8B",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570921532.000200",
+            "text": "<@U7J0HDV8B> has joined the channel"
+        },
+        {
+            "user": "UD6QWDBMY",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570889571.000200",
+            "text": "<@UD6QWDBMY> has joined the channel"
+        },
+        {
+            "client_msg_id": "674b2dc4-0c42-4f0f-b788-66a761212eaf",
+            "type": "message",
+            "text": "Yep I'll figure out how I might wanna make it asap and what I'll need",
+            "user": "U94E1MRR7",
+            "ts": "1570713506.000600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570644100.001000",
+            "parent_user_id": "U94E1MRR7"
+        },
+        {
+            "client_msg_id": "148f15c5-ee13-4f71-88a9-ecd9095ba146",
+            "type": "message",
+            "text": "Cool cool cool. Can you send me a list of equipment you want so I can buy it before next weekend?",
+            "user": "U7C5RPUTS",
+            "ts": "1570712869.000400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570644100.001000",
+            "parent_user_id": "U94E1MRR7"
+        },
+        {
+            "client_msg_id": "8f126797-6153-401e-a2bb-62fbc8f98ea4",
+            "type": "message",
+            "text": "Yees",
+            "user": "U94E1MRR7",
+            "ts": "1570712499.000200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570644100.001000",
+            "parent_user_id": "U94E1MRR7"
+        },
+        {
+            "client_msg_id": "5faabfc4-a6b8-4667-96b3-10cc9228fece",
+            "type": "message",
+            "text": "Interested in teaming?",
+            "user": "U7C5RPUTS",
+            "ts": "1570653133.001800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570644100.001000",
+            "parent_user_id": "U94E1MRR7"
+        },
+        {
+            "client_msg_id": "3d2f3cba-6efe-46ed-bb5f-37ed5be807df",
+            "type": "message",
+            "text": "This would go really well with the project Nathan and I are doing to track consumption of jungle juice!",
+            "user": "U7C5RPUTS",
+            "ts": "1570653127.001600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570644100.001000",
+            "parent_user_id": "U94E1MRR7",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "U94E1MRR7"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "c0b37dab-60b6-4cee-b49d-305b63535423",
+            "type": "message",
+            "text": "its connected to a light that changes from red to green when it runs out",
+            "user": "U94E1MRR7",
+            "ts": "1570644118.001400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0a09ab3a-3ae0-4039-85f8-55ccef49963d",
+            "type": "message",
+            "text": "Hello! fluid height measurement system that tells you when your igloo jug is out of jungle juice",
+            "user": "U94E1MRR7",
+            "ts": "1570644100.001000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570644100.001000",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1570713506.000600",
+            "reply_users": [
+                "U7C5RPUTS",
+                "U94E1MRR7"
+            ],
+            "replies": [
+                {
+                    "user": "U7C5RPUTS",
+                    "ts": "1570653127.001600"
+                },
+                {
+                    "user": "U7C5RPUTS",
+                    "ts": "1570653133.001800"
+                },
+                {
+                    "user": "U94E1MRR7",
+                    "ts": "1570712499.000200"
+                },
+                {
+                    "user": "U7C5RPUTS",
+                    "ts": "1570712869.000400"
+                },
+                {
+                    "user": "U94E1MRR7",
+                    "ts": "1570713506.000600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "U94E1MRR7",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570644061.000200",
+            "text": "<@U94E1MRR7> has joined the channel"
+        },
+        {
+            "user": "U9542L21Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570587062.004800",
+            "text": "<@U9542L21Y> has joined the channel"
+        },
+        {
+            "client_msg_id": "86cdd646-9190-4362-a347-08124918e1e5",
+            "type": "message",
+            "text": "Wow! What a great idea :smile:",
+            "user": "U7C7E4E0Y",
+            "ts": "1570582758.004400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570582690.003800",
+            "parent_user_id": "U7C5RPUTS",
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U7C5RPUTS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2477715a-fcf3-432c-9de6-4e14a5549161",
+            "type": "message",
+            "text": "or with cars with dogs driving",
+            "user": "U7CNVHDLK",
+            "ts": "1570582708.004100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570582595.002400",
+            "parent_user_id": "U7CNVHDLK"
+        },
+        {
+            "client_msg_id": "a5d881bb-2eda-428d-85c9-608e1590c8f4",
+            "type": "message",
+            "text": "no like uber but with dogsleds",
+            "user": "U7CNVHDLK",
+            "ts": "1570582699.003900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570582595.002400",
+            "parent_user_id": "U7CNVHDLK"
+        },
+        {
+            "client_msg_id": "446e9aaf-04ea-49dc-9ebf-eca14a686d88",
+            "type": "message",
+            "text": "Jungle juice consumption tracker + interface with KTPApp",
+            "user": "U7C5RPUTS",
+            "ts": "1570582690.003800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570582690.003800",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570582758.004400",
+            "reply_users": [
+                "U7C7E4E0Y"
+            ],
+            "replies": [
+                {
+                    "user": "U7C7E4E0Y",
+                    "ts": "1570582758.004400"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "U94E1MRR7"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9254dc55-3557-4722-aade-ceef740eaac4",
+            "type": "message",
+            "text": "Like... For dog walking?",
+            "user": "U7C5RPUTS",
+            "ts": "1570582649.003100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570582595.002400",
+            "parent_user_id": "U7CNVHDLK"
+        },
+        {
+            "client_msg_id": "3fa6858b-4cc0-4fd3-bf62-7617539a22c0",
+            "type": "message",
+            "text": "<https:\/\/wagwalking.com\/dog-walking\/>",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570582644.002800",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "WagWalking",
+                    "title": "Trusted Dog Walkers Near You | Wag!",
+                    "title_link": "https:\/\/wagwalking.com\/dog-walking\/",
+                    "text": "Book a dog walker instantly from your Wag! App. Wag! is an on-demand solution for trustworthy same day dog walkers.",
+                    "fallback": "WagWalking: Trusted Dog Walkers Near You | Wag!",
+                    "from_url": "https:\/\/wagwalking.com\/dog-walking\/",
+                    "service_icon": "https:\/\/wagwalking.com\/icons\/icon-48x48.png?v=e25a4773011d6f94dd26018930d7d254",
+                    "id": 1,
+                    "original_url": "https:\/\/wagwalking.com\/dog-walking\/"
+                }
+            ],
+            "thread_ts": "1570582595.002400",
+            "parent_user_id": "U7CNVHDLK"
+        },
+        {
+            "bot_id": "B7CRFSENN",
+            "type": "message",
+            "text": "",
+            "user": "U7C7E4E0Y",
+            "ts": "1570582625.002600",
+            "team": "T4XRFB7FF",
+            "bot_profile": {
+                "id": "B7CRFSENN",
+                "deleted": false,
+                "name": "giphy",
+                "updated": 1507061237,
+                "app_id": "A0F827J2C",
+                "icons": {
+                    "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/giphy\/service_36.png",
+                    "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/giphy\/service_48.png",
+                    "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/giphy\/service_72.png"
+                },
+                "team_id": "T4XRFB7FF"
+            },
+            "attachments": [
+                {
+                    "fallback": "giphy: https:\/\/giphy.com\/gifs\/grandma-nana-wat-3WmWdBzqveXaE",
+                    "image_url": "https:\/\/media1.giphy.com\/media\/3WmWdBzqveXaE\/giphy.gif?cid=6104955e1e5d0aee3985840ae0c20bf905b74c25851d0790&rid=giphy.gif",
+                    "image_width": 680,
+                    "image_height": 455,
+                    "image_bytes": 453121,
+                    "is_animated": true,
+                    "title": "wat",
+                    "footer": "Posted using \/giphy",
+                    "id": 1,
+                    "title_link": "https:\/\/giphy.com\/gifs\/grandma-nana-wat-3WmWdBzqveXaE"
+                }
+            ],
+            "thread_ts": "1570582595.002400",
+            "parent_user_id": "U7CNVHDLK"
+        },
+        {
+            "client_msg_id": "dfe5354b-0e69-4ee7-85f0-755d15e3ab38",
+            "type": "message",
+            "text": "uber for dogs",
+            "user": "U7CNVHDLK",
+            "ts": "1570582595.002400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570582595.002400",
+            "reply_count": 5,
+            "reply_users_count": 4,
+            "latest_reply": "1570582708.004100",
+            "reply_users": [
+                "U7C7E4E0Y",
+                "UFZ4ZBEDS",
+                "U7C5RPUTS",
+                "U7CNVHDLK"
+            ],
+            "replies": [
+                {
+                    "user": "U7C7E4E0Y",
+                    "ts": "1570582625.002600"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570582644.002800"
+                },
+                {
+                    "user": "U7C5RPUTS",
+                    "ts": "1570582649.003100"
+                },
+                {
+                    "user": "U7CNVHDLK",
+                    "ts": "1570582699.003900"
+                },
+                {
+                    "user": "U7CNVHDLK",
+                    "ts": "1570582708.004100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "U7CNVHDLK",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570582493.002200",
+            "text": "<@U7CNVHDLK> has joined the channel"
+        },
+        {
+            "user": "U7C7E4E0Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570582483.002000",
+            "text": "<@U7C7E4E0Y> has joined the channel"
+        },
+        {
+            "user": "U7GT2F6H5",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570582338.001800",
+            "text": "<@U7GT2F6H5> has joined the channel"
+        },
+        {
+            "user": "U7E03328J",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570582329.001600",
+            "text": "<@U7E03328J> has joined the channel"
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": ":ok_hand::eyes::ok_hand::eyes::ok_hand::eyes::ok_hand::eyes::ok_hand::eyes: good shit go\u0c66\u0501 sHit:ok_hand: thats :heavy_check_mark: some good:ok_hand::ok_hand:shit right:ok_hand::ok_hand:th :ok_hand: ere:ok_hand::ok_hand::ok_hand: right:heavy_check_mark:there :heavy_check_mark::heavy_check_mark:if i do\u200a\u01bda\u04af so\u2007my sel\uff46 :100: i say so :100: thats what im talking about right there right there (chorus: \u02b3\u1da6\u1d4d\u02b0\u1d57 \u1d57\u02b0\u1d49\u02b3\u1d49) mMMMM\u13b7\u041c:100: :ok_hand::ok_hand: :ok_hand:\u041dO0\u041e\u0b20\uff2fOO\uff2fO\u041e\u0b20\u0b20Oooo\u1d52\u1d52\u1d52\u1d52\u1d52\u1d52\u1d52\u1d52\u1d52:ok_hand: :ok_hand::ok_hand: :ok_hand: :100: :ok_hand: :eyes: :eyes: :eyes: :ok_hand::ok_hand:Good shit",
+            "user": "USLACKBOT",
+            "ts": "1570582318.001400"
+        },
+        {
+            "client_msg_id": "0AF095D7-FA34-4005-BDE0-5B719FD2E959",
+            "type": "message",
+            "text": "I WANNA JOIN A GROUP! ",
+            "user": "U962G13QX",
+            "ts": "1570582312.001100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "79C8173E-060A-4780-B4B2-510DC348DB6B",
+            "type": "message",
+            "text": "WHO HAS IDEAS???",
+            "user": "U962G13QX",
+            "ts": "1570582305.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "36D4551D-DB18-4F6E-9F33-E6DEF9E99517",
+            "type": "message",
+            "text": "WOO HACKATHON",
+            "user": "U962G13QX",
+            "ts": "1570582302.000600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U962G13QX",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570582298.000400",
+            "text": "<@U962G13QX> has joined the channel"
+        },
+        {
+            "user": "U7CFFQACR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570582294.000200",
+            "text": "<@U7CFFQACR> has joined the channel"
+        },
+        {
+            "user": "U94T1U76F",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570464122.000200",
+            "text": "<@U94T1U76F> has joined the channel"
+        },
+        {
+            "user": "UG0MXJAS2",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569972857.000200",
+            "text": "<@UG0MXJAS2> has joined the channel"
+        },
+        {
+            "user": "UNLJSUDM2",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569192964.000200",
+            "text": "<@UNLJSUDM2> has joined the channel"
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

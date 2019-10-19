@@ -1,0 +1,332 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "user": "UD70YDRJ9",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571198193.000200",
+            "text": "<@UD70YDRJ9> has joined the channel"
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570763855.000500",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "user": "UNP9619QE",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570748835.000200",
+            "text": "<@UNP9619QE> has joined the channel"
+        },
+        {
+            "user": "U7EKJT35Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570141309.000500",
+            "text": "<@U7EKJT35Y> has joined the channel"
+        },
+        {
+            "user": "U9628B2GP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570115590.000200",
+            "text": "<@U9628B2GP> has joined the channel"
+        },
+        {
+            "client_msg_id": "97d7b8aa-05f4-47f0-9be5-3852d0897fd3",
+            "type": "message",
+            "text": "So lucky bro. Pls cop me some merch esp from Astroworld",
+            "user": "UNM34JWAC",
+            "ts": "1570078094.001400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570063803.001200",
+            "parent_user_id": "UN89RAQM8"
+        },
+        {
+            "client_msg_id": "05D82344-017D-4B02-AD0B-6D1FDF925F27",
+            "type": "message",
+            "text": "Vineet and I plus a few friends are gonna be there come thru",
+            "user": "UN89RAQM8",
+            "ts": "1570063803.001200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570063803.001200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570078094.001400",
+            "reply_users": [
+                "UNM34JWAC"
+            ],
+            "replies": [
+                {
+                    "user": "UNM34JWAC",
+                    "ts": "1570078094.001400"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "A51BCA9F-EB33-461F-B6BE-299740C33E4F",
+            "type": "message",
+            "text": "Anyone going to rolling loud New York in a week??",
+            "user": "UN89RAQM8",
+            "ts": "1570063777.000500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570000090.003700",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "DE451641-9516-4FFF-9325-726773B0464C",
+            "type": "message",
+            "text": "There\u2019s opening acts too so you can come a bit late",
+            "user": "UNM34JWAC",
+            "ts": "1569981739.003100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7F54A53A-8C36-4999-8A13-889C75A0052C",
+            "type": "message",
+            "text": "Thursday! 9-1 ",
+            "user": "UNM34JWAC",
+            "ts": "1569981701.002600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "998C5333-BBC8-465F-9BA3-0E45E26FEAF1",
+            "type": "message",
+            "text": "When is icona???",
+            "user": "UFYHF39PA",
+            "ts": "1569981363.002100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM35TFNZ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569980549.001900",
+            "text": "<@UNM35TFNZ> has joined the channel"
+        },
+        {
+            "client_msg_id": "9C039C7F-9A15-4F99-A843-1BF19C9E3C38",
+            "type": "message",
+            "text": "Buying the tickets today for Icona ($12)! Like this if you\u2019re comin",
+            "user": "UNM34JWAC",
+            "ts": "1569980153.001700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UD6N2B2G3",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569960618.000600",
+            "text": "<@UD6N2B2G3> has joined the channel"
+        },
+        {
+            "user": "UFZ9KS6D8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569957076.000400",
+            "text": "<@UFZ9KS6D8> has joined the channel"
+        },
+        {
+            "user": "U9542L21Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569934949.000200",
+            "text": "<@U9542L21Y> has joined the channel"
+        },
+        {
+            "user": "U94EEKF3K",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569807126.000800",
+            "text": "<@U94EEKF3K> has joined the channel"
+        },
+        {
+            "user": "UG0NSJJQ6",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569802262.000600",
+            "text": "<@UG0NSJJQ6> has joined the channel"
+        },
+        {
+            "user": "UNLJT0A2G",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569797755.000400",
+            "text": "<@UNLJT0A2G> has joined the channel"
+        },
+        {
+            "user": "UNM34HZ6U",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569783853.000200",
+            "text": "<@UNM34HZ6U> has joined the channel"
+        },
+        {
+            "user": "UD6N2NLCT",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569735457.000200",
+            "text": "<@UD6N2NLCT> has joined the channel"
+        },
+        {
+            "user": "U7G9GQHL0",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569732470.000200",
+            "text": "<@U7G9GQHL0> has joined the channel"
+        },
+        {
+            "user": "UG0CA18MN",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569719290.004700",
+            "text": "<@UG0CA18MN> has joined the channel"
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569718224.004500",
+            "text": "<@UN89RAQM8> has joined the channel"
+        },
+        {
+            "user": "U7H8W4631",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569717430.004300",
+            "text": "<@U7H8W4631> has joined the channel"
+        },
+        {
+            "user": "UD6KPRFHS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569714069.004100",
+            "text": "<@UD6KPRFHS> has joined the channel"
+        },
+        {
+            "user": "UFYHF39PA",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569711926.003900",
+            "text": "<@UFYHF39PA> has joined the channel"
+        },
+        {
+            "user": "U95S2KBHC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569711718.003700",
+            "text": "<@U95S2KBHC> has joined the channel"
+        },
+        {
+            "user": "UNLJSUBA8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569711174.003500",
+            "text": "<@UNLJSUBA8> has joined the channel"
+        },
+        {
+            "user": "U7DUZ8FGF",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569711075.003300",
+            "text": "<@U7DUZ8FGF> has joined the channel"
+        },
+        {
+            "user": "UD7SGH4FR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569710961.003100",
+            "text": "<@UD7SGH4FR> has joined the channel"
+        },
+        {
+            "user": "UFZ4XJUJY",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569709749.002900",
+            "text": "<@UFZ4XJUJY> has joined the channel"
+        },
+        {
+            "client_msg_id": "441910a3-ce3c-4f3c-831b-503dc74a6615",
+            "type": "message",
+            "text": "***Icona Pop on Oct 3 AT NECTO",
+            "user": "UNM34JWAC",
+            "ts": "1569708667.002600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7GB5CTNY",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569708566.001800",
+            "text": "<@U7GB5CTNY> has joined the channel"
+        },
+        {
+            "client_msg_id": "bd8630b2-bebe-4fa0-a94c-4c25857ada49",
+            "type": "message",
+            "text": "2. Also Rich the Kid @ Hill Auditorium :slightly_smiling_face:: <https:\/\/tickets.vendini.com\/ticket-software.html?t=tix&amp;e=a39f2213c27dc227aaa96904ff4d643c&amp;vqitq=df114f1d-6426-42c6-838e-d05146dc9a02&amp;vqitp=a5c97939-9e99-4e06-9912-c99aad902f2a&amp;vqitts=1569708473&amp;vqitc=vendini&amp;vqite=itl&amp;vqitrt=Safetynet&amp;vqith=e96ae64bdd8174058ce45f27127f0324>",
+            "user": "UNM34JWAC",
+            "ts": "1569708480.001600",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "UNM34JWAC",
+                "ts": "1569708751.000000"
+            }
+        },
+        {
+            "client_msg_id": "e279566d-ab88-4758-a737-414c6a8fc9c6",
+            "type": "message",
+            "text": "Ayy",
+            "user": "UNM34JWAC",
+            "ts": "1569708353.001300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "80fac6ba-cd6c-466c-b16b-07fd6b79758c",
+            "type": "message",
+            "text": "1. Icona Pop on Oct 3: <https:\/\/www.facebook.com\/events\/2410809399007988\/?notif_t=event_calendar_create&amp;notif_id=1569620989243384> . I'm big on going.",
+            "user": "UNM34JWAC",
+            "ts": "1569708343.001000",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "UNM34JWAC",
+                "ts": "1569708636.000000"
+            }
+        },
+        {
+            "user": "UFZ6CG58B",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569708339.000800",
+            "text": "<@UFZ6CG58B> has joined the channel"
+        },
+        {
+            "user": "UNM34JWAC",
+            "type": "message",
+            "subtype": "channel_purpose",
+            "ts": "1569708217.000300",
+            "text": "<@UNM34JWAC> set the channel purpose: let's go to concerts",
+            "purpose": "let's go to concerts"
+        },
+        {
+            "user": "UNM34JWAC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569708217.000200",
+            "text": "<@UNM34JWAC> has joined the channel"
+        }
+    ],
+    "has_more": false,
+    "is_limited": false,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}
