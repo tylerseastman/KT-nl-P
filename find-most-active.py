@@ -15,8 +15,8 @@ def main():
         print(fileName)
         for message in data['messages']:
             if('user' not in message):
-                pass
-            elif (message['user'] in freq):
+                continue
+            if (message['user'] in freq):
                 freq[message['user']] += 1
             else: 
                 freq[message['user']] = 1
