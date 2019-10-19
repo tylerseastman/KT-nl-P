@@ -20,7 +20,6 @@ def main():
                 freq[message['user']] += 1
             else: 
                 freq[message['user']] = 1
-        print("finished")
 
     k = Counter(freq)
     n = 10
