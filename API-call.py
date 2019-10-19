@@ -1,6 +1,6 @@
 import requests 
 
-token = "xoxp-167865381525-250932508468-800973847204-0713bfc64add0a47ba8ea64f1d90a221"
+token = "???"
 
 def makeRequestURL(method, parametersList):
     url = "https://slack.com/api/" + method + "token=" + token
