@@ -1,0 +1,1987 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FPHC1N42K",
+                    "created": 1571236487,
+                    "timestamp": 1571236487,
+                    "name": "Image from iOS.png",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U94T3M9EX",
+                    "editable": false,
+                    "size": 313728,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPHC1N42K\/image_from_ios.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPHC1N42K\/download\/image_from_ios.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_360.png",
+                    "thumb_360_w": 166,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_480.png",
+                    "thumb_480_w": 222,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_720.png",
+                    "thumb_720_w": 333,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1731,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_960.png",
+                    "thumb_960_w": 444,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPHC1N42K-39b5277cae\/image_from_ios_1024.png",
+                    "thumb_1024_w": 473,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 828,
+                    "original_h": 1792,
+                    "thumb_tiny": "AwAwABakoLkKvJ9MVJ9nl\/uN+VNtnEcwYnAGauG6jP8Ay0A+lNIRQJHSkzSHqaKQxVz1FOy2OgpFHHQUv\/ARQAw9eaKU9aSgBQeMU9o2VST0HvTP50bT6H8qAEJzRRRQB\/\/Z",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U94T3M9EX\/FPHC1N42K\/image_from_ios.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FPHC1N42K-d0d25786f6",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U94T3M9EX",
+            "display_as_bot": false,
+            "ts": "1571236489.000100",
+            "client_msg_id": "5D743B9E-A7EC-4065-A00B-26CBEF86303B",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7CFFQACR",
+                        "U9542L21Y",
+                        "UFZCS8WRF"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ce77bf3d-30de-4266-a4a2-da844dba08e5",
+            "type": "message",
+            "text": "for seniors interested in tech consulting:\n\nvmware just posted a job down in ATL for an Associate Consultant in our End User Computing Space\n\n<https:\/\/vmware.wd1.myworkdayjobs.com\/VMware\/job\/USA-Georgia-Atlanta\/New-Graduate---Associate-Consultant_R1913829>\n\nif ur interested, PM me for that referral or if u just wanna learn more about what we do at vmware",
+            "user": "U7CUTKTEH",
+            "ts": "1570814143.000700",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U7CUTKTEH",
+                "ts": "1570814199.000000"
+            },
+            "attachments": [
+                {
+                    "title": "New Graduate - Associate Consultant",
+                    "title_link": "https:\/\/vmware.wd1.myworkdayjobs.com\/VMware\/job\/USA-Georgia-Atlanta\/New-Graduate---Associate-Consultant_R1913829",
+                    "text": "Search Jobs Job Description New Grad- Academy Program \u2013 EUC Professional Services Associate Consultant Work Here. Transform Everywhere. 98% of Fortune 500 Companies use VMware Technology! The most advanced companies in the world turn to VMware to manage, grow and transform their business. When you work here, you\u2019re connected to a global community of innovative, empowered employees working together to solve the most critical technology challenges. We believe that creativity sparks innovation and inspires our employees to think differently and challenge the status quo. Whether it\u2019s the kind of products we develop, our approach to sustainability, our inclusive and diverse environment, or how we give back to our communities, VMware finds unique ways to bring people together to fuel creative thinking. We value and celebrate different styles and backgrounds so our people can bring their best selves to work and realize their full potential! Want to know more, check out our website. In End-User Computing at VMware, we are in the business of helping customers transform their digital workspace. With over 60,000 customers around the globe, our End User Computing team is helping companies deliver work at the speed of life and our technologies are leading what's happening next for users across the enterprise. We have the journey for you! As well as working for one of the best technology companies in the world, under the leadership of the best CEO (voted by Glassdoor), the Academy Training program is designed to fast track our new graduate hires from training into successful careers in the Worldwide Services organization. We offer you in-depth training focused on our most exciting technologies, while\u00a0growing your consultative and technical skills throughout the progression. As a VMware Associate Consultant in our rapid growth and award-winning End-User Computing (EUC) Professional Services, you will be responsible for successfully delivering VMware Workspace ONE, a software platform for simple and secure application access across the enterprise, designed for use in a variety of customer environments.\u00a0 You will work directly with the client and other team members on the day-to-day tasks involved with the implementation of the VMware Workspace ONE, which includes understanding the customer\u2019s challenges, proposing a solution, and delivering the platform. Our Professional Services Organization is where the best people come to do their best work. Check out this video from our 2019 Academy hires! We are looking for someone who is\/has: Available to start July 2020 Completing a Bachelor\u2019s degree, preferably in the technology field Strong interpersonal skills with the ability to work well in a customer-facing environment Ability to collaborate in a team setting, listening to others\u2019 ideas, and bringing forward your individual contribution. We thrive on collaboration! Passionate about technology and solving problems Willing to travel. At times, you might need to travel from Monday through Thursday. Nice to Have: Hands on IT experience from either Internships, Co-Ops, Work Experience and\/or Projects Client Facing Work Experience of any kind Leadership experience through either leading campus extracurricular activities (e.g., clubs) or volunteer work Knowledge of mobile operating systems (e.g. iOS and Android), scripting languages like PowerShell, Networking &amp; Security concepts, and Server Operating Systems Find out more: <https:\/\/vmware.beamery.com\/events\/vmwareacademy> This job opportunity is not eligible for employment-based immigration sponsorship by VMware. VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind:\u00a0VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and\/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law. \u200b Search Jobs",
+                    "fallback": "New Graduate - Associate Consultant",
+                    "from_url": "https:\/\/vmware.wd1.myworkdayjobs.com\/VMware\/job\/USA-Georgia-Atlanta\/New-Graduate---Associate-Consultant_R1913829",
+                    "thumb_url": "https:\/\/vmware.wd1.myworkdayjobs.com\/VMware\/assets\/logo",
+                    "thumb_width": 85,
+                    "thumb_height": 85,
+                    "service_icon": "https:\/\/vmware.wd1.myworkdayjobs.com\/favicon.ico",
+                    "service_name": "vmware.wd1.myworkdayjobs.com",
+                    "id": 1,
+                    "original_url": "https:\/\/vmware.wd1.myworkdayjobs.com\/VMware\/job\/USA-Georgia-Atlanta\/New-Graduate---Associate-Consultant_R1913829"
+                }
+            ]
+        },
+        {
+            "user": "UFZCS8WRF",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570732909.003100",
+            "text": "<@UFZCS8WRF> has joined the channel"
+        },
+        {
+            "client_msg_id": "293855e7-bfac-443b-b192-f6fdc6aac667",
+            "type": "message",
+            "text": "in terms of the email itself. Something along the lines as, \"You want to leverage all of your opportunities before you commit to something\"",
+            "user": "U9628B2GP",
+            "ts": "1570729700.002600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570729597.001700",
+            "parent_user_id": "U7FPQE2NR",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7FPQE2NR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "8a7265ae-79b1-4a82-a0e4-fb44b650ef25",
+            "type": "message",
+            "text": "much obliged :heart:",
+            "user": "U7FPQE2NR",
+            "ts": "1570729683.002400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570729597.001700",
+            "parent_user_id": "U7FPQE2NR",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U9628B2GP"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "44246ead-63b0-4049-aca8-9eed7448cf70",
+            "type": "message",
+            "text": "it's like in the middle",
+            "user": "U9628B2GP",
+            "ts": "1570729645.002200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570729597.001700",
+            "parent_user_id": "U7FPQE2NR"
+        },
+        {
+            "client_msg_id": "b2810de6-3092-4af0-820f-6b7a1a998196",
+            "type": "message",
+            "text": "that's the page",
+            "user": "U9628B2GP",
+            "ts": "1570729640.002000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570729597.001700",
+            "parent_user_id": "U7FPQE2NR"
+        },
+        {
+            "client_msg_id": "68096a95-d5f5-4b41-a031-4a43c5ad10bf",
+            "type": "message",
+            "text": "<https:\/\/career.engin.umich.edu\/recruit\/policy\/>",
+            "user": "U9628B2GP",
+            "ts": "1570729638.001800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570729597.001700",
+            "parent_user_id": "U7FPQE2NR"
+        },
+        {
+            "client_msg_id": "a69e6f3a-3a1d-4f31-8b2c-0739ed8f8853",
+            "type": "message",
+            "text": "How do I construct an email asking for an extension for an offer deadline? Also where is the reference with umich that says we should have until November 30th to accept job offers?",
+            "user": "U7FPQE2NR",
+            "ts": "1570729597.001700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570729597.001700",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1570729700.002600",
+            "reply_users": [
+                "U9628B2GP",
+                "U7FPQE2NR"
+            ],
+            "replies": [
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570729638.001800"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570729640.002000"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570729645.002200"
+                },
+                {
+                    "user": "U7FPQE2NR",
+                    "ts": "1570729683.002400"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570729700.002600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UN9JL25AP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570673623.000400",
+            "text": "<@UN9JL25AP> has joined the channel"
+        },
+        {
+            "user": "UD86QCYSJ",
+            "type": "message",
+            "subtype": "channel_leave",
+            "ts": "1570594756.000200",
+            "text": "<@UD86QCYSJ> has left the channel"
+        },
+        {
+            "client_msg_id": "BE77B5E5-525E-4541-A087-E8B51A85DCF6",
+            "type": "message",
+            "text": "Oh shit u got me lmao ",
+            "user": "UD7SGH4FR",
+            "ts": "1570488351.005100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570469911.003000",
+            "parent_user_id": "U7CFFQACR"
+        },
+        {
+            "client_msg_id": "5e072250-c2a3-4a04-96b9-20c6da646a92",
+            "type": "message",
+            "text": "what if it\u2019s a phone interview",
+            "user": "U7CFFQACR",
+            "ts": "1570483192.004800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570469911.003000",
+            "parent_user_id": "U7CFFQACR",
+            "reactions": [
+                {
+                    "name": "phone",
+                    "users": [
+                        "UD7SGH4FR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "c7c24c63-5298-4e39-830c-0c98ba053dca",
+            "type": "message",
+            "text": "or ask for a business card",
+            "user": "UD7SGH4FR",
+            "ts": "1570483170.004600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570469911.003000",
+            "parent_user_id": "U7CFFQACR"
+        },
+        {
+            "user": "UNP9619QE",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570474075.004300",
+            "text": "<@UNP9619QE> has joined the channel"
+        },
+        {
+            "user": "UNEL7FF41",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570472811.003900",
+            "text": "<@UNEL7FF41> has joined the channel"
+        },
+        {
+            "client_msg_id": "0e2b6768-ced8-4ea6-aafc-f8c8f277a201",
+            "type": "message",
+            "text": "thats smart ill do that instead of straight up panicking and saying \u201ccan i have ur email so i can send u a thank u\u201d",
+            "user": "U7CFFQACR",
+            "ts": "1570470126.003500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570469911.003000",
+            "parent_user_id": "U7CFFQACR"
+        },
+        {
+            "client_msg_id": "a813d039-6da2-4222-9e35-51f3bf0d5989",
+            "type": "message",
+            "text": "I usually ask \"is there a preferred way for me to keep in contact after this?\" it usually helps them deflect to a recruiter email if they really don't want to give their own out",
+            "user": "U7J5KJW13",
+            "ts": "1570470012.003100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570469911.003000",
+            "parent_user_id": "U7CFFQACR",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "U7CFFQACR",
+                        "U7GA9464W",
+                        "UNEL7FF41",
+                        "UD7SGH4FR",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4215a396-3c47-4007-99db-fa0fc7fbbb42",
+            "type": "message",
+            "text": "what\u2019s a socially acceptable way to ask for someone\u2019s email after an interview",
+            "user": "U7CFFQACR",
+            "ts": "1570469911.003000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570469911.003000",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1570488351.005100",
+            "reply_users": [
+                "U7J5KJW13",
+                "U7CFFQACR",
+                "UD7SGH4FR"
+            ],
+            "replies": [
+                {
+                    "user": "U7J5KJW13",
+                    "ts": "1570470012.003100"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570470126.003500"
+                },
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1570483170.004600"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570483192.004800"
+                },
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1570488351.005100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNM34HZ6U",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570420691.002200",
+            "text": "<@UNM34HZ6U> has joined the channel"
+        },
+        {
+            "client_msg_id": "7b99bc8e-bf83-40d5-994b-a34cfa411eb3",
+            "type": "message",
+            "text": "ty!",
+            "user": "U7HASRAC8",
+            "ts": "1570376214.001900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570376023.001100",
+            "parent_user_id": "U7HASRAC8"
+        },
+        {
+            "client_msg_id": "ff5163cc-c499-455f-94d1-eb137dc5c665",
+            "type": "message",
+            "text": "that's a good point, i'll tell the recruiter that time works",
+            "user": "U7HASRAC8",
+            "ts": "1570376204.001600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570376023.001100",
+            "parent_user_id": "U7HASRAC8"
+        },
+        {
+            "client_msg_id": "b9077944-ae79-4a1d-8c9c-e82a1b445755",
+            "type": "message",
+            "text": "otherwise if you dont mind not being able to interview for a bit, its not a big deal to reschedule  -- but like the same thing can happen again",
+            "user": "U7GB5CTNY",
+            "ts": "1570376123.001400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570376023.001100",
+            "parent_user_id": "U7HASRAC8"
+        },
+        {
+            "client_msg_id": "e7db80f5-fc0a-4cf5-aa48-6af3f85effd1",
+            "type": "message",
+            "text": "if the position is something rolling (limited number of spots) then its in your best interest to do the interview as soon as possible, i would miss your thing if its in that case. rescheduling takes forever",
+            "user": "U7GB5CTNY",
+            "ts": "1570376084.001200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570376023.001100",
+            "parent_user_id": "U7HASRAC8"
+        },
+        {
+            "client_msg_id": "b5d45f75-407e-4a2b-ae84-e7df17898922",
+            "type": "message",
+            "text": "I gave my schedule to a recruiter for a phone interview but she didnt schedule it until over a week later and now i'm not free at that time anymore...is it a bad idea to ask to reschedule? should i just suck it up and miss my thing?",
+            "user": "U7HASRAC8",
+            "ts": "1570376023.001100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570376023.001100",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1570376214.001900",
+            "reply_users": [
+                "U7GB5CTNY",
+                "U7HASRAC8"
+            ],
+            "replies": [
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1570376084.001200"
+                },
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1570376123.001400"
+                },
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1570376204.001600"
+                },
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1570376214.001900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "4AFF5CFA-A059-47B0-9FB1-1324E39ED0FD",
+            "type": "message",
+            "text": "\u201cwould u rather miss the deadline or give a buggy product\u201d",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570303551.005200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U962G13QX"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9B4FB567-E399-4C98-9C27-8661B31E509F",
+            "type": "message",
+            "text": "a LARGe portion of the questions were like",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570303542.004700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "25c91f2b-d11c-417a-85ad-54cbeeb32488",
+            "type": "message",
+            "text": "WOW, thanks so much, im so glad i asked here :purple_heart:",
+            "user": "U7F1RLY2C",
+            "ts": "1570302951.004100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7GB5CTNY"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2FE3ECFC-8F3F-4545-8156-420CF47B85E3",
+            "type": "message",
+            "text": "and they would give you all the code for it",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302874.003900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "00BF8676-1629-4BB3-8175-0721F364DF3D",
+            "type": "message",
+            "text": "like \u201cwhich test case would this function not pass\u201d",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302871.003600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "C35692E5-7615-485E-B43C-55A84FDB7A94",
+            "type": "message",
+            "text": "one java code analysis at the end",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302863.003200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "2D476C0C-1801-44B2-8BEA-C0A19DBCC14A",
+            "type": "message",
+            "text": "it was all behavioral",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302857.002800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7F1RLY2C"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "54737A1C-547F-40B3-B518-85FA44F29D8E",
+            "type": "message",
+            "text": "and they\u2019ll play lil clips too to describe the situation",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302850.002500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "99915471-CD60-4257-AD2F-E6458141A0CA",
+            "type": "message",
+            "text": "you\u2019ll have random people emailing you and asking you the best way to go handle a situation",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302843.002100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "EAFA6FCB-E851-445D-985E-78AFE154DDF5",
+            "type": "message",
+            "text": "its like a virtual email\/chat system",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570302830.001500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "64E1E95E-B597-4199-A55F-1F3600223F0D",
+            "type": "message",
+            "text": "Has anyone else had the \u2018work simulation\u2019 portion of amazon\u2019s challenge?? It described it in the email but i\u2019ve never seen anything like it, so wondering if someone could help me know what to expect ",
+            "user": "U7F1RLY2C",
+            "ts": "1570302803.001100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570302803.001100",
+            "reply_count": 10,
+            "reply_users_count": 2,
+            "latest_reply": "1570303551.005200",
+            "reply_users": [
+                "UFZ4ZBEDS",
+                "U7F1RLY2C"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302830.001500"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302843.002100"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302850.002500"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302857.002800"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302863.003200"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302871.003600"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570302874.003900"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570302951.004100"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570303542.004700"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570303551.005200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570245450.000200",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "client_msg_id": "f04cc5f3-7337-42cc-b187-7154fa76ad6a",
+            "type": "message",
+            "text": "<https:\/\/drive.google.com\/drive\/folders\/1xOFH0Nb_Lx_iyM0CYBy_a-ec0u1UuDbV?usp=sharing>",
+            "user": "UFZ6CG58B",
+            "ts": "1570055459.026000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0c2c1cac-5435-422f-b441-6210edd91879",
+            "type": "message",
+            "text": "Since a good amount of people have asked me for case resources I decided to make a Google Drive folder for what I use to practice. Enjoy!",
+            "user": "UFZ6CG58B",
+            "ts": "1570055457.025800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U950LFMBL"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "C82C4458-AD1D-4494-81DE-A5FAFCC35899",
+            "type": "message",
+            "text": "Ahh okay cool, thanks man!!",
+            "user": "U7FS1HMDJ",
+            "ts": "1570052352.024700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "8198CB77-18A3-45E2-A5C6-70CC9AE3DEF0",
+            "type": "message",
+            "text": "but again this is all speculation just know that there is an algorithm component to it (usually)",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570052130.024300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "293A9CD1-9DE3-4311-931A-07684E388141",
+            "type": "message",
+            "text": "the score might be based on your presence in the frame, hand gestures, voice projection, lack of silence, eye contact, face expression, etc...",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570052107.023500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "67D45DB7-8203-4576-BAD6-864F751F4A18",
+            "type": "message",
+            "text": "They keep everything secret so I\u2019m not entirely sure but I would guess it\u2019s something like the algorithm gives you an initial score based on some parameters through the video, and they have a minimum cutoff score value of which then they would manually review everyone above the score",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570052078.022500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "1888557D-6E5F-4C74-B684-4260D4A0FD42",
+            "type": "message",
+            "text": "<@UFZ4ZBEDS> yeah i heard about that, so how does that work exactly? The computer judges you based on eye contact, talk speed, and facial expressions? And then humans review it after that?",
+            "user": "U7FS1HMDJ",
+            "ts": "1570051987.021000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "5FE9E90D-E8F2-4774-B9B0-44FCD96320B8",
+            "type": "message",
+            "text": "Note that many hirevues (not all) are algorithm based so make sure you project well and eyes looking at the camera",
+            "user": "UFZ4ZBEDS",
+            "ts": "1570051886.019100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "B712083C-F981-4067-9B7B-0C06CF1EAF87",
+            "type": "message",
+            "text": "<@UFZ6CG58B> can you also send cases to me too @ndong@umich.edu",
+            "user": "U7FS1HMDJ",
+            "ts": "1570051551.018900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "01766FEA-4CE4-45DA-BE64-7A80E1E1D32D",
+            "type": "message",
+            "text": "Awesome! Thanks for the quick responses:grin::grin:",
+            "user": "U7FS1HMDJ",
+            "ts": "1570051510.018200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "033b2bd1-348c-4428-af5f-9ac7ef633d5d",
+            "type": "message",
+            "text": "They ususally give a time limit of like 2-3 minutes so I\u2019d say fill the majority of that but don\u2019t fill the whole thing with just filler like use all the time if you have enough to say",
+            "user": "UD7SGH4FR",
+            "ts": "1570051450.017500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6577747e-9da9-430e-b116-4f847e924ce1",
+            "type": "message",
+            "text": "The only hirevue I've done had timed responses so I had to literally keep an eye on the countdown, which really helped with limiting my response. They also had a minute or two to think of a response, during which I'd jot down the 2-3 big points I wanted to hit &amp; order to hit them in, and I just stuck to that in my response",
+            "user": "U7C7E4E0Y",
+            "ts": "1570051446.017300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "parent_user_id": "U7FS1HMDJ"
+        },
+        {
+            "client_msg_id": "865CE35B-C529-476C-9366-0046F75E8E68",
+            "type": "message",
+            "text": "For people that have done hirevues: \nHow long do you normally talk for the basic behavioral questions?\nI have problems with rambling on and i feel like if im just talking to my computer screen ill ramble",
+            "user": "U7FS1HMDJ",
+            "ts": "1570051346.017200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570051346.017200",
+            "reply_count": 9,
+            "reply_users_count": 4,
+            "latest_reply": "1570052352.024700",
+            "reply_users": [
+                "U7C7E4E0Y",
+                "UD7SGH4FR",
+                "U7FS1HMDJ",
+                "UFZ4ZBEDS"
+            ],
+            "replies": [
+                {
+                    "user": "U7C7E4E0Y",
+                    "ts": "1570051446.017300"
+                },
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1570051450.017500"
+                },
+                {
+                    "user": "U7FS1HMDJ",
+                    "ts": "1570051510.018200"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570051886.019100"
+                },
+                {
+                    "user": "U7FS1HMDJ",
+                    "ts": "1570051987.021000"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570052078.022500"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570052107.023500"
+                },
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1570052130.024300"
+                },
+                {
+                    "user": "U7FS1HMDJ",
+                    "ts": "1570052352.024700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "18fc06a7-a2ce-42d0-8df9-8d6355c85aaf",
+            "type": "message",
+            "text": "Me to please <@UFZ6CG58B> <mailto:sadwani@umich.edu|sadwani@umich.edu>",
+            "user": "UD6N3TP6X",
+            "ts": "1570027019.014100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "921f6837-775e-44ad-9cb5-da9cb43ca1a1",
+            "type": "message",
+            "text": "<@UFZ6CG58B> pls send cases to me too <mailto:ncieslak@umich.edu|ncieslak@umich.edu>",
+            "user": "UD7SGH4FR",
+            "ts": "1569987515.013900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "3a3851de-1616-4646-b509-9d77e8d5e36e",
+            "type": "message",
+            "text": "perfect thank you!",
+            "user": "UG0CA18MN",
+            "ts": "1569979799.012900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "1b04e396-03d8-4eff-9197-c1483a86f95f",
+            "type": "message",
+            "text": "just sent over to you",
+            "user": "UFZ6CG58B",
+            "ts": "1569979476.012700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "7c113958-6e8e-4141-808f-0f7ce4f26dea",
+            "type": "message",
+            "text": "and yes please for the emails, its <mailto:mflanag@umich.edu|mflanag@umich.edu>",
+            "user": "UG0CA18MN",
+            "ts": "1569979423.012500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "50f7cd48-b28f-4fbb-8c79-66eefdedb264",
+            "type": "message",
+            "text": "omg thanks so much, i read something about frameworks but ill go back and look at it again.",
+            "user": "UG0CA18MN",
+            "ts": "1569979412.012300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "3779c5af-315e-452d-8031-5efb565498fb",
+            "type": "message",
+            "text": "and defo get a friend to case you cause talking out loud is weird",
+            "user": "UFZ6CG58B",
+            "ts": "1569977047.012100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "cbc23617-dca1-4187-8a2a-52f23b59e539",
+            "type": "message",
+            "text": "I also have a lot of practice cases I can forward to you if you share your email",
+            "user": "UFZ6CG58B",
+            "ts": "1569977027.011900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "949fbe32-2a01-4774-b6b9-74bd9024c883",
+            "type": "message",
+            "text": "There is a framework for going about a case so I would watch Youtube videos on how to go through a consulting case",
+            "user": "UFZ6CG58B",
+            "ts": "1569976975.011700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "3361aac8-d544-42db-9929-325e15d6a1e7",
+            "type": "message",
+            "text": "I have an interview coming up and they said there would be a case study portion, any tips on what I should prepare for?",
+            "user": "UG0CA18MN",
+            "ts": "1569973510.011400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569973510.011400",
+            "reply_count": 10,
+            "reply_users_count": 5,
+            "latest_reply": "1570051551.018900",
+            "reply_users": [
+                "UFZ6CG58B",
+                "UG0CA18MN",
+                "UD7SGH4FR",
+                "UD6N3TP6X",
+                "U7FS1HMDJ"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569976975.011700"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569977027.011900"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569977047.012100"
+                },
+                {
+                    "user": "UG0CA18MN",
+                    "ts": "1569979412.012300"
+                },
+                {
+                    "user": "UG0CA18MN",
+                    "ts": "1569979423.012500"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569979476.012700"
+                },
+                {
+                    "user": "UG0CA18MN",
+                    "ts": "1569979799.012900"
+                },
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1569987515.013900"
+                },
+                {
+                    "user": "UD6N3TP6X",
+                    "ts": "1570027019.014100"
+                },
+                {
+                    "user": "U7FS1HMDJ",
+                    "ts": "1570051551.018900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "3333cf5b-d640-4c46-a6ee-ca908c06b388",
+            "type": "message",
+            "text": "<https:\/\/ktpumich.slack.com\/customize\/slackbot>",
+            "user": "U7CFFQACR",
+            "ts": "1569878452.010200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "eaa25739-2808-4f6f-9bad-85ec2f01f40f",
+            "type": "message",
+            "text": "full disclosure i created this custom response",
+            "user": "U7CFFQACR",
+            "ts": "1569878430.010000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "b7162bc0-2cf3-4a64-a0d4-5f69de4d2ee2",
+            "type": "message",
+            "text": "yes",
+            "user": "U7CFFQACR",
+            "ts": "1569878424.009800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "d4778d85-da61-45b6-952c-02818eb0b4f6",
+            "type": "message",
+            "text": "i think slackbot is memeing on this",
+            "user": "U7HASRAC8",
+            "ts": "1569878287.009600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNYT8DGUE",
+                    "created": 1569878277,
+                    "timestamp": 1569878277,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U7HASRAC8",
+                    "editable": false,
+                    "size": 35823,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNYT8DGUE\/image.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNYT8DGUE\/download\/image.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNYT8DGUE-bfd32f2a86\/image_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNYT8DGUE-bfd32f2a86\/image_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNYT8DGUE-bfd32f2a86\/image_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 184,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNYT8DGUE-bfd32f2a86\/image_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 245,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNYT8DGUE-bfd32f2a86\/image_160.png",
+                    "image_exif_rotation": 1,
+                    "original_w": 485,
+                    "original_h": 248,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7HASRAC8\/FNYT8DGUE\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNYT8DGUE-e91bb5a70c",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7HASRAC8",
+            "display_as_bot": false,
+            "ts": "1569878279.009200",
+            "client_msg_id": "4913c4d8-ea85-484b-a6e9-bbaba99627f9",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "3c5dc85f-a9e4-4628-84e9-42862d0a1220",
+            "type": "message",
+            "text": "ktp app",
+            "user": "U7CFFQACR",
+            "ts": "1569873946.008800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "D83D6EC0-052D-4E9A-AD20-5DEAAB07957C",
+            "type": "message",
+            "text": "what even is ktpap",
+            "user": "UG0NSJJQ6",
+            "ts": "1569867794.008100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": "KTPAP",
+            "user": "USLACKBOT",
+            "ts": "1569866299.007800",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "2ea84d69-b5ce-459f-a0e0-d76875cd115a",
+            "type": "message",
+            "text": "ugh slackbot wrong kind of 'app'",
+            "user": "U7HASRAC8",
+            "ts": "1569866298.007600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": "KTPAP",
+            "user": "USLACKBOT",
+            "ts": "1569866244.007400",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "d66c1e68-6db6-4a7b-be21-829de2ab74e9",
+            "type": "message",
+            "text": "i've never been to it, but I can't imagine its that helpful.  for upper levels i think the most important thing is having an in with the prof (and answering lots of piazza questions when u take it, doing well on projects, etc).  for 183\/280\/281, their process for hiring is pretty standard based off the video and the app and possibly the interview",
+            "user": "U7HASRAC8",
+            "ts": "1569866243.007200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "parent_user_id": "UG0NSJJQ6",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UG0NSJJQ6",
+                        "U94T3M9EX"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Freshmen and Sophomores apply to this\n<https:\/\/www.linkedin.com\/jobs\/view\/1490304579>",
+            "user": "U7GB5CTNY",
+            "ts": "1569863470.006700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UNM35TFNZ",
+                        "UNLJSV2NQ",
+                        "UFZ4XJUJY",
+                        "UD70YDRJ9",
+                        "UG0NSJJQ6",
+                        "UN89RAQM8",
+                        "UFZ4U8M44"
+                    ],
+                    "count": 7
+                },
+                {
+                    "name": "astonished",
+                    "users": [
+                        "UNLJSV2NQ",
+                        "UNM34J2CQ",
+                        "UD70YDRJ9",
+                        "UFZ9HLD0S"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6ACA915E-5FE6-45E1-B722-62099C62B9C7",
+            "type": "message",
+            "text": "not sure if this goes here, but is the \u201chow to be an eecs ia panel\u201d worth going to if you\u2019ve already been? I don\u2019t see the benefit of goig again",
+            "user": "UG0NSJJQ6",
+            "ts": "1569863431.006600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569863431.006600",
+            "reply_count": 11,
+            "reply_users_count": 4,
+            "latest_reply": "1569878452.010200",
+            "reply_users": [
+                "U7HASRAC8",
+                "USLACKBOT",
+                "UG0NSJJQ6",
+                "U7CFFQACR"
+            ],
+            "replies": [
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1569866243.007200"
+                },
+                {
+                    "user": "USLACKBOT",
+                    "ts": "1569866244.007400"
+                },
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1569866298.007600"
+                },
+                {
+                    "user": "USLACKBOT",
+                    "ts": "1569866299.007800"
+                },
+                {
+                    "user": "UG0NSJJQ6",
+                    "ts": "1569867794.008100"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569873946.008800"
+                },
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1569878279.009200"
+                },
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1569878287.009600"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569878424.009800"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569878430.010000"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1569878452.010200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "626c2eed-438d-4834-80ea-72dee910156a",
+            "type": "message",
+            "text": "There is a high likelihood the first question will be \"tell me about yourself.\" So have a medium length answer that highlights what you do and why you do it",
+            "user": "U7C7E4E0Y",
+            "ts": "1569782198.004900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "E92D7A12-2C7D-4037-B206-B3A2CB859787",
+            "type": "message",
+            "text": "Wow alright thanks a lot guys! I feel a lot better about it now",
+            "user": "UFZ9HP1UJ",
+            "ts": "1569781486.004700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "D8DF88DC-EA76-42A2-A3A3-7BE646EDEC72",
+            "type": "message",
+            "text": "Btw STAR = \nSituation \nTask\nAction\nResult ",
+            "user": "UD7SGH4FR",
+            "ts": "1569778345.004100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "f9c54dc2-3415-44ce-96ec-fcf9d09f72bf",
+            "type": "message",
+            "text": "Have questions prepared to ask the interviewers as well at the end",
+            "user": "UFZ6CG58B",
+            "ts": "1569775274.003200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "caee115b-427e-4ef6-8cd4-331acef7da73",
+            "type": "message",
+            "text": "Have an answer to tell me about yourself and know your strengths + weaknesses + why you want to work there",
+            "user": "UFZ6CG58B",
+            "ts": "1569775227.003000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "c12f4133-f52b-475b-a670-8beeaf10a2fb",
+            "type": "message",
+            "text": "those five should cover most \"tell me about a time questions\"",
+            "user": "UFZ6CG58B",
+            "ts": "1569775184.002800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "fe2282d0-b944-4f8d-a6e3-429486f2ad44",
+            "type": "message",
+            "text": "Have a STAR method story for failure, leadership, collaboration, challenge, and success",
+            "user": "UFZ6CG58B",
+            "ts": "1569775170.002600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "738745A7-EB82-4909-9EE1-DDD50BCBABAA",
+            "type": "message",
+            "text": "Haha that sounds like something I\u2019ll need ",
+            "user": "UFZ9HP1UJ",
+            "ts": "1569772816.002400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "95d09a0d-6eab-40a7-8454-1017a8a9a8ad",
+            "type": "message",
+            "text": "actually that might not be great advice it just works for me",
+            "user": "UFYHF39PA",
+            "ts": "1569772415.001800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "1271d136-84af-46ac-892d-07523a6a3932",
+            "type": "message",
+            "text": "drink hella coffee right beforehand",
+            "user": "UFYHF39PA",
+            "ts": "1569772403.001600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "parent_user_id": "UFZ9HP1UJ"
+        },
+        {
+            "client_msg_id": "7B58AA33-FEFD-4D61-A532-BD59C2F399D7",
+            "type": "message",
+            "text": "I have a behavioral interview coming up soon. Anyone got any tips and tricks on what I should do to prep?",
+            "user": "UFZ9HP1UJ",
+            "ts": "1569771305.001500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569771305.001500",
+            "reply_count": 10,
+            "reply_users_count": 5,
+            "latest_reply": "1569782198.004900",
+            "reply_users": [
+                "UFYHF39PA",
+                "UFZ9HP1UJ",
+                "UFZ6CG58B",
+                "UD7SGH4FR",
+                "U7C7E4E0Y"
+            ],
+            "replies": [
+                {
+                    "user": "UFYHF39PA",
+                    "ts": "1569772403.001600"
+                },
+                {
+                    "user": "UFYHF39PA",
+                    "ts": "1569772415.001800"
+                },
+                {
+                    "user": "UFZ9HP1UJ",
+                    "ts": "1569772816.002400"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569775170.002600"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569775184.002800"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569775227.003000"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569775274.003200"
+                },
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1569778345.004100"
+                },
+                {
+                    "user": "UFZ9HP1UJ",
+                    "ts": "1569781486.004700"
+                },
+                {
+                    "user": "U7C7E4E0Y",
+                    "ts": "1569782198.004900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569695289.000200",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "06aaeb63-1bec-4cb0-8690-42403c000323",
+            "type": "message",
+            "text": "nah",
+            "user": "U7J0HDV8B",
+            "ts": "1569538672.001400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569518119.000600",
+            "parent_user_id": "U9628B2GP"
+        },
+        {
+            "client_msg_id": "51169d24-1195-4600-bb23-a818f3041577",
+            "type": "message",
+            "text": "bet",
+            "user": "U9628B2GP",
+            "ts": "1569518190.001000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569518119.000600",
+            "parent_user_id": "U9628B2GP"
+        },
+        {
+            "client_msg_id": "519e35bb-c061-4137-8885-53ed16aac4fa",
+            "type": "message",
+            "text": "I would say no",
+            "user": "UFZ6CG58B",
+            "ts": "1569518174.000800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569518119.000600",
+            "parent_user_id": "U9628B2GP",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "U7GB5CTNY"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "slackbot_response",
+            "text": "KTPAP",
+            "user": "USLACKBOT",
+            "ts": "1569518120.000700"
+        },
+        {
+            "client_msg_id": "a1dccffe-5935-4ad7-aa40-ebbaf42578fa",
+            "type": "message",
+            "text": "on a job app if they ask if you work for the government in any capacity and you work for the school is that technically yes???",
+            "user": "U9628B2GP",
+            "ts": "1569518119.000600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569518119.000600",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1569538672.001400",
+            "reply_users": [
+                "UFZ6CG58B",
+                "U9628B2GP",
+                "U7J0HDV8B"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569518174.000800"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1569518190.001000"
+                },
+                {
+                    "user": "U7J0HDV8B",
+                    "ts": "1569538672.001400"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNM35U221",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569359559.002100",
+            "text": "<@UNM35U221> has joined the channel"
+        },
+        {
+            "client_msg_id": "a31516a3-5d88-4df8-8f6e-dcd9e367f6b7",
+            "type": "message",
+            "text": "Thank ya!",
+            "user": "U7FPQE2NR",
+            "ts": "1569349939.001700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569349785.001100",
+            "parent_user_id": "U7FPQE2NR"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNPNL4R08",
+                    "created": 1569349873,
+                    "timestamp": 1569349873,
+                    "name": "Basic Cover Letter.docx",
+                    "title": "Basic Cover Letter.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word Document",
+                    "user": "U7FP02FD5",
+                    "editable": false,
+                    "size": 7715,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNPNL4R08\/basic_cover_letter.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNPNL4R08\/download\/basic_cover_letter.docx",
+                    "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPNL4R08-5ea61a8a70\/basic_cover_letter_converted.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNPNL4R08-5ea61a8a70\/basic_cover_letter_thumb_pdf.png",
+                    "thumb_pdf_w": 935,
+                    "thumb_pdf_h": 1210,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7FP02FD5\/FNPNL4R08\/basic_cover_letter.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNPNL4R08-d4c92e295c",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7FP02FD5",
+            "display_as_bot": false,
+            "ts": "1569349878.001300",
+            "client_msg_id": "2eb18c55-a91a-4ecf-a5cf-81ec98d550f6",
+            "thread_ts": "1569349785.001100",
+            "parent_user_id": "U7FPQE2NR",
+            "reactions": [
+                {
+                    "name": "terminator",
+                    "users": [
+                        "U7FPQE2NR",
+                        "U7F1RLY2C"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1f1793c5-23d5-4437-aa8c-d3c9cd011d06",
+            "type": "message",
+            "text": "Hi does anyone have a cover letter template? I'm applying to a company and they require a cover letter and it closes tomorrow O_o",
+            "user": "U7FPQE2NR",
+            "ts": "1569349785.001100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569349785.001100",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1569349939.001700",
+            "reply_users": [
+                "U7FP02FD5",
+                "U7FPQE2NR"
+            ],
+            "replies": [
+                {
+                    "user": "U7FP02FD5",
+                    "ts": "1569349878.001300"
+                },
+                {
+                    "user": "U7FPQE2NR",
+                    "ts": "1569349939.001700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569278910.001100",
+            "text": "<@UN89RAQM8> has joined the channel"
+        },
+        {
+            "user": "UNM34J2CQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569263575.000800",
+            "text": "<@UNM34J2CQ> has joined the channel"
+        },
+        {
+            "user": "UNM35TFNZ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569249413.000500",
+            "text": "<@UNM35TFNZ> has joined the channel"
+        },
+        {
+            "user": "UNLJT0A2G",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569194367.000200",
+            "text": "<@UNLJT0A2G> has joined the channel"
+        },
+        {
+            "client_msg_id": "20DCB8E7-93AC-4046-95FD-F9C7D35D5998",
+            "type": "message",
+            "text": "<@UFYHF39PA> ",
+            "user": "U7GB5CTNY",
+            "ts": "1568926108.072800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568925676.072500",
+            "parent_user_id": "U7CUTKTEH"
+        },
+        {
+            "client_msg_id": "cc4a0ddd-ecc9-4415-a114-91d354b1ed4b",
+            "type": "message",
+            "text": "for SI UX Juniors:\n\nvmware just posted a UX Researcher internship on our website out of Palo Alto\n\n<https:\/\/careers.vmware.com\/job\/palo-alto\/intern-it-colleague-experience-and-technology-ux-researcher\/1567\/13296765>\n\nif ur interested and need a referral lemme know",
+            "user": "U7CUTKTEH",
+            "ts": "1568925676.072500",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Intern - IT, Colleague Experience and Technology - UX Researcher at VMware",
+                    "title_link": "https:\/\/careers.vmware.com\/job\/palo-alto\/intern-it-colleague-experience-and-technology-ux-researcher\/1567\/13296765",
+                    "text": "Learn more about applying for Intern - IT, Colleague Experience and Technology - UX Researcher at VMware",
+                    "fallback": "Intern - IT, Colleague Experience and Technology - UX Researcher at VMware",
+                    "from_url": "https:\/\/careers.vmware.com\/job\/palo-alto\/intern-it-colleague-experience-and-technology-ux-researcher\/1567\/13296765",
+                    "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/1567\/img\/favicon\/favicon-14073.png",
+                    "service_name": "careers.vmware.com",
+                    "id": 1,
+                    "original_url": "https:\/\/careers.vmware.com\/job\/palo-alto\/intern-it-colleague-experience-and-technology-ux-researcher\/1567\/13296765"
+                }
+            ],
+            "thread_ts": "1568925676.072500",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1568926108.072800",
+            "reply_users": [
+                "U7GB5CTNY"
+            ],
+            "replies": [
+                {
+                    "user": "U7GB5CTNY",
+                    "ts": "1568926108.072800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "E77189E3-A45E-4162-9105-F49D8AC4B46C",
+            "type": "message",
+            "text": "low key the short lines make it tempting to change majors ",
+            "user": "U95S2KBHC",
+            "ts": "1568828255.070800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568828188.068800",
+            "parent_user_id": "U7GB5CTNY",
+            "reactions": [
+                {
+                    "name": "point_up_2",
+                    "users": [
+                        "UD70YDRJ9",
+                        "U7CUU7293",
+                        "U9542L21Y"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6624C6DB-BA4F-4362-882F-DC54A2487884",
+            "type": "message",
+            "text": "I think possibly it's for IOE career fair",
+            "user": "U95S2KBHC",
+            "ts": "1568828218.069700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568828188.068800",
+            "parent_user_id": "U7GB5CTNY"
+        },
+        {
+            "client_msg_id": "4c19f046-8bc1-4197-87b0-071cc276e683",
+            "type": "message",
+            "text": "IOE today I thought",
+            "user": "UG0BDKNPR",
+            "ts": "1568828214.069400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568828188.068800",
+            "parent_user_id": "U7GB5CTNY"
+        },
+        {
+            "client_msg_id": "7571B83E-C3A3-4FEF-8930-1343A725E975",
+            "type": "message",
+            "text": "Microsoft is here for something in the Dude and their line looks short AF",
+            "user": "U7GB5CTNY",
+            "ts": "1568828188.068800",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U7GB5CTNY",
+                "ts": "1568828196.000000"
+            },
+            "thread_ts": "1568828188.068800",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1568828255.070800",
+            "reply_users": [
+                "UG0BDKNPR",
+                "U95S2KBHC"
+            ],
+            "replies": [
+                {
+                    "user": "UG0BDKNPR",
+                    "ts": "1568828214.069400"
+                },
+                {
+                    "user": "U95S2KBHC",
+                    "ts": "1568828218.069700"
+                },
+                {
+                    "user": "U95S2KBHC",
+                    "ts": "1568828255.070800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "B8C503CC-0F58-4A9F-85E0-433BB0FE10A2",
+            "type": "message",
+            "text": "Jeans (not ripped) and a casual shirt! ",
+            "user": "U7HASRAC8",
+            "ts": "1568820745.068200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568820535.067400",
+            "parent_user_id": "UFYUSR080"
+        },
+        {
+            "client_msg_id": "e3e9466f-f1bf-45e9-a9a2-6c461044291d",
+            "type": "message",
+            "text": "Thank you thank you",
+            "user": "U962G13QX",
+            "ts": "1568820664.067600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "parent_user_id": "U962G13QX"
+        },
+        {
+            "client_msg_id": "28041A2D-A7E4-4D9B-BFA8-318FD62E16BC",
+            "type": "message",
+            "text": "What do you wear to a casual dinner with recruiters?",
+            "user": "UFYUSR080",
+            "ts": "1568820535.067400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568820535.067400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1568820745.068200",
+            "reply_users": [
+                "U7HASRAC8"
+            ],
+            "replies": [
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1568820745.068200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "5bd69b5c-3675-49b6-8ab7-de86143da071",
+            "type": "message",
+            "text": "Situation: Set the scene and give the necessary details of your example.\nTask: Describe what your responsibility was in that situation.\nAction: Explain exactly what steps you took to address it.\nResult: Share what outcomes your actions achieved",
+            "user": "UFZ4XJUJY",
+            "ts": "1568820178.066700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "parent_user_id": "U962G13QX",
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "UFZ6CG58B",
+                        "U7C7E4E0Y",
+                        "U7HASRAC8",
+                        "UFYHF39PA",
+                        "U7CFFQACR"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "8974847D-51FE-408F-A3D7-EDBCC6C3F199",
+            "type": "message",
+            "text": "STAR method 100p",
+            "user": "UFZ6CG58B",
+            "ts": "1568820109.066500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "parent_user_id": "U962G13QX"
+        },
+        {
+            "client_msg_id": "67DC9660-8FE3-4EA2-B8E9-1639F335CF5C",
+            "type": "message",
+            "text": "Strengths + weaknesses and have questions prepped for them at the end ",
+            "user": "UFZ6CG58B",
+            "ts": "1568820084.066100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "parent_user_id": "U962G13QX"
+        },
+        {
+            "client_msg_id": "1B2283CD-22CD-4D62-8F88-34D5E5C37C37",
+            "type": "message",
+            "text": "Also tell me about yourself is huge ",
+            "user": "UFZ6CG58B",
+            "ts": "1568820028.065400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "parent_user_id": "U962G13QX"
+        },
+        {
+            "client_msg_id": "B62A258A-A7DE-4130-996C-F1D1A18973B6",
+            "type": "message",
+            "text": "Its a lot of tell me about a time.... questions. I always have a story for leadership, failure, teamwork, challenge, and success ready to go and you can generally twist any question to match those 5 categories",
+            "user": "UFZ6CG58B",
+            "ts": "1568820011.064900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "parent_user_id": "U962G13QX"
+        },
+        {
+            "client_msg_id": "12CA8195-539D-4737-80D5-88018E122F5C",
+            "type": "message",
+            "text": "what do behavioral interview questions consist of? ",
+            "user": "U962G13QX",
+            "ts": "1568819913.063200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568819913.063200",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1568820664.067600",
+            "reply_users": [
+                "UFZ6CG58B",
+                "UFZ4XJUJY",
+                "U962G13QX"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568820011.064900"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568820028.065400"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568820084.066100"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568820109.066500"
+                },
+                {
+                    "user": "UFZ4XJUJY",
+                    "ts": "1568820178.066700"
+                },
+                {
+                    "user": "U962G13QX",
+                    "ts": "1568820664.067600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "6d811693-916d-4a4d-a11e-340a18a04e89",
+            "type": "message",
+            "text": "I also know someone that got a SQL question tho",
+            "user": "UFZ6CG58B",
+            "ts": "1568816426.062700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "e7bc4850-6ef9-4cfc-9fb0-1c80e25d6398",
+            "type": "message",
+            "text": "If it's a 30min interview its like 5-10 mins of talking in the beginning about team\/ your experiences, then they move to technical for like 15-20 mins and then you can ask questions",
+            "user": "UFZ6CG58B",
+            "ts": "1568816402.062500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "dd738166-495e-46b2-85aa-fc0e2fabf157",
+            "type": "message",
+            "text": "data structures and algorithms stuff",
+            "user": "UFZ6CG58B",
+            "ts": "1568816337.062300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "c4260eab-f627-4718-8c6e-0720f0d1dfd0",
+            "type": "message",
+            "text": "<@U7J0HDV8B> its like an EECS 281 question technical",
+            "user": "UFZ6CG58B",
+            "ts": "1568816329.062100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "366B59AD-3D6B-4BD9-8659-2147C2B27C3C",
+            "type": "message",
+            "text": "Sadly this isn\u2019t for me don\u2019t ask me that lol",
+            "user": "U7J0HDV8B",
+            "ts": "1568816276.061900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "97361110-d27f-420b-a852-201fc0c30d62",
+            "type": "message",
+            "text": "<@UFZ6CG58B>",
+            "user": "U9628B2GP",
+            "ts": "1568816274.061600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "5728FFE1-F2DC-4ADB-91F5-562FACA382D9",
+            "type": "message",
+            "text": "Does anyone know what an Apple technical interview would consist of? Is it like a standard one or do you think they\u2019d be asking questions specific to the team the job is for?",
+            "user": "U7J0HDV8B",
+            "ts": "1568816258.061300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568816258.061300",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1568816426.062700",
+            "reply_users": [
+                "U9628B2GP",
+                "U7J0HDV8B",
+                "UFZ6CG58B"
+            ],
+            "replies": [
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1568816274.061600"
+                },
+                {
+                    "user": "U7J0HDV8B",
+                    "ts": "1568816276.061900"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568816329.062100"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568816337.062300"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568816402.062500"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1568816426.062700"
+                }
+            ],
+            "subscribed": false
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

@@ -1,0 +1,255 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "CD6690D5-6887-432E-88CE-E9DAA78330F6",
+            "type": "message",
+            "text": "Great! Just chillin here",
+            "user": "UNM34JWAC",
+            "ts": "1570489219.003900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570394038.002600",
+            "parent_user_id": "U7C7E4E0Y"
+        },
+        {
+            "client_msg_id": "f7cb0d36-9ca1-49fb-aed4-4623d42767c4",
+            "type": "message",
+            "text": "I think so- I'm a bus stop away and will be there soon!",
+            "user": "U7C7E4E0Y",
+            "ts": "1570489208.003400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570394038.002600",
+            "parent_user_id": "U7C7E4E0Y"
+        },
+        {
+            "client_msg_id": "D08509C3-09E1-4EF4-9DEB-F68F0FC0EE07",
+            "type": "message",
+            "text": "Room 1265?",
+            "user": "UNM34JWAC",
+            "ts": "1570489179.003200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570394038.002600",
+            "parent_user_id": "U7C7E4E0Y"
+        },
+        {
+            "client_msg_id": "3B0F1149-474B-4DBA-8A50-E97726B26CDE",
+            "type": "message",
+            "text": "See you there pal!",
+            "user": "U7HASRAC8",
+            "ts": "1570413776.002800",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "964606ba-003a-4c65-9b83-b95ea9ab4848",
+            "type": "message",
+            "text": "Friendly reminder that there is a work session tomorrow night! An easy way to get some good points will be to assign yourself a task on trello, ask any questions you need, and then finish it over fall break from the comfort of wherever you will be!",
+            "user": "U7C7E4E0Y",
+            "ts": "1570394038.002600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570394038.002600",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1570489219.003900",
+            "reply_users": [
+                "UNM34JWAC",
+                "U7C7E4E0Y"
+            ],
+            "replies": [
+                {
+                    "user": "UNM34JWAC",
+                    "ts": "1570489179.003200"
+                },
+                {
+                    "user": "U7C7E4E0Y",
+                    "ts": "1570489208.003400"
+                },
+                {
+                    "user": "UNM34JWAC",
+                    "ts": "1570489219.003900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNLJT07EG",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569888804.001800",
+            "text": "<@UNLJT07EG> has joined the channel"
+        },
+        {
+            "client_msg_id": "9488EE51-B86F-4C5A-86AE-274171C44381",
+            "type": "message",
+            "text": ":point_right::skin-tone-3::face_with_cowboy_hat::point_right::skin-tone-3: see you tonight!!!",
+            "user": "U7HASRAC8",
+            "ts": "1569853032.000300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569784615.003800",
+            "parent_user_id": "U7C7E4E0Y",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "100",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "tech_yeah",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rotating_parrot",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "conga_parrot",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "kristen_parrot",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "kristen",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b9483c77-656e-4905-af9a-ade8c2499162",
+            "type": "message",
+            "text": "Friendly reminder that our work session is tomorrow night! I havent seen any activity on Trello except for <@U7HASRAC8> taking ownership of dockerizing our application. Thus, I'd love to have a full room so that people can get started on a piece of the project together and we can start making some forward velocity on this! I know it's been busy, but swing by for 30 minutes, an hour, maybe even 2! Itll be fun, interesting, and enjoyable!!",
+            "user": "U7C7E4E0Y",
+            "ts": "1569784615.003800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569784615.003800",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1569853032.000300",
+            "reply_users": [
+                "U7HASRAC8"
+            ],
+            "replies": [
+                {
+                    "user": "U7HASRAC8",
+                    "ts": "1569853032.000300"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569472572.002000",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "user": "UFZ4XJUJY",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569468568.001800",
+            "text": "<@UFZ4XJUJY> has joined the channel"
+        },
+        {
+            "client_msg_id": "0e546412-7b5f-468b-95a9-63c53e334d1d",
+            "type": "message",
+            "text": "Hi! I got feedback at chapter that the invite link to Trello stopped working, so here's a new one! I really hope to see some activity on the trello board, otherwise nobody is gonna get points :sadboi_parrot: <https:\/\/trello.com\/invite\/ktpbuildsystem\/fa2331f055979a44c40719bbff493e82>",
+            "user": "U7C7E4E0Y",
+            "ts": "1569458282.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM34JWAC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569422361.000200",
+            "text": "<@UNM34JWAC> has joined the channel"
+        },
+        {
+            "client_msg_id": "683E914D-D166-4810-8CB6-172D3B764788",
+            "type": "message",
+            "text": "Can\u2019t come today",
+            "user": "UFZ9GSZEW",
+            "ts": "1569280336.007600",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d045873f-8f48-4f35-aa84-ce05a79c23f0",
+            "type": "message",
+            "text": "It\u2019s 10 minutes the start of the meeting today and nobody has arrived. Please drop a message here if you plan on showing up today, otherwise I will likely leave by 7:30",
+            "user": "U7C7E4E0Y",
+            "ts": "1569280214.006700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "f944991e-d725-4879-bfda-de9c92136f48",
+            "type": "message",
+            "text": "Howdy! As mentioned in the SPAM, if you can't make tomorrow's meeting, that's OK! As a reminder, meetings do not grant any points, so you'll only be missing out on the best parts of KTP: friendship and hanging with cool people whole doing neat things. BUT if Monday's\/the time doesnt work, you can just assign a project to yourself on trello (either an epic or a broken up unit of work) and hop to it! Message me once you've done so\/if you have questions about anything! Also, if someone has already claimed something you wanted to do, feel free to message them and work together on it! You don't have too, but I'd probably be more fun :D",
+            "user": "U7C7E4E0Y",
+            "ts": "1569195372.005700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "conga_parrot",
+                    "users": [
+                        "U7HASRAC8"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

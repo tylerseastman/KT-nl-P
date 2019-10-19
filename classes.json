@@ -1,0 +1,650 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571420822.000300",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "FDC5E505-0BF1-4D96-8624-831EE8D8FC07",
+            "type": "message",
+            "text": "I\u2019d say stats 412 bc I\u2019ve heard ioe 265 is just so useless, and stats 412 isn\u2019t too bad ",
+            "user": "UD864A6GN",
+            "ts": "1570898772.003800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570893249.000900",
+            "parent_user_id": "UG0BDKNPR"
+        },
+        {
+            "client_msg_id": "4511496f-99f6-4a35-8927-1f56513927e5",
+            "type": "message",
+            "text": "STATS 412",
+            "user": "UFZ4U8M44",
+            "ts": "1570897204.002700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570893249.000900",
+            "parent_user_id": "UG0BDKNPR"
+        },
+        {
+            "client_msg_id": "CC1DA483-B09C-4A14-A026-8470027CA52F",
+            "type": "message",
+            "text": "if you take stats 412 take it with dr miller",
+            "user": "UG0P39T62",
+            "ts": "1570895867.002500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570893249.000900",
+            "parent_user_id": "UG0BDKNPR",
+            "reactions": [
+                {
+                    "name": "point_up_2",
+                    "users": [
+                        "UD70YDRJ9"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d60621ea-dd26-4d26-8dcf-f6672f2da109",
+            "type": "message",
+            "text": "Top 5 classes I've taken here",
+            "user": "U9628B2GP",
+            "ts": "1570893452.001800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570893249.000900",
+            "parent_user_id": "UG0BDKNPR",
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "UFYHF39PA"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "649456EE-CE3E-4B7F-872A-93B58DF3E135",
+            "type": "message",
+            "text": "<@U9628B2GP> NO:angry:",
+            "user": "UG0BDKNPR",
+            "ts": "1570893429.001600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570893249.000900",
+            "parent_user_id": "UG0BDKNPR"
+        },
+        {
+            "client_msg_id": "81b65dcb-1ca9-4072-921c-a89d15955208",
+            "type": "message",
+            "text": "STATS 250 :triumph::triumph::triumph:",
+            "user": "U9628B2GP",
+            "ts": "1570893403.001000",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U9628B2GP",
+                "ts": "1570893409.000000"
+            },
+            "thread_ts": "1570893249.000900",
+            "parent_user_id": "UG0BDKNPR"
+        },
+        {
+            "client_msg_id": "D0DC9CA0-FBF5-4709-B177-B7817EB01BA2",
+            "type": "message",
+            "text": "Stats 412 or IOE 265 for next semester?",
+            "user": "UG0BDKNPR",
+            "ts": "1570893249.000900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570893249.000900",
+            "reply_count": 6,
+            "reply_users_count": 5,
+            "latest_reply": "1570898772.003800",
+            "reply_users": [
+                "U9628B2GP",
+                "UG0BDKNPR",
+                "UG0P39T62",
+                "UFZ4U8M44",
+                "UD864A6GN"
+            ],
+            "replies": [
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570893403.001000"
+                },
+                {
+                    "user": "UG0BDKNPR",
+                    "ts": "1570893429.001600"
+                },
+                {
+                    "user": "U9628B2GP",
+                    "ts": "1570893452.001800"
+                },
+                {
+                    "user": "UG0P39T62",
+                    "ts": "1570895867.002500"
+                },
+                {
+                    "user": "UFZ4U8M44",
+                    "ts": "1570897204.002700"
+                },
+                {
+                    "user": "UD864A6GN",
+                    "ts": "1570898772.003800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNM34HZ6U",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570642435.000200",
+            "text": "<@UNM34HZ6U> has joined the channel"
+        },
+        {
+            "client_msg_id": "b82c8576-af1f-4ab2-98db-25c024146b3d",
+            "type": "message",
+            "text": "texted u",
+            "user": "U7CFFQACR",
+            "ts": "1570539277.001000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570508886.000700",
+            "parent_user_id": "UNLJSUDM2"
+        },
+        {
+            "client_msg_id": "69da9afa-f0ef-4c87-b99d-afa1e77c3ed2",
+            "type": "message",
+            "text": "hooo boy",
+            "user": "U7CFFQACR",
+            "ts": "1570538901.000800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570508886.000700",
+            "parent_user_id": "UNLJSUDM2"
+        },
+        {
+            "client_msg_id": "5077CCF5-8DBD-4597-AD86-73D5999087FD",
+            "type": "message",
+            "text": "anyone have old econ 101 exams for caldwell",
+            "user": "UNLJSUDM2",
+            "ts": "1570508886.000700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570508886.000700",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1570539277.001000",
+            "reply_users": [
+                "U7CFFQACR"
+            ],
+            "replies": [
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570538901.000800"
+                },
+                {
+                    "user": "U7CFFQACR",
+                    "ts": "1570539277.001000"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UN9JL25AP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569972641.014100",
+            "text": "<@UN9JL25AP> has joined the channel",
+            "reactions": [
+                {
+                    "name": "book",
+                    "users": [
+                        "UFZ4ZBEDS"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "D1159A7F-479A-4103-8106-C8A072950F36",
+            "type": "message",
+            "text": "Has anyone in EECS 485 deployed to aws yet? HMU plz running into annoying issue ",
+            "user": "U7CTEEYDS",
+            "ts": "1569889773.013900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "ab7ed2f2-bf4b-4f6e-a829-c75e42bf3d7a",
+            "type": "message",
+            "text": "is anyone in the 2:30 stats 412 section?",
+            "user": "UD70YDRJ9",
+            "ts": "1569879654.012900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7c2abbd9-1480-4d29-a58e-fe1bfcb7c63e",
+            "type": "message",
+            "text": "anyone in 370 and finish part 1s",
+            "user": "UG0NSJJQ6",
+            "ts": "1569876536.012300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8968CB21-1C18-4946-8837-0B0F9BFDF2F2",
+            "type": "message",
+            "text": "anyone good w eecs 203 and can help me w a quick question ??",
+            "user": "UG0P39T62",
+            "ts": "1569548546.011700",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UNM34J2CQ",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "0469328F-EA5A-492A-8E42-B22A607B2938",
+            "type": "message",
+            "text": "Omg papa with the lifehack",
+            "user": "U7F1RLY2C",
+            "ts": "1569514626.010600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514498.009200",
+            "parent_user_id": "U7H8W4631",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "616fa208-8558-4854-8983-3ff5801ecbf4",
+            "type": "message",
+            "text": "yuh yuh np",
+            "user": "U7H8W4631",
+            "ts": "1569514568.010200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514498.009200",
+            "parent_user_id": "U7H8W4631"
+        },
+        {
+            "client_msg_id": "119E513C-067F-4F84-9244-6005E606DD26",
+            "type": "message",
+            "text": "Oh damn aight I\u2019ll try that thank you! ",
+            "user": "UD864A6GN",
+            "ts": "1569514527.010000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514498.009200",
+            "parent_user_id": "U7H8W4631"
+        },
+        {
+            "client_msg_id": "7ad6701e-e692-4e09-b1a6-b32a74e5568a",
+            "type": "message",
+            "text": "actually maybe a week after the deadline",
+            "user": "U7H8W4631",
+            "ts": "1569514513.009400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514498.009200",
+            "parent_user_id": "U7H8W4631"
+        },
+        {
+            "client_msg_id": "afe00b1f-20ef-490a-b636-4f8f2a1d863e",
+            "type": "message",
+            "text": "you can still take it P\/F, i did that once like a few days after the deadline. i basically told them \u201ci\u2019m really interested in the course but because of like my other major-relevant courses i couldn\u2019t spend as much time on the class as i would like\u201d and they approved it",
+            "user": "U7H8W4631",
+            "ts": "1569514498.009200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514498.009200",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1569514626.010600",
+            "reply_users": [
+                "U7H8W4631",
+                "UD864A6GN",
+                "U7F1RLY2C"
+            ],
+            "replies": [
+                {
+                    "user": "U7H8W4631",
+                    "ts": "1569514513.009400"
+                },
+                {
+                    "user": "UD864A6GN",
+                    "ts": "1569514527.010000"
+                },
+                {
+                    "user": "U7H8W4631",
+                    "ts": "1569514568.010200"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1569514626.010600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "96C3A2DB-5C1C-4BE0-A51B-712E940C26C2",
+            "type": "message",
+            "text": "Yeah I think it was Monday sorry dude",
+            "user": "U7J0HDV8B",
+            "ts": "1569514455.008200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514354.006600",
+            "parent_user_id": "U7J0HDV8B",
+            "reactions": [
+                {
+                    "name": "cry",
+                    "users": [
+                        "UD864A6GN",
+                        "U7C7E4E0Y"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "694D15A1-83AE-412B-A0E4-300FBAFBB283",
+            "type": "message",
+            "text": "Oh man I thought it was in the middle of the sem",
+            "user": "UD864A6GN",
+            "ts": "1569514395.007000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514354.006600",
+            "parent_user_id": "U7J0HDV8B",
+            "reactions": [
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7H8W4631",
+                        "U7C7E4E0Y",
+                        "UD6KPRFHS",
+                        "UFZ4XJUJY"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "B857581C-4C25-4429-B423-DC11EF03722A",
+            "type": "message",
+            "text": "I thought it just passed",
+            "user": "U7J0HDV8B",
+            "ts": "1569514354.006600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569514354.006600",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1569514455.008200",
+            "reply_users": [
+                "UD864A6GN",
+                "U7J0HDV8B"
+            ],
+            "replies": [
+                {
+                    "user": "UD864A6GN",
+                    "ts": "1569514395.007000"
+                },
+                {
+                    "user": "U7J0HDV8B",
+                    "ts": "1569514455.008200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "D3A2ABEF-D2A3-4111-9009-7D7C195B78E3",
+            "type": "message",
+            "text": "Anyone know when is te deadline to take a class pass\/fail? ",
+            "user": "UD864A6GN",
+            "ts": "1569514335.006300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569445873.005500",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "user": "UNM35U221",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569359537.005100",
+            "text": "<@UNM35U221> has joined the channel"
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569278697.004600",
+            "text": "<@UN89RAQM8> has joined the channel"
+        },
+        {
+            "client_msg_id": "2166CD73-D23D-4551-B134-F8C07666EDB4",
+            "type": "message",
+            "text": "lmao so my 388 partner just dropped the class \u2014 if anyone knows of someone who needs a partner lmk! ",
+            "user": "U962G13QX",
+            "ts": "1569260557.004000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "U7F1RLY2C",
+                        "UD864A6GN",
+                        "U7CFFQACR",
+                        "U7GA9464W",
+                        "U7C661T32",
+                        "U7J0HDV8B"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "user": "UNM34K1FA",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569257711.003200",
+            "text": "<@UNM34K1FA> has joined the channel"
+        },
+        {
+            "client_msg_id": "7993762a-90af-4163-ab76-9203c20d1278",
+            "type": "message",
+            "text": "Anyone in 484 and still needs a partner.  A friend of mine\u2019s partner just dropped the class",
+            "user": "UG0CA18MN",
+            "ts": "1569256172.003000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM34J2CQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569247781.002300",
+            "text": "<@UNM34J2CQ> has joined the channel"
+        },
+        {
+            "user": "UNLJT0A2G",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569194384.002000",
+            "text": "<@UNLJT0A2G> has joined the channel"
+        },
+        {
+            "user": "UNLJSUDM2",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569192899.001700",
+            "text": "<@UNLJSUDM2> has joined the channel"
+        },
+        {
+            "client_msg_id": "6e5a2f04-6b20-40cf-8ccb-2c179e52d3f9",
+            "type": "message",
+            "text": "yea we did and we went through  our code like 100 times and we think its good but aparently not lol",
+            "user": "UG0CA18MN",
+            "ts": "1569174363.001400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "30186ecf-81de-49c6-a9d8-8503ff0e1df4",
+            "type": "message",
+            "text": "have you watched the bonus video? it helped me a lot",
+            "user": "U962G13QX",
+            "ts": "1569174305.001200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "7df193f5-aa88-4e9b-9e91-35ec8bf2c005",
+            "type": "message",
+            "text": "like we are able to loop through a block successfully and calculate all the values of the plain text bytes but all of them are 10",
+            "user": "UG0CA18MN",
+            "ts": "1569174300.001000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "5a2e2e37-9afd-486c-991a-146ad5eb0af7",
+            "type": "message",
+            "text": "we are stuck lol",
+            "user": "UG0CA18MN",
+            "ts": "1569174241.000800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "5df5739f-e711-496c-a0d4-b83500a8d50f",
+            "type": "message",
+            "text": "whats up",
+            "user": "U962G13QX",
+            "ts": "1569174218.000600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "060f0231-001d-4220-a084-6f4743d3260a",
+            "type": "message",
+            "text": "hi i am about halfway thru",
+            "user": "U962G13QX",
+            "ts": "1569174217.000400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "parent_user_id": "UG0CA18MN"
+        },
+        {
+            "client_msg_id": "a80b5cd1-980c-4fea-bc32-1af2014414ed",
+            "type": "message",
+            "text": "anyone in 388 and finish the padding oracle part",
+            "user": "UG0CA18MN",
+            "ts": "1569174166.000300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569174166.000300",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1569174363.001400",
+            "reply_users": [
+                "U962G13QX",
+                "UG0CA18MN"
+            ],
+            "replies": [
+                {
+                    "user": "U962G13QX",
+                    "ts": "1569174217.000400"
+                },
+                {
+                    "user": "U962G13QX",
+                    "ts": "1569174218.000600"
+                },
+                {
+                    "user": "UG0CA18MN",
+                    "ts": "1569174241.000800"
+                },
+                {
+                    "user": "UG0CA18MN",
+                    "ts": "1569174300.001000"
+                },
+                {
+                    "user": "U962G13QX",
+                    "ts": "1569174305.001200"
+                },
+                {
+                    "user": "UG0CA18MN",
+                    "ts": "1569174363.001400"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "829FB075-79C8-42DE-84E4-6F46F8C50D02",
+            "type": "message",
+            "text": "BRING PING PONG BALLS IF YOU CAN TONIGHT <!channel> ",
+            "user": "U7F1RLY2C",
+            "ts": "1569025480.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "E8F64034-37CF-47F5-8A70-17F886C3C6E1",
+            "type": "message",
+            "text": "Taking it rn, DM me if you have questions ",
+            "user": "UFZ4ZBEDS",
+            "ts": "1568831130.001200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568831034.000700",
+            "parent_user_id": "UD864A6GN",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UD864A6GN"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "8E377D8E-AD31-4E4D-9F83-EDDC5452011A",
+            "type": "message",
+            "text": "Is anyone in eecs 587 (parallel computing) or has taken it in the past? ",
+            "user": "UD864A6GN",
+            "ts": "1568831034.000700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568831034.000700",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1568831130.001200",
+            "reply_users": [
+                "UFZ4ZBEDS"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ4ZBEDS",
+                    "ts": "1568831130.001200"
+                }
+            ],
+            "subscribed": false
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

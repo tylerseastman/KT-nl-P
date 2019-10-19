@@ -1,0 +1,1908 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "2A1A32FF-9676-4EC3-8D88-C8520DBBF3F7",
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/user\/ayeanna6\/playlist\/7xrxiKcwT13n3oUGb7fP93?si=MZ5FkKbmQPeMYGJrsZ-hIA>",
+            "user": "UD7SGH4FR",
+            "ts": "1571443028.003700",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "party mix of the century",
+                    "title_link": "https:\/\/open.spotify.com\/user\/ayeanna6\/playlist\/7xrxiKcwT13n3oUGb7fP93?si=MZ5FkKbmQPeMYGJrsZ-hIA",
+                    "thumb_url": "https:\/\/pl.scdn.co\/images\/pl\/default\/e04525500972ad76acaed41f843bee25000cbd04",
+                    "thumb_width": 169,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: party mix of the century",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: party mix of the century\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/7xrxiKcwT13n3oUGb7fP93?si=MZ5FkKbmQPeMYGJrsZ-hIA\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/user\/ayeanna6\/playlist\/7xrxiKcwT13n3oUGb7fP93?si=MZ5FkKbmQPeMYGJrsZ-hIA",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/user\/ayeanna6\/playlist\/7xrxiKcwT13n3oUGb7fP93?si=MZ5FkKbmQPeMYGJrsZ-hIA"
+                }
+            ],
+            "thread_ts": "1571440282.001200",
+            "parent_user_id": "UNLJSV2NQ",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UNLJSV2NQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "515710c3-3bac-4559-ad83-3297785bf9cf",
+            "type": "message",
+            "text": "Every song had to be approved by three separate people before it was added, so I would say it is p extensive and well curated",
+            "user": "UFZ6CG58B",
+            "ts": "1571441080.003300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571440282.001200",
+            "parent_user_id": "UNLJSV2NQ",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UNLJSV2NQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "32706771-c698-48c6-89f8-ccb9a992afd7",
+            "type": "message",
+            "text": "Here is my part playlist",
+            "user": "UFZ6CG58B",
+            "ts": "1571441038.003100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571440282.001200",
+            "parent_user_id": "UNLJSV2NQ"
+        },
+        {
+            "client_msg_id": "a4a6e8b6-6584-41d8-8018-c99d4cc63e28",
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/playlist\/2u0wFN6Pw3DjDNMoploCnb?si=XmK6dIghR1-gZubHgbfY8Q>",
+            "user": "UFZ6CG58B",
+            "ts": "1571441029.002700",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "gurm dur",
+                    "title_link": "https:\/\/open.spotify.com\/playlist\/2u0wFN6Pw3DjDNMoploCnb?si=XmK6dIghR1-gZubHgbfY8Q",
+                    "thumb_url": "https:\/\/mosaic.scdn.co\/300\/3aa79be73da460800b3677856c2d93f5f322899bab67616d0000b2734d51081892dbe3f1ddf28914ab67616d0000b2735c0d6a1ace5782f888a203e8ab67616d0000b2738f23ac56db2576fc122cff78",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: gurm dur",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: gurm dur\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/2u0wFN6Pw3DjDNMoploCnb?si=XmK6dIghR1-gZubHgbfY8Q\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/playlist\/2u0wFN6Pw3DjDNMoploCnb?si=XmK6dIghR1-gZubHgbfY8Q",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/playlist\/2u0wFN6Pw3DjDNMoploCnb?si=XmK6dIghR1-gZubHgbfY8Q"
+                }
+            ],
+            "thread_ts": "1571440282.001200",
+            "parent_user_id": "UNLJSV2NQ"
+        },
+        {
+            "client_msg_id": "C8DC2141-8C3A-499A-9929-DBD6C7D97070",
+            "type": "message",
+            "text": "i always grab a \u2018late 2000s hits\u2019 playlist off spotify bc thats always a hit, theres a buncha good ones out there",
+            "user": "UNLJSUBA8",
+            "ts": "1571440398.002500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571440282.001200",
+            "parent_user_id": "UNLJSV2NQ",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UNLJSV2NQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "48CE6FFF-3CD0-4C01-99C3-20C065D3E166",
+            "type": "message",
+            "text": "Does anyone have a good house party play list (sos)!!",
+            "user": "UNLJSV2NQ",
+            "ts": "1571440282.001200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571440282.001200",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1571443028.003700",
+            "reply_users": [
+                "UNLJSUBA8",
+                "UFZ6CG58B",
+                "UD7SGH4FR"
+            ],
+            "replies": [
+                {
+                    "user": "UNLJSUBA8",
+                    "ts": "1571440398.002500"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1571441029.002700"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1571441038.003100"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1571441080.003300"
+                },
+                {
+                    "user": "UD7SGH4FR",
+                    "ts": "1571443028.003700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571440270.000800",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "F98E12A6-CEB0-4C00-94D5-452C60F75BB1",
+            "type": "message",
+            "text": "Yes",
+            "user": "UD6KPRFHS",
+            "ts": "1571432937.000400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571261645.001400",
+            "parent_user_id": "UD7SGH4FR",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UD7SGH4FR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Hear Prince's Acoustic 'I Feel For You' Demo, Fresh From The Vault : NPR\n<https:\/\/www.npr.org\/2019\/10\/18\/771266727\/hear-princes-acoustic-i-feel-for-you-demo-fresh-from-the-vault?utm_campaign=npr&amp;utm_term=nprnews&amp;utm_source=facebook.com&amp;utm_medium=social&amp;fbclid=IwAR2HxmYI5y7yM4YJtqt6wKapCro_lsBIiapbKAno5IO7cCo8CBYlx3y4F1M>",
+            "user": "UFYHVHEL8",
+            "ts": "1571432039.000100",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "NPR.org",
+                    "title": "Hear Prince's Acoustic 'I Feel For You' Demo, Fresh From The Vault",
+                    "title_link": "https:\/\/www.npr.org\/2019\/10\/18\/771266727\/hear-princes-acoustic-i-feel-for-you-demo-fresh-from-the-vault?utm_campaign=npr&utm_term=nprnews&utm_source=facebook.com&utm_medium=social&fbclid=IwAR2HxmYI5y7yM4YJtqt6wKapCro_lsBIiapbKAno5IO7cCo8CBYlx3y4F1M",
+                    "text": "\"I Feel for You\" was a smash for Chaka Khan in 1984. Five years earlier, it existed only as a solo demo by a 20-year-old Prince.",
+                    "fallback": "NPR.org: Hear Prince's Acoustic 'I Feel For You' Demo, Fresh From The Vault",
+                    "image_url": "https:\/\/media.npr.org\/assets\/img\/2019\/10\/18\/prince_wide-aec411c8c6aa951f7f17bc46893193c844b71552.jpg?s=1400",
+                    "from_url": "https:\/\/www.npr.org\/2019\/10\/18\/771266727\/hear-princes-acoustic-i-feel-for-you-demo-fresh-from-the-vault?utm_campaign=npr&utm_term=nprnews&utm_source=facebook.com&utm_medium=social&fbclid=IwAR2HxmYI5y7yM4YJtqt6wKapCro_lsBIiapbKAno5IO7cCo8CBYlx3y4F1M",
+                    "image_width": 445,
+                    "image_height": 250,
+                    "image_bytes": 55143,
+                    "service_icon": "https:\/\/media.npr.org\/templates\/favicon\/favicon-180x180.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.npr.org\/2019\/10\/18\/771266727\/hear-princes-acoustic-i-feel-for-you-demo-fresh-from-the-vault?utm_campaign=npr&amp;utm_term=nprnews&amp;utm_source=facebook.com&amp;utm_medium=social&amp;fbclid=IwAR2HxmYI5y7yM4YJtqt6wKapCro_lsBIiapbKAno5IO7cCo8CBYlx3y4F1M"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Anyone wanna go to this",
+            "files": [
+                {
+                    "id": "FPG6HN2MT",
+                    "created": 1571261640,
+                    "timestamp": 1571261640,
+                    "name": "Image from iOS.png",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "UD7SGH4FR",
+                    "editable": false,
+                    "size": 4547343,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPG6HN2MT\/image_from_ios.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPG6HN2MT\/download\/image_from_ios.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_360.png",
+                    "thumb_360_w": 166,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_480.png",
+                    "thumb_480_w": 222,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_720.png",
+                    "thumb_720_w": 333,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1732,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_960.png",
+                    "thumb_960_w": 443,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPG6HN2MT-7021f63877\/image_from_ios_1024.png",
+                    "thumb_1024_w": 473,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1125,
+                    "original_h": 2436,
+                    "thumb_tiny": "AwAwABaUTylsDaD1o+0Sn7pByM8jGKDDMTwm3HcY5pPs8pz8pGewNTqVoL57M3TpR5jen60wwTZPyZ\/GjyJ\/+eZ\/OjUTsXduGJLcU4AdmP500thwu4ZPTil3qHCEjce1UIcMUtMaVFbBYA+lJ50f98UAOI+YH09qMDeDjke1BBx1x700Ekj5xQArKC2cc4x0pMD\/ACtPwaXFMD\/\/2Q==",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/UD7SGH4FR\/FPG6HN2MT\/image_from_ios.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FPG6HN2MT-9c4ee85435",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UD7SGH4FR",
+            "display_as_bot": false,
+            "ts": "1571261645.001400",
+            "client_msg_id": "8F51084D-9D25-4AF0-9D1E-557F2FEEA596",
+            "thread_ts": "1571261645.001400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1571432937.000400",
+            "reply_users": [
+                "UD6KPRFHS"
+            ],
+            "replies": [
+                {
+                    "user": "UD6KPRFHS",
+                    "ts": "1571432937.000400"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "14FB4722-5075-4E32-8C12-7FE51050C799",
+            "type": "message",
+            "text": "We got love! ",
+            "user": "U7GA9464W",
+            "ts": "1571241039.001000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571197754.000600",
+            "parent_user_id": "UG0BDKNPR"
+        },
+        {
+            "client_msg_id": "4C5D8F5C-7A23-4BF9-89D6-BA6C6CD8CCEC",
+            "type": "message",
+            "text": "Who want da yandhi leakz",
+            "user": "UG0BDKNPR",
+            "ts": "1571197754.000600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1571197754.000600",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1571241039.001000",
+            "reply_users": [
+                "U7GA9464W"
+            ],
+            "replies": [
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1571241039.001000"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U7GA9464W"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "DF8FD2F3-A5C6-4D38-8180-4B78702A8F2D",
+            "type": "message",
+            "text": "Listen to tool ",
+            "user": "U94B65R6U",
+            "ts": "1570902448.019600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570892232.018600",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "3229F103-CB32-41CA-BA8C-3B5F4E6BBB96",
+            "type": "message",
+            "text": "Oh wild okay thanks",
+            "user": "U7J0HDV8B",
+            "ts": "1570896725.019100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570892232.018600",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "db7a2bae-b645-4dd4-a84d-19e536ce8e15",
+            "type": "message",
+            "text": "it's rock with atypical rhythm structures. like weird time signatures, complex technical portions, usually with little vocals since it's kinda prog rock inspired",
+            "user": "U7J5KJW13",
+            "ts": "1570893639.018700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570892232.018600",
+            "parent_user_id": "U7J0HDV8B"
+        },
+        {
+            "client_msg_id": "395F56B4-11D8-43C2-9A75-4B0FE0AC1D6B",
+            "type": "message",
+            "text": "What is math rock <@U7J5KJW13> ",
+            "user": "U7J0HDV8B",
+            "ts": "1570892232.018600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570892232.018600",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1570902448.019600",
+            "reply_users": [
+                "U7J5KJW13",
+                "U7J0HDV8B",
+                "U94B65R6U"
+            ],
+            "replies": [
+                {
+                    "user": "U7J5KJW13",
+                    "ts": "1570893639.018700"
+                },
+                {
+                    "user": "U7J0HDV8B",
+                    "ts": "1570896725.019100"
+                },
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570902448.019600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "E565ADDD-BB87-44B3-B7BF-54021372A883",
+            "type": "message",
+            "text": "worddd that guy slaps",
+            "user": "UN9JL20MR",
+            "ts": "1570823544.017700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UNLJSUBA8"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1649B3D0-5D34-49CB-827E-6A7548F9DC27",
+            "type": "message",
+            "text": "would highly recommend Kota the Friend too, particularly \u201cChicago Diner\u201d",
+            "user": "UNLJSUBA8",
+            "ts": "1570823422.017100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "3668b430-5054-4ef7-9de0-db287068611e",
+            "type": "message",
+            "text": "they also did a pirate metal inspired song \u00af\\_(\u30c4)_\/\u00af",
+            "user": "U7J5KJW13",
+            "ts": "1570823201.016100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "2425eb22-5341-44c3-a604-11eb080c180f",
+            "type": "message",
+            "text": "buckle in this is going to be a weird as fuck song recommendation.\nBabymetal, the j-pop\/metal hybrid duo released their third album and collabed with instrumental prog rock \/ math rock guitarists Tim Henson and Scott LePage of Polyphia <https:\/\/open.spotify.com\/track\/0FpJdOwxVYjN0UCIG6ovcR?si=5_-gy2wXSJ2iDvw9qqJjlw>",
+            "user": "U7J5KJW13",
+            "ts": "1570823161.015400",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "Brand New Day",
+                    "title_link": "https:\/\/open.spotify.com\/track\/0FpJdOwxVYjN0UCIG6ovcR?si=5_-gy2wXSJ2iDvw9qqJjlw",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/d0e18d2b15c533fca1d07b1f338b8ca3802ad663",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: Brand New Day",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Brand New Day\" src=\"https:\/\/open.spotify.com\/embed\/track\/0FpJdOwxVYjN0UCIG6ovcR?si=5_-gy2wXSJ2iDvw9qqJjlw\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/track\/0FpJdOwxVYjN0UCIG6ovcR?si=5_-gy2wXSJ2iDvw9qqJjlw",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/track\/0FpJdOwxVYjN0UCIG6ovcR?si=5_-gy2wXSJ2iDvw9qqJjlw"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9581E978-C2DB-4317-962A-93FFDA5408F1",
+            "type": "message",
+            "text": "\u201cedgar allan poed up\u201d and \u201camphetamine\u201d slap by this guy ",
+            "user": "UN9JL20MR",
+            "ts": "1570816345.013400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "88ADB7FB-5693-47E9-B53B-94231C8AA006",
+            "type": "message",
+            "text": "definitely same vibes imo ",
+            "user": "UN9JL20MR",
+            "ts": "1570816311.012700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "EAFAB8C5-C35C-432A-A80B-3D4FD1336ED5",
+            "type": "message",
+            "text": "yo definitely listen to smino ",
+            "user": "UN9JL20MR",
+            "ts": "1570816302.012300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "F7783AB1-C7E7-4AE2-A657-5C503228B737",
+            "type": "message",
+            "text": "Thank ya!!!",
+            "user": "U7F1RLY2C",
+            "ts": "1570807869.011500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "a35fc358-0f17-4a41-bbc6-68dfe256a2f6",
+            "type": "message",
+            "text": "This playlist follows that vibe pretty well, would explore it if ya haver the time :slightly_smiling_face:",
+            "user": "UFZ6CG58B",
+            "ts": "1570807856.011000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "UNLJSUBA8"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d6d12031-c865-441c-b84c-b24b555ad839",
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/playlist\/5OCW7M2ftFaRrWuhIzG9I2?si=HE08jGlwTOqWKnLwnUCGAw>",
+            "user": "UFZ6CG58B",
+            "ts": "1570807826.010700",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "Lebanon Shackles",
+                    "title_link": "https:\/\/open.spotify.com\/playlist\/5OCW7M2ftFaRrWuhIzG9I2?si=HE08jGlwTOqWKnLwnUCGAw",
+                    "thumb_url": "https:\/\/pl.scdn.co\/images\/pl\/default\/869dd5dcefbbf7496a2bd4bad58ebc3a7112947a",
+                    "thumb_width": 300,
+                    "thumb_height": 200,
+                    "fallback": "Spotify Audio: Lebanon Shackles",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Lebanon Shackles\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/5OCW7M2ftFaRrWuhIzG9I2?si=HE08jGlwTOqWKnLwnUCGAw\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/playlist\/5OCW7M2ftFaRrWuhIzG9I2?si=HE08jGlwTOqWKnLwnUCGAw",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/playlist\/5OCW7M2ftFaRrWuhIzG9I2?si=HE08jGlwTOqWKnLwnUCGAw"
+                }
+            ],
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "0CFF127C-E75D-4CBA-A79A-312016FD1DD7",
+            "type": "message",
+            "text": "<https:\/\/music.apple.com\/us\/playlist\/neo-soul-essentials\/pl.01b52f2c73494c9a9e05c8aa6682e6f2>",
+            "user": "U94B65R6U",
+            "ts": "1570804382.010200",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Apple Music",
+                    "title": "\u200eNeo-Soul Essentials",
+                    "title_link": "https:\/\/music.apple.com\/us\/playlist\/neo-soul-essentials\/pl.01b52f2c73494c9a9e05c8aa6682e6f2",
+                    "text": "\u200ePlaylist \u00b7 100 Songs",
+                    "fallback": "Apple Music: \u200eNeo-Soul Essentials",
+                    "image_url": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features128\/v4\/2f\/23\/fd\/2f23fdf7-20a1-ef1c-9ea0-17b1602f29b6\/source\/1200x630wp.png",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "from_url": "https:\/\/music.apple.com\/us\/playlist\/neo-soul-essentials\/pl.01b52f2c73494c9a9e05c8aa6682e6f2",
+                    "image_bytes": 113521,
+                    "id": 1,
+                    "original_url": "https:\/\/music.apple.com\/us\/playlist\/neo-soul-essentials\/pl.01b52f2c73494c9a9e05c8aa6682e6f2"
+                }
+            ],
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UNM35TFNZ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "UNM35TFNZ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "29715E1F-188B-4944-B3A1-B09D64165E5A",
+            "type": "message",
+            "text": "Literally all noname and smino ",
+            "user": "U7GA9464W",
+            "ts": "1570803911.009900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "48CCE9D0-99F1-48F6-A432-081CEACB78DC",
+            "type": "message",
+            "text": "Amazing, thanks mikey i\u2019ll peep and see if spotify has a similar thing",
+            "user": "U7F1RLY2C",
+            "ts": "1570803543.009300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "51C22467-5047-4851-9729-6ADA4047A9E4",
+            "type": "message",
+            "text": "could you send a link for that playlist? i\u2019m feeling that rn",
+            "user": "UNM35TFNZ",
+            "ts": "1570803452.008600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "0014A512-98A0-485B-9832-62A6BFD53BAF",
+            "type": "message",
+            "text": "I think you\u2019re goin for a \u201cneo soul\u201d thing, I\u2019m listening to a playlist of that on Apple Music rn",
+            "user": "U94B65R6U",
+            "ts": "1570803390.007600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C"
+        },
+        {
+            "client_msg_id": "CEC3C835-11BC-4AED-83DC-3927C55C837A",
+            "type": "message",
+            "text": "I\u2019m still not happy with this answer but I enjoy thinking about this- I\u2019ll try to get back w some more",
+            "user": "U94B65R6U",
+            "ts": "1570803316.006200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6D2C5765-9436-4497-AD0E-86AB913AB2E4",
+            "type": "message",
+            "text": "feel like saba and his affiliates have a similar vibe also",
+            "user": "U7F1RLY2C",
+            "ts": "1570803308.005800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "bangbang",
+                    "users": [
+                        "U94B65R6U"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "28352A44-438D-481D-BBED-111DCE90999F",
+            "type": "message",
+            "text": "KTP is secretly a music head frat- and maybe like some erykah badu\/lauryn hill vibes?",
+            "user": "U94B65R6U",
+            "ts": "1570803264.004300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U9542L21Y",
+                        "UNM34JWAC"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "42441599-3BC7-4454-B9E3-CCF9A9784F61",
+            "type": "message",
+            "text": "Will check it out! Love when pledges get involved in the music slack ",
+            "user": "U7F1RLY2C",
+            "ts": "1570803006.002800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UNM35TFNZ",
+                        "U94B65R6U",
+                        "U7GB5CTNY",
+                        "UNLJSUBA8"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "B0BFEAD5-C382-4F27-BBFE-8696C1975BCD",
+            "type": "message",
+            "text": "statue of liberty. by phony ppl",
+            "user": "UNM35TFNZ",
+            "ts": "1570802955.001800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570802590.001100",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7F1RLY2C"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Can anyone recommend me songs that have the same vibe as this? such a good song ",
+            "files": [
+                {
+                    "id": "FPA9WJE05",
+                    "created": 1570802590,
+                    "timestamp": 1570802590,
+                    "name": "Image from iOS.png",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U7F1RLY2C",
+                    "editable": false,
+                    "size": 4419132,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPA9WJE05\/image_from_ios.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FPA9WJE05\/download\/image_from_ios.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_360.png",
+                    "thumb_360_w": 166,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_480.png",
+                    "thumb_480_w": 222,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_720.png",
+                    "thumb_720_w": 333,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1732,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_960.png",
+                    "thumb_960_w": 443,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FPA9WJE05-8545a4f6f4\/image_from_ios_1024.png",
+                    "thumb_1024_w": 473,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1125,
+                    "original_h": 2436,
+                    "thumb_tiny": "AwAwABanRxV6BVMKEqOnpUgVM42rn6U7DM2irV8oWNcADnsKpZpCNCPP2QbSAdvBNVDhUBDHcOnPepUnKxqpiLADH1pvmAjBgyM0ATX5zDGff+lUKsXE\/nKFKbcH1qDFDAeCccA8DPWpHidY0cjh+nzVB1px37QDuwOgPagBG6ntz60lFFAH\/9k=",
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7F1RLY2C\/FPA9WJE05\/image_from_ios.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FPA9WJE05-bff78b5c7d",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7F1RLY2C",
+            "display_as_bot": false,
+            "ts": "1570802590.001100",
+            "client_msg_id": "4B07C438-9D69-4C0C-ADB3-B11808051A38",
+            "thread_ts": "1570802590.001100",
+            "reply_count": 18,
+            "reply_users_count": 7,
+            "latest_reply": "1570823544.017700",
+            "reply_users": [
+                "UNM35TFNZ",
+                "U7F1RLY2C",
+                "U94B65R6U",
+                "U7GA9464W",
+                "UFZ6CG58B",
+                "UN9JL20MR",
+                "UNLJSUBA8"
+            ],
+            "replies": [
+                {
+                    "user": "UNM35TFNZ",
+                    "ts": "1570802955.001800"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570803006.002800"
+                },
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570803264.004300"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570803308.005800"
+                },
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570803316.006200"
+                },
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570803390.007600"
+                },
+                {
+                    "user": "UNM35TFNZ",
+                    "ts": "1570803452.008600"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570803543.009300"
+                },
+                {
+                    "user": "U7GA9464W",
+                    "ts": "1570803911.009900"
+                },
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1570804382.010200"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1570807826.010700"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1570807856.011000"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570807869.011500"
+                },
+                {
+                    "user": "UN9JL20MR",
+                    "ts": "1570816302.012300"
+                },
+                {
+                    "user": "UN9JL20MR",
+                    "ts": "1570816311.012700"
+                },
+                {
+                    "user": "UN9JL20MR",
+                    "ts": "1570816345.013400"
+                },
+                {
+                    "user": "UNLJSUBA8",
+                    "ts": "1570823422.017100"
+                },
+                {
+                    "user": "UN9JL20MR",
+                    "ts": "1570823544.017700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNP9619QE",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570748814.000200",
+            "text": "<@UNP9619QE> has joined the channel"
+        },
+        {
+            "client_msg_id": "66f77589-1aab-4a80-bf5b-954e2d45d1ca",
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/track\/2lrIPpxDadBhgbwlkrFZc2?si=-SRd29_rRn-mRTGlt-IPWQ>",
+            "user": "U9628B2GP",
+            "ts": "1570576403.001900",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "Pablo (with Sfera Ebbasta &amp; Rich The Kid feat. Moneybagg Yo &amp; Lil Baby) - Remix",
+                    "title_link": "https:\/\/open.spotify.com\/track\/2lrIPpxDadBhgbwlkrFZc2?si=-SRd29_rRn-mRTGlt-IPWQ",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/1e2df7f955cb826fd43b7544412131791e0a2a1b",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: Pablo (with Sfera Ebbasta & Rich The Kid feat. Moneybagg Yo & Lil Baby) - Remix",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Pablo (with Sfera Ebbasta &amp; Rich The Kid feat. Moneybagg Yo &amp; Lil Baby) - Remix\" src=\"https:\/\/open.spotify.com\/embed\/track\/2lrIPpxDadBhgbwlkrFZc2?si=-SRd29_rRn-mRTGlt-IPWQ\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/track\/2lrIPpxDadBhgbwlkrFZc2?si=-SRd29_rRn-mRTGlt-IPWQ",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/track\/2lrIPpxDadBhgbwlkrFZc2?si=-SRd29_rRn-mRTGlt-IPWQ"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "B02789B0-A375-492D-8043-DBE99FBF677C",
+            "type": "message",
+            "text": "SAME ITS SO GROOVY ",
+            "user": "U7F1RLY2C",
+            "ts": "1570561139.001500",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570560981.001100",
+            "parent_user_id": "UN9JL20MR",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "UN9JL20MR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4166b4c8-297c-45eb-8d69-bc9d2c7f4464",
+            "type": "message",
+            "text": "this single from anderson paak\u2019s live band\u2019s been on repeat",
+            "user": "UN9JL20MR",
+            "ts": "1570560981.001100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570560981.001100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570561139.001500",
+            "reply_users": [
+                "U7F1RLY2C"
+            ],
+            "replies": [
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570561139.001500"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7F1RLY2C",
+                        "U9542L21Y"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7474e2ee-bc1d-4902-897f-cf41dc44fd22",
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/track\/0VKtRbgIN0YlDSgIhGLvun?si=0ctRfYZSS6ecE9CWkQ0Nkg>",
+            "user": "UN9JL20MR",
+            "ts": "1570560943.000500",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "On Sight",
+                    "title_link": "https:\/\/open.spotify.com\/track\/0VKtRbgIN0YlDSgIhGLvun?si=0ctRfYZSS6ecE9CWkQ0Nkg",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/470e8d427810b00083c571b9161410ee035e8a9e",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: On Sight",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: On Sight\" src=\"https:\/\/open.spotify.com\/embed\/track\/0VKtRbgIN0YlDSgIhGLvun?si=0ctRfYZSS6ecE9CWkQ0Nkg\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/track\/0VKtRbgIN0YlDSgIhGLvun?si=0ctRfYZSS6ecE9CWkQ0Nkg",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/track\/0VKtRbgIN0YlDSgIhGLvun?si=0ctRfYZSS6ecE9CWkQ0Nkg"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "E005806A-D6AD-42D2-B113-E117C98F238E",
+            "type": "message",
+            "text": "<https:\/\/twitter.com\/hbo\/status\/1181257523594174465?s=21>",
+            "user": "UG0BDKNPR",
+            "ts": "1570558905.000200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "F52A1A9A-B296-4460-B936-F68001C61979",
+            "type": "message",
+            "text": "Super different from Atrocity Exhibition, but the vibe of each song is so unique and dope, GO LISTEN",
+            "user": "U7F1RLY2C",
+            "ts": "1570460179.003100",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570457494.001700",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "UNM34JWAC",
+                        "UNLJSUBA8"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b75bdb86-4b8c-4930-ad19-0749182d5a68",
+            "type": "message",
+            "text": "haven't listened to danny brown in the LONGEST",
+            "user": "UNM34JWAC",
+            "ts": "1570460114.002000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570457494.001700",
+            "parent_user_id": "U7F1RLY2C",
+            "reactions": [
+                {
+                    "name": "open_mouth",
+                    "users": [
+                        "U7F1RLY2C"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "154B3831-E73B-45DC-BCFF-62DD03DE5686",
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/album\/4G3BRVsGEpWzUdplFJ1VBl?si=mcLueqL2SDevifCfe3_fbg>\n\nTHIS ALBUM IS SOOOO GOOD ",
+            "user": "U7F1RLY2C",
+            "ts": "1570457494.001700",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "uknowhatimsayin\u00bf",
+                    "title_link": "https:\/\/open.spotify.com\/album\/4G3BRVsGEpWzUdplFJ1VBl?si=mcLueqL2SDevifCfe3_fbg",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b9aced11ec7fe35da74ee9fc",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: uknowhatimsayin\u00bf",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: uknowhatimsayin\u00bf\" src=\"https:\/\/open.spotify.com\/embed\/album\/4G3BRVsGEpWzUdplFJ1VBl?si=mcLueqL2SDevifCfe3_fbg\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/album\/4G3BRVsGEpWzUdplFJ1VBl?si=mcLueqL2SDevifCfe3_fbg",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/album\/4G3BRVsGEpWzUdplFJ1VBl?si=mcLueqL2SDevifCfe3_fbg"
+                }
+            ],
+            "thread_ts": "1570457494.001700",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1570460179.003100",
+            "reply_users": [
+                "UNM34JWAC",
+                "U7F1RLY2C"
+            ],
+            "replies": [
+                {
+                    "user": "UNM34JWAC",
+                    "ts": "1570460114.002000"
+                },
+                {
+                    "user": "U7F1RLY2C",
+                    "ts": "1570460179.003100"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heart_eyes",
+                    "users": [
+                        "UFZ9GSZEW",
+                        "UN89RAQM8"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "68228a54-ff1b-4c94-9702-2d8a9091bede",
+            "type": "message",
+            "text": "Stan Hobo Johnson",
+            "user": "UFZ6CG58B",
+            "ts": "1570422467.001300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570415785.001000",
+            "parent_user_id": "UG0NSJJQ6"
+        },
+        {
+            "client_msg_id": "903AF6BD-1C2D-427A-99AE-7B73CECFCDCE",
+            "type": "message",
+            "text": "found him in my discover and im hooked \n<https:\/\/open.spotify.com\/album\/3QrkHSj8pBzE1Kwhpnktkw?si=EVvnDd1YRdCgUhzD5461YQ>",
+            "user": "UG0NSJJQ6",
+            "ts": "1570415785.001000",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "The Fall of Hobo Johnson",
+                    "title_link": "https:\/\/open.spotify.com\/album\/3QrkHSj8pBzE1Kwhpnktkw?si=EVvnDd1YRdCgUhzD5461YQ",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/44bb1de1843b7545e492c2187768a742c07db883",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: The Fall of Hobo Johnson",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: The Fall of Hobo Johnson\" src=\"https:\/\/open.spotify.com\/embed\/album\/3QrkHSj8pBzE1Kwhpnktkw?si=EVvnDd1YRdCgUhzD5461YQ\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/album\/3QrkHSj8pBzE1Kwhpnktkw?si=EVvnDd1YRdCgUhzD5461YQ",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/album\/3QrkHSj8pBzE1Kwhpnktkw?si=EVvnDd1YRdCgUhzD5461YQ"
+                }
+            ],
+            "thread_ts": "1570415785.001000",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1570422467.001300",
+            "reply_users": [
+                "UFZ6CG58B"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1570422467.001300"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "UFZ6CG58B"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "130513f7-fe13-423b-a200-aa0753fd8c38",
+            "type": "message",
+            "text": "I haven't posted in a long time \n<https:\/\/open.spotify.com\/track\/3olt6SFgHbjjb4kXtZxMHI?si=pC2tAUfoRaue1OXjaortHw>\nhere's some jungle DnB",
+            "user": "U7J5KJW13",
+            "ts": "1570332085.001200",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "Let's Do It Again",
+                    "title_link": "https:\/\/open.spotify.com\/track\/3olt6SFgHbjjb4kXtZxMHI?si=pC2tAUfoRaue1OXjaortHw",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/9c177b31d47c0bcca8fbd03eb163990447033641",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: Let's Do It Again",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Let's Do It Again\" src=\"https:\/\/open.spotify.com\/embed\/track\/3olt6SFgHbjjb4kXtZxMHI?si=pC2tAUfoRaue1OXjaortHw\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/track\/3olt6SFgHbjjb4kXtZxMHI?si=pC2tAUfoRaue1OXjaortHw",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/track\/3olt6SFgHbjjb4kXtZxMHI?si=pC2tAUfoRaue1OXjaortHw"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6F270088-4035-45A3-BD8F-2E551188CA9C",
+            "type": "message",
+            "text": "Also - undertale soundtrack",
+            "user": "U94B65R6U",
+            "ts": "1569958676.004400",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569957019.003900",
+            "parent_user_id": "U7G9GQHL0"
+        },
+        {
+            "client_msg_id": "F79512A4-3C9B-42D7-9F0F-E7D0957C983A",
+            "type": "message",
+            "text": "I know that typically video game music isn\u2019t posted in here but it\u2019s October 1st so I felt like sharing one of my favorite Halloween-y tracks <https:\/\/youtu.be\/cunKMWkE1yI>",
+            "user": "U7G9GQHL0",
+            "ts": "1569957019.003900",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "Skeleton Boomerang ~ +tek - Disco Necropolis (Graveyard Stage)",
+                    "title_link": "https:\/\/youtu.be\/cunKMWkE1yI",
+                    "author_name": "xenixsystemv",
+                    "author_link": "https:\/\/www.youtube.com\/user\/sakumod",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/cunKMWkE1yI\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Skeleton Boomerang ~ +tek - Disco Necropolis (Graveyard Stage)",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/cunKMWkE1yI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/youtu.be\/cunKMWkE1yI",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/youtu.be\/cunKMWkE1yI"
+                }
+            ],
+            "thread_ts": "1569957019.003900",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1569958676.004400",
+            "reply_users": [
+                "U94B65R6U"
+            ],
+            "replies": [
+                {
+                    "user": "U94B65R6U",
+                    "ts": "1569958676.004400"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "UD6775W9F",
+                        "U7J5KJW13"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4283bf80-313e-4201-a54b-a00ca86d30dd",
+            "type": "message",
+            "text": "This + hozier's tdc on repeat for those smooth vocal + acoustics",
+            "user": "U7GA9464W",
+            "ts": "1569937327.002400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "073a3e47-f966-4dc6-a633-7b1f96be0250",
+            "type": "message",
+            "text": "<https:\/\/www.youtube.com\/watch?v=Vq_PPPR96Zw&amp;t=804s>",
+            "user": "U7GA9464W",
+            "ts": "1569937285.001400",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "Music For Your Soul ft. Jacob Banks | Mahogany Compilation",
+                    "title_link": "https:\/\/www.youtube.com\/watch?v=Vq_PPPR96Zw&amp;t=804s",
+                    "author_name": "Mahogany Sessions",
+                    "author_link": "https:\/\/www.youtube.com\/user\/themahoganysessions",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/Vq_PPPR96Zw\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Music For Your Soul ft. Jacob Banks | Mahogany Compilation",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Vq_PPPR96Zw?feature=oembed&start=804&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/www.youtube.com\/watch?v=Vq_PPPR96Zw&amp;t=804s",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.youtube.com\/watch?v=Vq_PPPR96Zw&amp;t=804s"
+                }
+            ]
+        },
+        {
+            "user": "UNM35TFNZ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569864205.001000",
+            "text": "<@UNM35TFNZ> has joined the channel"
+        },
+        {
+            "client_msg_id": "be26ef1d-50dd-4522-bbd5-19ab0084f7e8",
+            "type": "message",
+            "text": "made a <#CNUU2RRFF|concerts> channel if y'all are interested in going to music events or concerts together :slightly_smiling_face:",
+            "user": "UNM34JWAC",
+            "ts": "1569708322.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNM34JWAC",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569708230.000200",
+            "text": "<@UNM34JWAC> has joined the channel"
+        },
+        {
+            "client_msg_id": "E18455B1-C52C-4C66-9166-9BFAD8ADE7F5",
+            "type": "message",
+            "text": "Jesus is king 8pm??",
+            "user": "UG0BDKNPR",
+            "ts": "1569618187.002300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "UNLJSUBA8",
+                        "U7GB5CTNY",
+                        "U7F1RLY2C"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "billed_cap",
+                    "users": [
+                        "U7GB5CTNY",
+                        "U7GA9464W",
+                        "U7F1RLY2C"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "user": "U9542L21Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569615985.001800",
+            "text": "<@U9542L21Y> has joined the channel"
+        },
+        {
+            "client_msg_id": "2AD34DEE-582A-4DA1-9E59-8DBFBADE7B90",
+            "type": "message",
+            "text": "they sold out big L",
+            "user": "UNLJSUBA8",
+            "ts": "1569614344.001300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569614020.000800",
+            "parent_user_id": "UNLJSUBA8",
+            "reactions": [
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "UN89RAQM8"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "94332778-B313-4DC2-83DA-B8B20B21B41C",
+            "type": "message",
+            "text": "<https:\/\/www1.ticketmaster.com\/jesus-is-king-a-kanye-west-detroit-michigan-09-27-2019\/event\/0800573AE089650B> another free kanye thing tn",
+            "user": "UNLJSUBA8",
+            "ts": "1569614020.000800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569614020.000800",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1569614344.001300",
+            "reply_users": [
+                "UNLJSUBA8"
+            ],
+            "replies": [
+                {
+                    "user": "UNLJSUBA8",
+                    "ts": "1569614344.001300"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "3FE7B9D4-B98B-4541-902E-3E8DF0ADC8FE",
+            "type": "message",
+            "text": "Still can\u2019t believe Disney ripped off ODB\u2019s voice for Pluto :disappointed:",
+            "user": "U94B65R6U",
+            "ts": "1569511145.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "type": "message",
+            "text": "<https:\/\/open.spotify.com\/user\/spotify\/playlist\/37i9dQZF1DWWBHeXOYZf74?si=c8hth0BUTCeDsEDrg9gAvA>\n\nDopest playlist i\u2019ve heard in a while",
+            "user": "U7F1RLY2C",
+            "ts": "1569511108.000100",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "POLLEN",
+                    "title_link": "https:\/\/open.spotify.com\/user\/spotify\/playlist\/37i9dQZF1DWWBHeXOYZf74?si=c8hth0BUTCeDsEDrg9gAvA",
+                    "thumb_url": "https:\/\/pl.scdn.co\/images\/pl\/default\/0fc9da9cee239a419d42f99c08f7ef80aa11a37d",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: POLLEN",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: POLLEN\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/37i9dQZF1DWWBHeXOYZf74?si=c8hth0BUTCeDsEDrg9gAvA\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/user\/spotify\/playlist\/37i9dQZF1DWWBHeXOYZf74?si=c8hth0BUTCeDsEDrg9gAvA",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/user\/spotify\/playlist\/37i9dQZF1DWWBHeXOYZf74?si=c8hth0BUTCeDsEDrg9gAvA"
+                }
+            ]
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569445821.001600",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "client_msg_id": "b2746584-2564-4444-a0d1-ce0c04bfbf82",
+            "type": "message",
+            "text": "all out :disappointed:",
+            "user": "U7GA9464W",
+            "ts": "1569361613.001200",
+            "team": "T4XRFB7FF",
+            "edited": {
+                "user": "U7GA9464W",
+                "ts": "1569361878.000000"
+            },
+            "reactions": [
+                {
+                    "name": "cry",
+                    "users": [
+                        "UNLJSUBA8"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "285F961C-9494-4393-AE1B-F5C87C1A648F",
+            "type": "message",
+            "text": "<https:\/\/ticketlocity.com\/event\/view\/kanyewest-sundayservice>",
+            "user": "UG0BDKNPR",
+            "ts": "1569361537.000800",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "title": "Kanye West Sunday Service At TBD | Detroit,MI,USA By Kanye West Sunday Service",
+                    "title_link": "https:\/\/ticketlocity.com\/event\/view\/kanyewest-sundayservice",
+                    "text": "This will serve as your",
+                    "fallback": "Kanye West Sunday Service At TBD | Detroit,MI,USA By Kanye West Sunday Service",
+                    "thumb_url": "https:\/\/ticketlocity.com\/upload\/event\/orig\/project_27806.jpeg",
+                    "from_url": "https:\/\/ticketlocity.com\/event\/view\/kanyewest-sundayservice",
+                    "thumb_width": 847,
+                    "thumb_height": 357,
+                    "service_icon": "https:\/\/ticketlocity.com\/admin_images\/298icon.png",
+                    "service_name": "ticketlocity.com",
+                    "id": 1,
+                    "original_url": "https:\/\/ticketlocity.com\/event\/view\/kanyewest-sundayservice"
+                }
+            ]
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569278387.005500",
+            "text": "<@UN89RAQM8> has joined the channel"
+        },
+        {
+            "client_msg_id": "988a7296-eb02-4317-805f-7612c489f36d",
+            "type": "message",
+            "text": "Strfkr and Phoenix are prime autumn too imo",
+            "user": "U7H8W4631",
+            "ts": "1569250200.004800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "31dabc75-6dc4-447f-be83-fb2657ec0217",
+            "type": "message",
+            "text": "try some of those",
+            "user": "UFZ6CG58B",
+            "ts": "1569245734.004200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "40ffe101-ae5c-4feb-afac-0ff5b6a1616f",
+            "type": "message",
+            "text": "thats just off the top of my head",
+            "user": "UFZ6CG58B",
+            "ts": "1569245731.004000",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "86f2395c-10ac-46af-bfd9-71908c4d02c1",
+            "type": "message",
+            "text": "U need some Cold War Kids, Arlie, Briston Maroney, Glass Animals, Vulfpeck, Dennis Lloyd, noMBe, Jacob Banks, Foreign Air, Bishop Briggs, Snail Mail, Shakey Graves, MT Joy, Alabama Shakes, The Tallest Man on Earth, Alt-J, Vance Joy, RKS, Generationalists, Geographer, CAtfish and Bottlmen, M Ward, Julien Baker",
+            "user": "UFZ6CG58B",
+            "ts": "1569245725.003800",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "3B20D3EA-0008-432A-803A-69CAD5AF875D",
+            "type": "message",
+            "text": "Adding to playlist lol perfect ",
+            "user": "U7CUU7293",
+            "ts": "1569245657.003600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "E0AD0B73-3132-4347-A2F1-B4E2B0BD5A51",
+            "type": "message",
+            "text": "The monster mash ",
+            "user": "U94EEKF3K",
+            "ts": "1569245623.003200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7C7E4E0Y",
+                        "UFZ6CG58B",
+                        "U7GA9464W",
+                        "U7F1RLY2C",
+                        "U7H8W4631",
+                        "UD7SGH4FR",
+                        "UD70WD9QV"
+                    ],
+                    "count": 7
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ac92e0db-6d80-42a1-9769-b007eb33ac1f",
+            "type": "message",
+            "text": "kk so alt pop",
+            "user": "UFZ6CG58B",
+            "ts": "1569245477.002900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "449BED1C-1573-41A8-8D37-BD42242CC4AF",
+            "type": "message",
+            "text": "Current playlist, debating adding and deleting stuff ",
+            "user": "U7CUU7293",
+            "ts": "1569245417.002700",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FNA9QDJSF",
+                    "created": 1569245407,
+                    "timestamp": 1569245407,
+                    "name": "Image from iOS.png",
+                    "title": "Image from iOS",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U7CUU7293",
+                    "editable": false,
+                    "size": 679703,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNA9QDJSF\/image_from_ios.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNA9QDJSF\/download\/image_from_ios.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_360.png",
+                    "thumb_360_w": 166,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_480.png",
+                    "thumb_480_w": 222,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_720.png",
+                    "thumb_720_w": 333,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1731,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_960.png",
+                    "thumb_960_w": 444,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNA9QDJSF-7e7f7de03d\/image_from_ios_1024.png",
+                    "thumb_1024_w": 473,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1242,
+                    "original_h": 2688,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U7CUU7293\/FNA9QDJSF\/image_from_ios.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNA9QDJSF-912936ea8a",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U7CUU7293",
+            "display_as_bot": false,
+            "ts": "1569245412.002200",
+            "client_msg_id": "448AA280-6C72-4DCA-99BA-46A4218EAE18",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "7aa783e7-7347-4af5-9272-493d81b5eb9c",
+            "type": "message",
+            "text": "so like indie music?",
+            "user": "UFZ6CG58B",
+            "ts": "1569245263.001300",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "parent_user_id": "U7CUU7293"
+        },
+        {
+            "client_msg_id": "6A142C2B-604F-4773-A251-F6377B06D66D",
+            "type": "message",
+            "text": "Tryna make an autumn themed playlist to get in the seasonal mood, suggestions? ",
+            "user": "U7CUU7293",
+            "ts": "1569245151.001200",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1569245151.001200",
+            "reply_count": 10,
+            "reply_users_count": 4,
+            "latest_reply": "1569250200.004800",
+            "reply_users": [
+                "UFZ6CG58B",
+                "U7CUU7293",
+                "U94EEKF3K",
+                "U7H8W4631"
+            ],
+            "replies": [
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569245263.001300"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1569245412.002200"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1569245417.002700"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569245477.002900"
+                },
+                {
+                    "user": "U94EEKF3K",
+                    "ts": "1569245623.003200"
+                },
+                {
+                    "user": "U7CUU7293",
+                    "ts": "1569245657.003600"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569245725.003800"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569245731.004000"
+                },
+                {
+                    "user": "UFZ6CG58B",
+                    "ts": "1569245734.004200"
+                },
+                {
+                    "user": "U7H8W4631",
+                    "ts": "1569250200.004800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "user": "UNLJSUBA8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569204503.000500",
+            "text": "<@UNLJSUBA8> has joined the channel"
+        },
+        {
+            "user": "UNLJT0A2G",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1569194467.000200",
+            "text": "<@UNLJT0A2G> has joined the channel"
+        },
+        {
+            "client_msg_id": "b1ffe29f-d3d5-43bb-bab9-149c73a01323",
+            "type": "message",
+            "text": "Brilliant stuff off the new Lumineers album. Great sound mixing. \n<https:\/\/open.spotify.com\/track\/5EKqsMU2tn1iAYNQF8h0ll?si=D3YdubWGRwSm3dMeH7bCkA>",
+            "user": "U7C5RPUTS",
+            "ts": "1569123860.002200",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "Spotify",
+                    "service_url": "https:\/\/www.spotify.com",
+                    "title": "Salt And The Sea",
+                    "title_link": "https:\/\/open.spotify.com\/track\/5EKqsMU2tn1iAYNQF8h0ll?si=D3YdubWGRwSm3dMeH7bCkA",
+                    "thumb_url": "https:\/\/i.scdn.co\/image\/82d567fc5bf119bc541762f2333fb13161eeb7fb",
+                    "thumb_width": 300,
+                    "thumb_height": 300,
+                    "fallback": "Spotify Audio: Salt And The Sea",
+                    "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Salt And The Sea\" src=\"https:\/\/open.spotify.com\/embed\/track\/5EKqsMU2tn1iAYNQF8h0ll?si=D3YdubWGRwSm3dMeH7bCkA\"><\/iframe>",
+                    "audio_html_width": 300,
+                    "audio_html_height": 380,
+                    "from_url": "https:\/\/open.spotify.com\/track\/5EKqsMU2tn1iAYNQF8h0ll?si=D3YdubWGRwSm3dMeH7bCkA",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                    "id": 1,
+                    "original_url": "https:\/\/open.spotify.com\/track\/5EKqsMU2tn1iAYNQF8h0ll?si=D3YdubWGRwSm3dMeH7bCkA"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Mike rn",
+            "files": [
+                {
+                    "id": "FNLKA2A5T",
+                    "created": 1569083721,
+                    "timestamp": 1569083721,
+                    "name": "FB_IMG_1569083694407.jpg",
+                    "title": "FB_IMG_1569083694407.jpg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U9628B2GP",
+                    "editable": false,
+                    "size": 47734,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNLKA2A5T\/fb_img_1569083694407.jpg",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T4XRFB7FF-FNLKA2A5T\/download\/fb_img_1569083694407.jpg",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_64.jpg",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_80.jpg",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_360.jpg",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 338,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_480.jpg",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 451,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_160.jpg",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_720.jpg",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 677,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T4XRFB7FF-FNLKA2A5T-67ba0cbc4c\/fb_img_1569083694407_800.jpg",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 752,
+                    "image_exif_rotation": 1,
+                    "original_w": 828,
+                    "original_h": 778,
+                    "permalink": "https:\/\/ktpumich.slack.com\/files\/U9628B2GP\/FNLKA2A5T\/fb_img_1569083694407.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T4XRFB7FF-FNLKA2A5T-d1cda74e5e",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "U9628B2GP",
+            "display_as_bot": false,
+            "ts": "1569083722.000600",
+            "client_msg_id": "f49243e2-035f-4d02-885f-737b34fa227d",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U94B65R6U",
+                        "UFZ9HLD0S",
+                        "U95S2KBHC",
+                        "U7H8W4631",
+                        "U7J5KJW13"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "97157FB6-626C-4BDC-BAD1-9CF6938F65D4",
+            "type": "message",
+            "text": "Help I like prog metal",
+            "user": "U94B65R6U",
+            "ts": "1569076835.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "138E4626-41C3-42B0-ACD8-6A0B2D8AF6EC",
+            "type": "message",
+            "text": "BRING PING PONG BALLS IF YOU CAN TONIGHT <!channel> ",
+            "user": "U7F1RLY2C",
+            "ts": "1569025489.002100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "10bd616a-af57-4fa6-9bba-b313e7b703ab",
+            "type": "message",
+            "text": "<https:\/\/youtu.be\/kVbqlL6CUOU>",
+            "user": "U9628B2GP",
+            "ts": "1569009019.001900",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "Lil Nas X - Rodeo [EPIC METAL COVER] (Little V)",
+                    "title_link": "https:\/\/youtu.be\/kVbqlL6CUOU",
+                    "author_name": "LittleVMills",
+                    "author_link": "https:\/\/www.youtube.com\/user\/LittleVMills",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/kVbqlL6CUOU\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Lil Nas X - Rodeo [EPIC METAL COVER] (Little V)",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kVbqlL6CUOU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/youtu.be\/kVbqlL6CUOU",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/youtu.be\/kVbqlL6CUOU"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7b545b9d-71b8-49f3-a445-88af007bdac2",
+            "type": "message",
+            "text": "beautiful",
+            "user": "UG0BDKNPR",
+            "ts": "1568924076.001600",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1568923966.001400",
+            "parent_user_id": "U962G13QX"
+        },
+        {
+            "client_msg_id": "a554c455-7377-489b-8f79-cc45214f6882",
+            "type": "message",
+            "text": "what do you guys think of tyler's new video??? <https:\/\/www.youtube.com\/watch?v=9JQDPjpfiGw>",
+            "user": "U962G13QX",
+            "ts": "1568923966.001400",
+            "team": "T4XRFB7FF",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "A BOY IS A GUN*",
+                    "title_link": "https:\/\/www.youtube.com\/watch?v=9JQDPjpfiGw",
+                    "author_name": "Tyler, The Creator",
+                    "author_link": "https:\/\/www.youtube.com\/channel\/UCsQBsZJltmLzlsJNG7HevBg",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/9JQDPjpfiGw\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: A BOY IS A GUN*",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9JQDPjpfiGw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/www.youtube.com\/watch?v=9JQDPjpfiGw",
+                    "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.youtube.com\/watch?v=9JQDPjpfiGw"
+                }
+            ],
+            "thread_ts": "1568923966.001400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1568924076.001600",
+            "reply_users": [
+                "UG0BDKNPR"
+            ],
+            "replies": [
+                {
+                    "user": "UG0BDKNPR",
+                    "ts": "1568924076.001600"
+                }
+            ],
+            "subscribed": false
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}
