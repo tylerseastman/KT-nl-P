@@ -1,0 +1,701 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "user": "UNLJSV2NQ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1571427096.000200",
+            "text": "<@UNLJSV2NQ> has joined the channel"
+        },
+        {
+            "client_msg_id": "530EF48F-6CC2-4DB0-AE70-95E03CAEAF7D",
+            "type": "message",
+            "text": "Not necessarily ~studying~ but I\u2019m in the dude video game archive for a class if anyone wants to join me and hangout:)",
+            "user": "UD7SGH4FR",
+            "ts": "1571340607.000800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "fd675baf-85c4-47bc-aeb9-536d128d2ffa",
+            "type": "message",
+            "text": "Anyone studying on north?",
+            "user": "U94E1MRR7",
+            "ts": "1571243124.000300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UNLJSUDM2",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570727487.000200",
+            "text": "<@UNLJSUDM2> has joined the channel"
+        },
+        {
+            "client_msg_id": "e0c1ba2b-a8b2-4a84-8838-c5ac2b567066",
+            "type": "message",
+            "text": "i\u2019m in the ugli on the first floor (why, good question, it\u2019s hell) but i have one of those funky new couch things with a big table if anyone wants to join me",
+            "user": "U7J0HDV8B",
+            "ts": "1570664295.001100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "62D1FBCD-475B-4D73-B4AB-16F40A6A186F",
+            "type": "message",
+            "text": "anyone studying somewhere? ",
+            "user": "U962G13QX",
+            "ts": "1570650435.000400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "767EF503-71D1-44B3-A628-4480C38F829C",
+            "type": "message",
+            "text": "I\u2019m in stacks now but I might ugli later ",
+            "user": "U7EKJT35Y",
+            "ts": "1570125688.002200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "691f246a-01dc-46a6-95b1-7f8153382089",
+            "type": "message",
+            "text": "Ugli push",
+            "user": "U94E1MRR7",
+            "ts": "1570125650.001800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "7E9AE658-5912-4023-B92B-0238D883B998",
+            "type": "message",
+            "text": "Omg it\u2019s closed how ",
+            "user": "U7EKJT35Y",
+            "ts": "1570124833.001500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1A7134CB-497F-4CC9-9A91-767CEE752432",
+            "type": "message",
+            "text": "Roll thruzies",
+            "user": "U7EKJT35Y",
+            "ts": "1570122765.001200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "A2CA58F2-0CE6-4843-B38D-AC6AE313DB11",
+            "type": "message",
+            "text": "I will once again be in hatcher ref room",
+            "user": "U7EKJT35Y",
+            "ts": "1570122757.001000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "58148B19-59D0-4DA7-B513-3193F2A14C8D",
+            "type": "message",
+            "text": "I will not let this die ",
+            "user": "U7EKJT35Y",
+            "ts": "1570122745.000600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "515be491-a621-4b27-b8ac-4783b921a2e8",
+            "type": "message",
+            "text": "throwback to the Playbook app",
+            "user": "U7GB5CTNY",
+            "ts": "1570117616.000200",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U962G13QX",
+                        "U94E1MRR7"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "U7FS1HMDJ",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570076788.017000",
+            "text": "<@U7FS1HMDJ> has joined the channel"
+        },
+        {
+            "user": "UNM34K1FA",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570068482.016800",
+            "text": "<@UNM34K1FA> has joined the channel"
+        },
+        {
+            "user": "U7GB5CTNY",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570064152.016600",
+            "text": "<@U7GB5CTNY> has joined the channel"
+        },
+        {
+            "user": "UD7SGH4FR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570062525.016400",
+            "text": "<@UD7SGH4FR> has joined the channel"
+        },
+        {
+            "user": "UD70YDRJ9",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570061658.015800",
+            "text": "<@UD70YDRJ9> has joined the channel"
+        },
+        {
+            "user": "UD6KPRFHS",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570061129.015600",
+            "text": "<@UD6KPRFHS> has joined the channel"
+        },
+        {
+            "user": "UN89RAQM8",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570061026.015200",
+            "text": "<@UN89RAQM8> has joined the channel"
+        },
+        {
+            "user": "UFZ9GSZEW",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570060993.015000",
+            "text": "<@UFZ9GSZEW> has joined the channel"
+        },
+        {
+            "user": "U94E1MRR7",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570060993.014800",
+            "text": "<@U94E1MRR7> has joined the channel"
+        },
+        {
+            "user": "UN9JL25AP",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570060808.014600",
+            "text": "<@UN9JL25AP> has joined the channel"
+        },
+        {
+            "user": "UFYHF39PA",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570060785.014400",
+            "text": "<@UFYHF39PA> has joined the channel"
+        },
+        {
+            "client_msg_id": "d224b57b-34a1-470b-8c40-c9738fbc6b00",
+            "type": "message",
+            "text": "starting to fill up tho",
+            "user": "U7EKJT35Y",
+            "ts": "1570059638.014100",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "286ecbdc-6c03-470f-af98-3845bf704719",
+            "type": "message",
+            "text": "backpack placed",
+            "user": "U7EKJT35Y",
+            "ts": "1570059634.013900",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U7DUZ8FGF",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "EA92719E-7582-408B-AFB0-82F2DEA71EEA",
+            "type": "message",
+            "text": "i'll be there in 30-40",
+            "user": "U7DUZ8FGF",
+            "ts": "1570059626.013700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "AB4063D7-9893-4812-9991-8D98788443E2",
+            "type": "message",
+            "text": "prach save me a seat near you",
+            "user": "U7DUZ8FGF",
+            "ts": "1570059619.013400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "07f8a033-31cf-441d-b35c-7c2e2876fe43",
+            "type": "message",
+            "text": "ok im actually gonna do work now bye",
+            "user": "U7EKJT35Y",
+            "ts": "1570059605.013000",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "UN9JL20MR",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "e51855ed-8dae-4706-a7e7-6c31ba42402c",
+            "type": "message",
+            "text": "hi roland",
+            "user": "U7EKJT35Y",
+            "ts": "1570059593.012700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "a67c9ebf-483c-47fa-aa92-f3dbfe667c51",
+            "type": "message",
+            "text": "update roland is sitting directly behind me and is angry",
+            "user": "U7EKJT35Y",
+            "ts": "1570059578.012500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c04702f1-3fc9-47ad-981d-7aee2fbab2cd",
+            "type": "message",
+            "text": "yea it was fake cause i had to take a dump chill outtttttt",
+            "user": "UN9JL20MR",
+            "ts": "1570059556.012100",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ultrafastparrot",
+                    "users": [
+                        "U7EKJT35Y",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "85bb1242-6186-4864-8dd0-bbf010b10858",
+            "type": "message",
+            "text": "was the pee fake",
+            "user": "U7EKJT35Y",
+            "ts": "1570059521.011000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "101a4144-8fd2-49ac-8614-4add543c3e4a",
+            "type": "message",
+            "text": "good looks prachi",
+            "user": "UN9JL20MR",
+            "ts": "1570059514.010600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "f03da818-2f18-4d76-bddb-7ab0ff6bd60a",
+            "type": "message",
+            "text": "roland did u avoid me",
+            "user": "U7EKJT35Y",
+            "ts": "1570059510.010300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U7J5KJW13",
+                        "U7H8W4631"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "UN9JL20MR",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059490.010000",
+            "text": "<@UN9JL20MR> has joined the channel"
+        },
+        {
+            "user": "U7DUZ8FGF",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059473.009800",
+            "text": "<@U7DUZ8FGF> has joined the channel"
+        },
+        {
+            "user": "UG0NSJJQ6",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059405.009600",
+            "text": "<@UG0NSJJQ6> has joined the channel"
+        },
+        {
+            "client_msg_id": "1debed16-430b-4d75-affb-dbb0fae30c52",
+            "type": "message",
+            "text": "peace out g scout",
+            "user": "U7EKJT35Y",
+            "ts": "1570059372.009400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "e24b3159-c311-4548-a34f-9c93b2bcea02",
+            "type": "message",
+            "text": "ok this is now anti study distract but join me if u dare",
+            "user": "U7EKJT35Y",
+            "ts": "1570059368.009200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "a1d44788-5a53-4808-a347-9770cf1e98ab",
+            "type": "message",
+            "text": "stop flanagging me",
+            "user": "U7EKJT35Y",
+            "ts": "1570059343.008800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "db9a7e22-6b6b-4e35-848c-6b2bf56451a8",
+            "type": "message",
+            "text": "i love a good mexican flanag",
+            "user": "U7EKJT35Y",
+            "ts": "1570059333.008500",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "ricky",
+                    "users": [
+                        "U7DUZ8FGF"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "ricky_parrot",
+                    "users": [
+                        "U7DUZ8FGF"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "flag-mx",
+                    "users": [
+                        "U7DUZ8FGF"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ea77a7fe-e2c6-4e4d-90a6-b719605ebe51",
+            "type": "message",
+            "text": "i like that ahhaha",
+            "user": "UG0CA18MN",
+            "ts": "1570059333.008400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "2c01dce5-d52d-4ef4-a0af-9a697cf60b20",
+            "type": "message",
+            "text": "hahahahah",
+            "user": "UG0CA18MN",
+            "ts": "1570059330.008200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "77eba328-b0e9-4f18-b8a5-9fbe18a4a686",
+            "type": "message",
+            "text": "wave ur flanag",
+            "user": "U7EKJT35Y",
+            "ts": "1570059326.007900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "64a1df3b-aabf-4dd4-a745-c825870f45e2",
+            "type": "message",
+            "text": "FLANAG",
+            "user": "U7EKJT35Y",
+            "ts": "1570059318.007600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "afc347e9-97bb-42bd-828d-d088716a7d64",
+            "type": "message",
+            "text": "get it right",
+            "user": "UG0CA18MN",
+            "ts": "1570059315.007400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "fee742b4-793b-4e1e-a9de-943f2a19ea51",
+            "type": "message",
+            "text": "ok this is distracting now",
+            "user": "U7EKJT35Y",
+            "ts": "1570059314.007300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "49b65cac-03f3-40a1-aecd-eb434728fdd4",
+            "type": "message",
+            "text": "it\u2019s mflanag to you",
+            "user": "U7H8W4631",
+            "ts": "1570059313.007200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "81238857-14c7-457d-a7bc-901c09b3fe50",
+            "type": "message",
+            "text": "god",
+            "user": "UG0CA18MN",
+            "ts": "1570059312.007000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "99c3acf9-6833-4387-8b2d-b82faef37fbb",
+            "type": "message",
+            "text": "*mflanag",
+            "user": "UG0CA18MN",
+            "ts": "1570059310.006700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "b36cf3ea-2493-4838-8aa3-179d3761ad04",
+            "type": "message",
+            "text": "hi flanag",
+            "user": "U7EKJT35Y",
+            "ts": "1570059305.006400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UG0CA18MN",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059295.006000",
+            "text": "<@UG0CA18MN> has joined the channel"
+        },
+        {
+            "client_msg_id": "a1d4e6dd-5bed-4262-93bc-16c489da27e2",
+            "type": "message",
+            "text": "LOL",
+            "user": "U7H8W4631",
+            "ts": "1570059291.005600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "e4e9dbbb-2e65-42fc-81c5-cd00d19f8c00",
+            "type": "message",
+            "text": "oh wait he said hi",
+            "user": "U7H8W4631",
+            "ts": "1570059289.005400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "de327697-3f4f-4a8a-9c62-bc67478c8688",
+            "type": "message",
+            "text": "i dont believe the pee",
+            "user": "U7EKJT35Y",
+            "ts": "1570059288.005300",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "sweat_drops",
+                    "users": [
+                        "U7H8W4631"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "008eef17-c2bd-4a51-9d5d-84152da784b4",
+            "type": "message",
+            "text": "like he said hi then \"went to the bathroom\"",
+            "user": "U7EKJT35Y",
+            "ts": "1570059285.004900",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "0eb021da-7faf-4066-8976-89b9dc6b5bfb",
+            "type": "message",
+            "text": "d r o p",
+            "user": "U7H8W4631",
+            "ts": "1570059274.004500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "c9c1de2a-6d02-4e37-b068-7c80bece7265",
+            "type": "message",
+            "text": "im not offended",
+            "user": "U7EKJT35Y",
+            "ts": "1570059271.004300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8da8e5be-ecc5-4a74-b8d4-3c3caa19ee38",
+            "type": "message",
+            "text": "also roland just saw me and def avoided me but its fine",
+            "user": "U7EKJT35Y",
+            "ts": "1570059267.004100",
+            "team": "T4XRFB7FF",
+            "reactions": [
+                {
+                    "name": "sadboi_parrot",
+                    "users": [
+                        "U7H8W4631",
+                        "UD6775W9F"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "UD6QWDBMY",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059264.003900",
+            "text": "<@UD6QWDBMY> has joined the channel"
+        },
+        {
+            "client_msg_id": "9d560c02-7133-482a-b282-a49e472a4cd7",
+            "type": "message",
+            "text": "i will be at hatcher until probs 2 am",
+            "user": "U7EKJT35Y",
+            "ts": "1570059254.003500",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7J5KJW13",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059219.003200",
+            "text": "<@U7J5KJW13> has joined the channel"
+        },
+        {
+            "user": "U962G13QX",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059205.003000",
+            "text": "<@U962G13QX> has joined the channel"
+        },
+        {
+            "client_msg_id": "bd06252b-05b0-4942-ae5d-ffc14a165717",
+            "type": "message",
+            "text": "thats not <#CNZRKUDM3|study> go to <#CL58F5B7T|food>",
+            "user": "U7EKJT35Y",
+            "ts": "1570059179.002800",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7J0HDV8B",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059174.002600",
+            "text": "<@U7J0HDV8B> has joined the channel"
+        },
+        {
+            "client_msg_id": "0c412723-ec9f-4960-b51e-bdf38c39d8ba",
+            "type": "message",
+            "text": "im silent studying",
+            "user": "U7EKJT35Y",
+            "ts": "1570059170.002300",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "912504F5-AB94-478C-A0C4-5BDE5B156B32",
+            "type": "message",
+            "text": "Nah getting sushi ",
+            "user": "U7CUU7293",
+            "ts": "1570059169.002200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "UD6775W9F",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059166.002000",
+            "text": "<@UD6775W9F> has joined the channel"
+        },
+        {
+            "client_msg_id": "4ce71ec5-f2b4-4ed6-a2c3-37ad890e3177",
+            "type": "message",
+            "text": "let\u2019s get this bread folks",
+            "user": "U7H8W4631",
+            "ts": "1570059166.001700",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "1f1bd6f6-04a6-4a0b-8d29-31a589ea8e6b",
+            "type": "message",
+            "text": "ref room",
+            "user": "U7EKJT35Y",
+            "ts": "1570059166.001600",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "8322d1d3-e072-4723-9c92-d18631818523",
+            "type": "message",
+            "text": "roll thru hatcher",
+            "user": "U7EKJT35Y",
+            "ts": "1570059163.001400",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "cacc7e58-a746-4331-88a9-8783bbd54779",
+            "type": "message",
+            "text": "YEET",
+            "user": "U7H8W4631",
+            "ts": "1570059162.001200",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "client_msg_id": "887F50C3-C298-4F66-8ECD-5B5BE7C4B7F9",
+            "type": "message",
+            "text": "lol ",
+            "user": "U7CUU7293",
+            "ts": "1570059160.001000",
+            "team": "T4XRFB7FF"
+        },
+        {
+            "user": "U7H8W4631",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059160.000900",
+            "text": "<@U7H8W4631> has joined the channel"
+        },
+        {
+            "user": "U7CUU7293",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059155.000500",
+            "text": "<@U7CUU7293> has joined the channel"
+        },
+        {
+            "user": "U7EKJT35Y",
+            "type": "message",
+            "subtype": "channel_purpose",
+            "ts": "1570059131.000300",
+            "text": "<@U7EKJT35Y> set the channel purpose: lets grind bros",
+            "purpose": "lets grind bros"
+        },
+        {
+            "user": "U7EKJT35Y",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1570059131.000200",
+            "text": "<@U7EKJT35Y> has joined the channel"
+        }
+    ],
+    "has_more": false,
+    "is_limited": false,
+    "pin_count": 0,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

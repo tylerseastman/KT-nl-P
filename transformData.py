@@ -11,6 +11,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+
 nltk.download('stopwords')
 stopwords.words('english')
 lemmatizer = WordNetLemmatizer()
@@ -79,7 +80,6 @@ clf = MultinomialNB()
 print(X_counts[0:2250])
 buildModel= clf.fit(X_counts[0:2250], df['User ID'][0:2250])
 y_pred = buildModel.predict(X_counts[2250:])
-
 print(np.mean(y_pred == df['User ID'][2250:]))
 
 

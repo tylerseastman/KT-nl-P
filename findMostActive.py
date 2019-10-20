@@ -3,7 +3,7 @@ import numpy as np
 import os
 from collections import Counter 
 
-def main(): 
+def mostActive(): 
     freq = {}
 
     dirs = os.listdir("data")
@@ -42,7 +42,6 @@ def main():
     for x in ids:
         print(x)
 
-main()
 
 
 
