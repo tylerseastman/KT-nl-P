@@ -1,9 +1,10 @@
 import requests 
+import json
 
 token = "???"
 
 def makeRequestURL(method, parametersList):
-    url = "https://slack.com/api/" + method + "token=" + token
+    url = "https://slack.com/api/" + method + "?token=" + token
 
     parametersList = map(lambda param: "&" + param, parametersList)
 
@@ -21,9 +22,27 @@ def main():
 
     url = makeRequestURL(method, parametersList)
 
-    html = requests.get(url)
+    response = requests.get(url)
 
-    print(html)
+    channels = json.loads(response.content)['channels']
+    channelIds = []
+    responses = []
+    for channel in channels:
+        channelIds.append(channel['id'])
+    method = "channels.history"
+    for channel in channelIds:
+        parametersList = ["channel=" + channel]
+        url = makeRequestURL(method, parametersList)
+        response = requests.get(url)
+        print(response.content)
+
+
+
+    
+
+    print(responses)
+
+
 
 main()
 
