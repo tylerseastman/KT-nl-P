@@ -26,23 +26,24 @@ def main():
 
     channels = json.loads(response.content)['channels']
     channelIds = []
-    responses = []
+
     for channel in channels:
         channelIds.append(channel['id'])
+
+    messages = {}
     method = "channels.history"
     for channel in channelIds:
         parametersList = ["channel=" + channel]
         url = makeRequestURL(method, parametersList)
-        response = requests.get(url)
-        print(response.content)
+        responseJSON = json.loads(requests.get(url).content)
+        for message in responseJSON['messages']:
+            if("client_msg_id" in message and 'text' in message and 'user' in message):
+                messages[message["client_msg_id"]] = (message['text'], message['user'])
 
+    print(messages)
 
-
-    
-
-    print(responses)
-
-
+# TODO: add time wait before refreshing inventory of messages
+# TODO: check to see if message is already in dictionary
 
 main()
 
