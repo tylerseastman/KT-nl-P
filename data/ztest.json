@@ -1,0 +1,14 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "CD6690D5-6887-432E-88CE-E9DAA78330F6",
+            "type": "channel",
+            "text": "constitution",
+            "user": "U7EKJT35Y",
+            "ts": "1570489219.003900",
+            "team": "T4XRFB7FF",
+            "thread_ts": "1570394038.002600",
+            "parent_user_id": "U7C7E4E0Y"
+        }]
+}

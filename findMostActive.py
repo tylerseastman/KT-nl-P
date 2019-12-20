@@ -3,11 +3,10 @@ import numpy as np
 import os
 from collections import Counter 
 
-def mostActive(): 
+def mostActive(n): 
     freq = {}
 
     dirs = os.listdir("data")
-    print(dirs)
     users = json.loads(open('./users.json').read())
 
     for fileName in dirs:
@@ -22,26 +21,24 @@ def mostActive():
                 freq[message['user']] = 1
 
     k = Counter(freq)
-    n = 10
-    high = k.most_common(10) 
+    high = k.most_common(n) 
 
-    print("Top " + str(n) + " Posters in Random")
+    # print("Top " + str(n) + " Posters in Random")
+    # for i in high:
+    #     print(i[0]," :",i[1]," ") 
+
+    userIds = []
     for i in high:
-        print(i[0]," :",i[1]," ") 
+        userIds.append(i[0])
 
-    ids = []
-    for i in high:
-        ids.append(i[0])
-
-
-    for i in range(len(ids)):
+    print(userIds)
+    
+    for i in range(len(userIds)):
         for user in users['members']:
-            if (ids[i] ==  user['id']):
-                ids[i] = user['real_name']
-
-    for x in ids:
-        print(x)
+            if (userIds[i] ==  user['id']):
+                userIds[i] = user['real_name']
 
 
+    return userIds
 
 
