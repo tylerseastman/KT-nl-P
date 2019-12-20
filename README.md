@@ -18,7 +18,7 @@ $ python3 transformData.py
 
 ## Running tests on current data
 
-If you run  
+By running the command
 ```
 $ python3 transformData.py
 ```
