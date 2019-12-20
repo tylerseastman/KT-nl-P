@@ -1,6 +1,6 @@
 # KT-nl-P
 
-A Naive Bayes Classifier for the Kappa Theta Pi fraternity's Slack channel messages. The dataset used is the most recent 1000 messages from all the channels when we first commenced the project. The project initially started at the KTP Hackathon and continued outside afterwards. 
+A Naive Bayes Classifier for the Kappa Theta Pi fraternity's Slack channel messages. The dataset used are the most recent 1000 messages from all the channels when we first commenced the project. The project initially started at the KTP Hackathon and continued outside afterwards. 
 
 ### Installing
 
