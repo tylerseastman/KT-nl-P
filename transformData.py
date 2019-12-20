@@ -19,7 +19,7 @@ from findMostActive import mostActive as mostActiveFunc
 stopwords.words('english')
 lemmatizer = WordNetLemmatizer()
 dirs = os.listdir("data")
-print(dirs)
+# print(dirs)
 # nltk.download('wordnet') Download Once
 # nltk.download('averaged_perceptron_tagger') Download Once
 
@@ -70,7 +70,7 @@ for fileName in sorted(dirs):
 
 df = pd.DataFrame(userMessages, columns = ['User ID', 'Text']) 
 
-print(df)
+print("Dataframe: \n", df, "\n\n")
 
 # print("count: " + str(count))
 
@@ -88,8 +88,8 @@ X_train_tf = tf_transformer.transform(X_counts)
 clf = MultinomialNB()
 buildModel= clf.fit(X_train_tf[0:600], df['User ID'][0:600])
 y_pred = buildModel.predict(X_train_tf[600:])
-print("Naive Bayes Accuracy:", np.mean(y_pred == df['User ID'][600:]))
-print(y_pred)
+print("Multinomial Naive Bayes Accuracy:", np.mean(y_pred == df['User ID'][600:]), "\n")
+# print(y_pred)
 # clf = svm.SVC(gamma='scale', decision_function_shape='ovo')
 # buildModel= clf.fit(X_counts[0:2250], df['User ID'][0:2250])
 # y_pred = buildModel.predict(X_counts[2250:])
@@ -99,8 +99,8 @@ print(y_pred)
 clf = tree.DecisionTreeClassifier()
 buildModel= clf.fit(X_train_tf[0:600], df['User ID'][0:600])
 y_pred = buildModel.predict(X_train_tf[600:])
-print(y_pred)
-print("Decision Tree Accuracy:", np.mean(y_pred == df['User ID'][600:]))
+# print(y_pred)
+print("Decision Tree Accuracy:", np.mean(y_pred == df['User ID'][600:]), "\n")
 # clf = MLPClassifier(solver='lbfgs', alpha=1e-5,
 #                     hidden_layer_sizes=(5, 2), random_state=1)
 # buildModel= clf.fit(X_counts[0:2250], df['User ID'][0:2250])
