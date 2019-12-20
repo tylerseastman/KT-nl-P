@@ -23,11 +23,11 @@ If you run
 $ python3 transformData.py
 ```
 
-3 sections will be printed to the terminal. The first section is the actual dataframe generated from all the json files of the 1000 Slack messages (stored under the ```data``` folder as json files) gathered across all the channels in the KTP Slack Workspace. The second and third are the prediction accuracies of using a [Multinomial Naive Bayes classifier] (https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html) and a [Decision Tree classifier] (http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) on the first 600 messages as training data, and the last 400 messages as testing data. 
+3 sections will be printed to the terminal. The first section is the actual dataframe generated from all the json files of the 1000 Slack messages (stored under the ```data``` folder as json files) gathered across all the channels in the KTP Slack Workspace. The second and third are the prediction accuracies of using a [Multinomial Naive Bayes classifier](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html) and a [Decision Tree classifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) on the first 600 messages as training data, and the last 400 messages as testing data. 
 
 ## Built With
 
-* [Slack API] (https://api.slack.com/) - Used to gather Slack Workspace and channel data
+* [Slack API](https://api.slack.com/) - Used to gather Slack Workspace and channel data
 * [ScKit](https://scikit-learn.org/stable/index.html) - Machine Learning Library used
 * [Natural Language Toolkit](https://www.nltk.org/) - Toolkit used to process the data, including lemmatization and removing stop-words
 
