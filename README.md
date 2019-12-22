@@ -35,4 +35,4 @@ $ python3 transformData.py
 
 * **Tyler Eastman** - [tylerseastman](https://github.com/tylerseastman)
 * **Shan Jiang** - [shanjng](https://github.com/shanjng)
-* **Rea Parocaran**
+* **Rea Parocaran** - [reaparocaran](https://github.com/reaparocaran)
