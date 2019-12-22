@@ -28,7 +28,7 @@ $ python3 transformData.py
 ## Built With
 
 * [Slack API](https://api.slack.com/) - Used to gather Slack Workspace and channel data
-* [ScKit](https://scikit-learn.org/stable/index.html) - Machine Learning Library used
+* [SciKit-Learn](https://scikit-learn.org/stable/index.html) - Machine Learning Library used
 * [Natural Language Toolkit](https://www.nltk.org/) - Toolkit used to process the data, including lemmatization and removing stop-words
 
 ## Authors
